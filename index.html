@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="page-heading">Todas Magias</h1>
+  <p id="spellSearch">Busca por Nome: <input type="search" class="jetsSearch" id="jetsSearch"></p>
+  <p id="tagSearch"><form>Busca por Tag: <input type="search" name="tagSearch" id="tagSearchBar" class="jetsSearch"></form></p>
+   <dl class="tag-list">
+    <dt>Nível da Magia:</dt>
+    {% for level in site.data.levels %}
+    <dd>
+      <a href="#{{level.tag}}">{{level.name}}</a>
+    </dd>
+    {% endfor %}
+  </dl>
+  {% for level in site.data.levels %}
+    <a id="{{level.tag}}"></a>
+    <h2 class="post-list-head jetsHide">{{level.title}}</h2>
+    <ul class="post-list jetsContent">
+      {% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
+      {% for post in post_list %}
+        <li data-tags="{{ post.tags | join: ',' }}">
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+    <a class="post-meta jetsHide" href="#top">Volta ao topo &#8593;</a>
+  {% endfor %}
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
