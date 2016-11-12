@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Ver o Invisível"
+date:   2016-11-09
+source: Manual Básico.217
+tags: [level2, bardo, feiticeiro, mago, adivinhacao]
 ---
 
-**Necromancia de Nível 1**
+**Adivinhação de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
@@ -18,4 +18,5 @@ tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necro
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você enxerga criaturas e objetos invisíveis como se fossem visíveis. As criaturas aparecem para você como formas translúcidas (assim você sabe que elas estão, na verdade, invisíveis).
+Ver o invisível não revela criaturas que estejam simplesmente escondida

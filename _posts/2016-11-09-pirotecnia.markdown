@@ -1,21 +1,24 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Pirotecnia
+date:   2016-11-09
+source: Manual Básico.202
+tags: [level2, bardo, feiticeiro, mago, fogo]
 ---
 
-**Necromancia de Nível 1**
+**Fogo de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 30 metros
 
-**Alvo**: Você
+**Alvo**: 1 chama
 
-**Duração**: 1 hora
+**Duração**: 1d4+1 rodadas
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Fortitude anula ou Vontade anula (veja texto)
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Pirotecnia transforma uma chama comum (tocha, lampião, fogueira...) em uma explosão de fogos de artifício ou nuvem de fumaça, à sua escolha.
+Se escolher fogos de artifício, todas as criaturas a até 30m da chama devem ser bem-sucedidas em um teste de Vontade ou fcam cegas por 1d4+1 rodadas.
+Se escolher fumaça, uma nuvem negra e espessa se forma até 6m a partir da chama. A nuvem obscurece toda a visão (como névoa) e força todos dentro dela a fazer um teste de Fortitude. 
+Falhar resulta em enjoo (só podem realizar uma ação padrão ou de movimento por rodada) que dura enquanto fcarem na névoa, e mais uma rodada.

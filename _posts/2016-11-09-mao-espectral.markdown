@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Mão Espectral"
+date:   2016-11-09
+source: Manual Básico.192
+tags: [level2, bardo, feiticeiro, mago, necromancia]
 ---
 
 **Necromancia de Nível 1**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 30 metros
 
-**Alvo**: Você
+**Efeito**: 1 mão espectarl
 
-**Duração**: 1 hora
+**Duração**: 10 minutos
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você usa sua própria força vital (sofrendo 1d4 pontos de dano) para criar uma mão brilhante e translúcida. A mão espectral é incorpórea, tem PV igual ao dano que você sofreu, CA 25 e resistências iguais às suas. 
+Ela voa com deslocamento de 9m. Enquanto a mão espectral durar, você pode lançar qualquer magia de toque através dela. A mão espectral tem bônus de ataque igual ao seu +2

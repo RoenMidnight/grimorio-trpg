@@ -1,21 +1,24 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Detectar Pensamentos"
+date:   2016-11-09
+source: Manual Básico.177
+tags: [level2, bardo, clerigo, druida, ranger, paladino, adivinhacao]
 ---
 
-**Necromancia de Nível 1**
+**Adivinhação de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 18 metros
 
-**Alvo**: Você
+**Alvo**: Emanação em Cone
 
-**Duração**: 1 hora
+**Duração**: Concentração, até 3 rodadas
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Vontade anula (veja texto)
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você detecta pensamentos superfciais (coisas que alguém esteja pensando naquele momento) de uma criatura inteligente, conforme a quantidade de rodadas que gastar se concentrando.
+Na primeira rodada, você percebe a presença de pensamentos na área (qualquer criatura com Int 1 ou mais); na segunda rodada, a quantidade de mentes e valor de Inteligência de cada uma; por fm, na terceira rodada, percebe os pensamentos superfciais de todas as mentes na área. 
+Uma criatura pode fazer um teste de Vontade para proteger seus pensamentos.
+Esta magia não atravessa barreiras que excedam 90cm de terra ou madeira, 30cm de pedra, 2,5cm de metal comum, ou uma folha fina de chumbo

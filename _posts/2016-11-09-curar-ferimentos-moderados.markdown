@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Curar Ferimentos Moderados"
+date:   2016-11-09
+source: Manual Básico.175
+tags: [level2, bardo, clerigo, druida, ranger, paladino, Cura]
 ---
 
-**Necromancia de Nível 1**
+**Cura de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: Toque
 
-**Alvo**: Você
+**Alvo**: 1 criatura
 
-**Duração**: 1 hora
+**Duração**: Instantânea
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você canaliza energia positiva que recupera 2d8+3 pontos de vida da criatura tocada. Como mortos-vivos usam energia negativa, esta magia causa dano a eles

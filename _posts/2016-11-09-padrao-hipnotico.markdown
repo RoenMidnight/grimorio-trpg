@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Padrão Hipnótico"
+date:   2016-11-09
+source: Manual Básico.199
+tags: [level2, bardo, feiticeiro, mago, ilusao]
 ---
 
-**Necromancia de Nível 1**
+**Ilusão de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 30 metros
 
-**Alvo**: Você
+**Área**: Dispersão com 3m de raio
 
-**Duração**: 1 hora
+**Duração**: Concentração +1 rodada, até 1 minuto;
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Vontade anula.
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Um caleidoscópio de luzes surge no ar, fascinando uma ou mais criaturas (totali zando 4d4 níveis). Criaturas com menos níveis são afetadas primeiro; entre criaturas com nível igual, as mais próximas do ponto de origem são afetadas primeiro. Esta magia não afeta criaturas cegas

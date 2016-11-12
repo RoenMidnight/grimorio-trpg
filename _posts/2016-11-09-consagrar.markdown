@@ -1,21 +1,23 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Consagrar"
+date:   2016-11-09
+source: Manual Básico.171
+tags: [level2, bardo, clerigo, druida, ranger, paladino, bem]
 ---
 
-**Necromancia de Nível 1**
+**Bem de Nível 2**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: Ação Completa
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Área**: emanação com 6m de raio
 
-**Duração**: 1 hora
+**Duração**: 1 dia
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Esta magia abençoa a área com energia positiva. Canalizar energia positiva na área aumenta em 50% o dano curado ou causado. Além disso, mortos-vivos sofrem uma penalidade de –1 em todas as jogadas e testes de resistência.
+Esta magia não pode ser lançada em uma área contendo um símbolo dedicado a um deus de tendência oposta ao deus patrono do conjurador.
+Consagrar anula profanar

@@ -1,21 +1,23 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Imobilizar Animal"
+date:   2016-11-09
+source: Manual Básico.186
+tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
 ---
 
-**Necromancia de Nível 1**
+**Encantamento de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 30 metros
 
-**Alvo**: Você
+**Alvo**: 1 animal
 
-**Duração**: 1 hora
+**Duração**: 1 minuto
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Vontade Anula
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+osta magia paralisa um animal, deixando-o imobilizado e indefeso. Ele continua consciente e respirando
+normalmente, mas não pode falar ou executar qualquer ação física. Porém, ainda pode executar ações puramente mentais.
+A cada rodada, a vítima pode gastar uma ação completa para fazer um novo teste de Vontade para tentar se libertar

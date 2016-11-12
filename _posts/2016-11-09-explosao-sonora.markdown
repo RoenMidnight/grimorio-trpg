@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Explosão Sonora"
+date:   2016-11-09
+source: Manual Básico.183
+tags: [level2, bardo, clerigo, druida, ranger, paladino, sonica]
 ---
 
-**Necromancia de Nível 1**
+**Sônica de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Área**: Dispersão com 3m de raio
 
-**Duração**: 1 hora
+**Duração**: Instantânea
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Fortitude parcial.
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Explosão sonora emite uma tremenda cacofonia. Todas as criaturas na área sofrem 1d8 pontos de dano e devem fazer um teste de Fortitude. Se falhar, a vítima fica fica atordoada por uma rodada. Criaturas surdas também sofrem dano, mas são imunes ao efeito de atordoamento

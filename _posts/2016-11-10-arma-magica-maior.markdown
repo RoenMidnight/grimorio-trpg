@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Arma Mágica Maior"
+date:   2016-11-10
+source: Manual Básico.164
+tags: [level3, bardo, clerigo, druida, paladino, ranger feiticeiro, mago, transmutacao]
+---
+
+**Transmutação de Nível 3**
+
+**Tempo de Execução**: Ação padrão
+
+**Alcance**: toque
+
+**Alvo**: 1 arma
+
+**Duração**: 1 hora
+
+**Teste de Resistência**: Nenhum.
+
+A arma afetada fornece um bônus de +2 nas jogadas de ataque e dano. Esta magia não afeta armas naturais (para isso, veja presa
+mágica).

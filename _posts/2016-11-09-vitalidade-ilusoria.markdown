@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
+title:  "Vitalidade Ilusória"
+date:   2016-11-09
 source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+tags: [level2, bardo, feiticeiro, mago, necromancia]
 ---
 
-**Necromancia de Nível 1**
+**Necromancia de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
@@ -18,4 +18,4 @@ tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necro
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você recebe 1d10+5 pontos de vida temporários. PV temporários são os primeiros a serem perdidos, e desaparecem quando a duração da magia termina

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chama contínua"
-date:   2016-11-09
+date:   2016-11-10
 source: Manual Básico.168
 tags: [level2, level3, bardo, clerigo, druida, paladino, ranger, feiticeiro, mago, luz]
 ---

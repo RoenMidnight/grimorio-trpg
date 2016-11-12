@@ -1,21 +1,24 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Confundir Detecção"
+date:   2016-11-09
+source: Manual Básico.171
+tags: [level2, bardo, clerigo, druida, ranger, paladino, ilusao]
 ---
 
-**Necromancia de Nível 1**
+**Ilusão de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 9m
 
-**Alvo**: Você
+**Alvo**: 2 criaturas ou 2 objetos com até 20kg
 
-**Duração**: 1 hora
+**Duração**: 1 dia
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Vontade Anula
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Quando conjura esta magia, você deve escolher um alvo primário e outro secundário. Quando um conjurador lança uma magia de adivinhação sobre o primeiro alvo, deve fazer um teste de Vontade. 
+Se falhar, vai detectar as informações do segundo alvo.
+Por exemplo, se o alvo primário é uma criatura Maligna e o secundário, uma criatura Neutra, detectar o mal não vai detectar a tendência do alvo primário; se o alvo primário for um item mágico e o secundário, um item mundano, detectar magia não vai
+perceber a aura do alvo primário, e assim por diante.

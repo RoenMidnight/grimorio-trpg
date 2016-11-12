@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Profanar"
+date:   2016-11-09
+source: Manual Básico.204
+tags: [level2, bardo, clerigo, druida, ranger, paladino, mal]
 ---
 
-**Necromancia de Nível 1**
+**Mal de Nível 2**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: Ação Completa
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Área**: Emanação com 6m de raio
 
-**Duração**: 1 hora
+**Duração**: 1 dia
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Esta magia amaldiçoa a área com energia negativa. Qualquer uso de canalizar energia negativa na área causa 50% a mais de dano, e mortos-vivos na área recebem um +1 nas jogadas e testes de resistência. Esta magia não pode ser lançada em uma área com um símbolo dedicado a um deus de tendência oposta ao patrono do conjurador.
+Profanar anula consagrar

@@ -1,21 +1,23 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Esfera Flamejante"
+date:   2016-11-09
+source: Manual Básico.182
+tags: [level2, bardo, feiticeiro, mago, fogo]
 ---
 
-**Necromancia de Nível 1**
+**Fogo de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 30 metros
 
-**Alvo**: Você
+**Efeito**: 1 esfera de fogo com 1,5m de diâmetro
 
-**Duração**: 1 hora
+**Duração**: 1 minuto
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Reflexos anula
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você cria uma esfera de fogo, que causa 2d6 pontos de dano a qualquer criatura no mesmo espaço. 
+Um teste de Reﬂexos evita o dano. Você pode gastar uma ação de movimento para fazer a esfera rolar ou saltar 9m em qualquer direção. 
+A esfera é imune a dano, mas pode ser apagada com água, e desaparece se sair do alcance

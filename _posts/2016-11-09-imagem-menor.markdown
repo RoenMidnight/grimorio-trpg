@@ -1,21 +1,28 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Imagem Menor"
+date:   2016-11-09
+source: Manual Básico.186
+tags: [level2, bardo, feiticeiro, mago, ilusao]
 ---
 
-**Necromancia de Nível 1**
+**Ilusão de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 30 metros
 
-**Alvo**: Você
+**Efeito**: Ilusão visual que se estende a até 4 cubos de 1,5m
 
-**Duração**: 1 hora
+**Duração**: Concentração
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Vontade Anula
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Esta magia cria uma miragem, uma ilusão visual imaginada por você: pessoas, animais, monstros, mobília, paredes, fogo...
+Um conjurador inteligente usa ilusões para enganar inimigos de muitas maneiras.
+A ilusão cria sons simples mas não cria cheiros, texturas ou temperaturas, apenas imagens. 
+Você pode mover a imagem como quiser, dentro dos limites de tamanho do efeito. Objetos e criaturas sólidas atravessam uma ilusão sem causar ou sofrer dano. 
+Imagem silenciosa nunca causa dano (mas pode, por exemplo, esconder uma armadilha ou inimigos).
+Alguém que veja a imagem tem direito a um teste de Vontade para perceber que se trata de uma ilusão.
+
+Uma imagem menor não pode reproduzir vozes ou diálogos, apenas sons simples

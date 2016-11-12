@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Lufada de Vento"
+date:   2016-11-09
+source: Manual Básico.191
+tags: [level2, bardo, feiticeiro, mago, ar]
 ---
 
-**Necromancia de Nível 1**
+**Ar de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 18 metros
 
-**Alvo**: Você
+**Área**: Explosão em cone
 
-**Duração**: 1 hora
+**Duração**: Instantânea
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Fortitude anula
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você cria uma lufada de vento, que derruba e empurra 1d4 x 1,5m qualquer criatura Média ou menor na área. A lufada de vento também faz qualquer coisa que um vento forte e súbito faria, como levantar pó, dispersar vapores, apagar chamas, espalhar papéis..

@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Invocar Enxame"
+date:   2016-11-09
+source: Manual Básico.188
+tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, invocacao]
 ---
 
-**Necromancia de Nível 1**
+**Invocação de Nível 2**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: Ação Completa
 
-**Alcance**: Pessoal
+**Alcance**: 9m
 
-**Alvo**: Você
+**Efeito**: 1 enxame
 
-**Duração**: 1 hora
+**Duração**: 1 minuto
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Esta magia cria um enxame de insetos e outras criaturas nojentas, que rasteja na direção de um alvo escolhido. 
+No início de cada turno, o enxame causa 1d6 pontos de dano à vitima. Você pode gastar uma ação de movimento para mudar o alvo do enxame, mas o novo alvo deve estar a até 9m. O enxame não pode ser destruído, mas pode ser dissipado

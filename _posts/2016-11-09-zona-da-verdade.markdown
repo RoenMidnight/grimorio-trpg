@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Zona da Verdade"
 date:   2016-11-08
 source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+tags: [level2, bardo, clerigo, druida, ranger, paladino, encantamento]
 ---
 
-**Necromancia de Nível 1**
+**Encantamento de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Área**: Emanação com 6m de raio
 
-**Duração**: 1 hora
+**Duração**: 10 minutos
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Vontade anula
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Criaturas na área desta magia não podem mentir deliberadamente. As criaturas estão cientes do encantamento, então podem tentar evitar perguntas que normalmente responderiam com uma mentira (sendo evasivas, por exemplo)

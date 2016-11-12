@@ -1,21 +1,26 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Armadilha de Fogo"
+date:   2016-11-09
+source: Manual Básico.164
+tags: [level4, level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, fogo]
 ---
 
-**Necromancia de Nível 1**
+**Arcana 4/Divina 2**
 
-**Tempo de Execução**: Ação Padrão
+**Fogo de Nível 2/4**
 
-**Alcance**: Pessoal
+**Tempo de Execução**: 10 minutos
 
-**Alvo**: Você
+**Alcance**: Toque
 
-**Duração**: 1 hora
+**Alvo**: 1 objeto
 
-**Teste de Resistência**: Nenhum
+**Duração**: Permamente até ser descarregada
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+**Teste de Resistência**: Nenhum ou Reflexos reduz à metade.
+
+Esta magia protege qualquer objeto que possa ser aberto (porta, baú, gaveta,livro...). Quem abre o item é atingido por uma explosão que causa 4d6 pontos de dano em uma área com 3m de raio, semdireito à teste de resistência. O objeto protegido não é afetado pela explosão. Outras criaturas na área também podem ser atingidas, mas têm direito a um teste de Reﬂexos para reduzir o dano à metade.
+Você, assim como qualquer outra pessoa a quem você vincule a magia (geralmente envolvendo uma palavra secreta), pode abrir o objeto normalmente.
+Um personagem com a habilidade de encontrar armadilhas pode encontrar a armadilha de fogo com um teste de Percepção, e desarmá-la com um teste de Ladinagem (ambos CD 27).
+Arrombar anula armadilha de fogo

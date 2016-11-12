@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Alterar-se"
+date:   2016-11-09
+source: Manual Básico.161
+tags: [level2, bardo, feiticeiro, mago, transmutacao]
 ---
 
-**Necromancia de Nível 1**
+**Transmutação de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
@@ -14,8 +14,9 @@ tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necro
 
 **Alvo**: Você
 
-**Duração**: 1 hora
+**Duração**: 1 hora (D)
 
-**Teste de Resistência**: Nenhum
-
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você pode mudar sua aparência e forma — inclusive roupas e equipamento — para qualquer outra criatura, no máximo, uma categoria de tamanho menor ou maior.
+Você mantém suas estatísticas, mas recebe uma habilidade da forma selvagem do druida (veja o Capítulo 2: Classes).
+Se sua nova forma não é capaz de falar ou não tem membros capazes de fazer gestos precisos, você não pode lançar magias até voltar a sua forma normal.
+Se usar esta magia para criar um disfarce, você recebe +10 no teste de Enganação

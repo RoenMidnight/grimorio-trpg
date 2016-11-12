@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Tranca Arcana"
+date:   2016-11-09
+source: Manual Básico.216
+tags: [level2, bardo, feiticeiro, mago, abjuracao]
 ---
 
-**Necromancia de Nível 1**
+**Abjuração de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: Toque
 
-**Alvo**: Você
+**Alvo**: 1 porta ou objeto similar
 
-**Duração**: 1 hora
+**Duração**: Permanente
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Esta magia tranca uma porta ou outro item que possa ser aberto ou fechado, aumentando em CD+10 a difculdade de testes de Força ou Ladinagem para abri-lo.
+Você pode abrir livremente sua própria tranca sem problemas. A magia arrombar não anula a tranca arcana, mas a neutraliza por 10 minutos.

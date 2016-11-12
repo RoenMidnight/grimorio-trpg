@@ -1,21 +1,23 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Arma Espiritual"
+date:   2016-11-09
+source: Manual Básico.163
+tags: [level2, bardo, clerigo, druida, ranger, paladino,  essencia]
 ---
 
-**Necromancia de Nível 1**
+**Essência de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 30 metros
 
-**Alvo**: Você
+**Efeito**: Arma de Energia
 
-**Duração**: 1 hora
+**Duração**: 1 minuto
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Uma arma feita de energia surge e ataca um oponente à sua escolha. A arma ataca uma vez por rodada, com o mesmo bônus de ataque corpo-a-corpo do conjurador.
+Visualmente, é uma réplica da arma preferida de sua divindade (veja o Capítulo 6), mas sempre causa 1d8+1 pontos de dano e tem crítico x2. A arma espiritual não concede e nem recebe bônus de ﬂanquear.
+O conjurador pode gastar uma ação de movimento para mudar o alvo. A arma espiritual não sofre dano, mas pode ser anulada por dissipar magia

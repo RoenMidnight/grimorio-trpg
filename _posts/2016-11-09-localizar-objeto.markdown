@@ -1,21 +1,25 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Localizar Objeto"
+date:   2016-11-09
+source: Manual Básico.191
+tags: [level2,level3 bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, adivinhacao]
 ---
 
-**Necromancia de Nível 1**
+**Arcana 2/ Divina 3**
+
+**Adivinhação de Nível 2/3**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 180 metros
 
-**Alvo**: Você
+**Área**: circulo centrado em você com 180m de raio
 
-**Duração**: 1 hora
+**Duração**: 1 minuto
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você sente em que direção está um objeto à sua escolha. Você pode pensar em termos gerais (“algo de metal”) ou específcos (uma espada longa). Em termos gerais, a magia vai revelar o item mais próximo desse tipo, caso esteja ao alcance. 
+Procurar algo específco exige que você tenha em mente uma imagem precisa do objeto — caso a imagem não seja muito próxima da verdade, a magia falhará.
+Esta magia pode ser bloqueada por uma fna camada de chumbo

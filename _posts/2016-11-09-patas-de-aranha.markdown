@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Patas de Aranha"
+date:   2016-11-09
+source: Manual Básico.201
+tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, transmutacao]
 ---
 
-**Necromancia de Nível 1**
+**Transmutação de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: Toque
 
-**Alvo**: Você
+**Alvo**: 1 criatura
 
 **Duração**: 1 hora
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+O alvo pode escalar paredes e tetos como uma aranha, sem precisar fazer testes de Atletismo, com deslocamento de 6m.
+Para isso precisa estar com as mãos livres — mas pode usar uma única mão se fcar parado no lugar. O alvo não fca desprevenido enquanto escala.

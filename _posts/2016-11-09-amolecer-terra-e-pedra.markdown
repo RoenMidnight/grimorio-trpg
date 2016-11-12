@@ -1,21 +1,23 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Amolecer Terra e Pedra"
+date:   2016-11-09
+source: Manual Básico.161
+tags: [level2, bardo, clerigo, druida, ranger, paladino, Terra]
 ---
 
-**Necromancia de Nível 1**
+**Terra de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Área**: 1 quadrado de 9m de lado
 
-**Duração**: 1 hora
+**Duração**: Instâtanea
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Toda a terra ou pedra natural na área amolece. Terra molhada se torna lama, terra seca se torna pó, e pedra se torna argila.
+Pedras mágicas ou trabalhadas (como construções) não são afetadas.
+Uma criatura na lama deve fazer um teste de Reﬂexos para não fcar presa por uma rodada. Uma criatura no pó tem seu deslocamento reduzido à metade. A argila não afeta o movimento, mas pode ser cortada ou escavada. Por exemplo, um grupo de aventureiros preso em uma caverna pode usar esta magia para amolecer uma parede e escapar por ela

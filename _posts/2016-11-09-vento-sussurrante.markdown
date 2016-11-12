@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Vento Sussurrante"
+date:   2016-11-09
+source: Manual Básico.217
+tags: [level2, bardo, feiticeiro, mago, ar]
 ---
 
-**Necromancia de Nível 1**
+**Ar de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 10 km
 
-**Alvo**: Você
+**Efeito**: Mensagem de até 25 palavras
 
-**Duração**: 1 hora
+**Duração**: Instantânea
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você envia uma mensagem de até 25 palavras. O vento sussurrante viaja até o local escolhido, desde que consiga encontrar um caminho (ele não pode atravessar paredes, por exemplo), e profere sua mensagem, mesmo que ninguém esteja ali para receber.
+Você decide a velocidade do vento, de 1km por hora até 1km por minuto.

@@ -1,21 +1,23 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+title:  "Amor Incontestavel de Raviollius"
+date:   2016-11-09
+source: Manual Básico.161
+tags: [level2, bardo, clerigo, druida, ranger, paladino, encantamento]
 ---
 
-**Necromancia de Nível 1**
+**Encantamento de Nível 2**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: Toque
 
-**Alvo**: Você
+**Alvo**: 1 criatura
 
-**Duração**: 1 hora
+**Duração**: 1 dia
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Vontade anula.
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+O alvo, se falhar em seu teste de Vontade, se apaixona perdidamente pela primeira criatura em que colocar os olhos. O efeito é semelhante a enfeitiçar pessoa, mas mais poderoso. A vítima será capaz de quase qualquer coisa para proteger ou ajudar seu “amor”, até mesmo arriscando sua vida.
+Caso o alvo seja atacado por seu “amor”, o efeito se dissipa.
+Em animais assexuados ou criaturas de Inteligência 2 ou menos, o efeito pode ser diferente — a vítima considera a criatura amada como sendo sua mãe
