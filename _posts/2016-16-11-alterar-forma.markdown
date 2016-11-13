@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alterar Forma"
-date:   2016-11-16
+date:   2016-16-11
 source: Manual Básico.161
 tags: [level9, clerigo, druida, feiticeiro, mago, transmutacao]
 ---
