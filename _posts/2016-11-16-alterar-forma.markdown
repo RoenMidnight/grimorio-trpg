@@ -2,20 +2,20 @@
 layout: post
 title:  "Alterar Forma"
 date:   2016-11-16
-source: Manual Básico.161
+source: Manual BÃ¡sico.161
 tags: [level9, clerigo, druida, feiticeiro, mago, transmutacao]
 ---
 
-**Transmutação de Nível 9**
+**TransmutaÃ§Ã£o de NÃ­vel 9**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de ExecuÃ§Ã£o**: AÃ§Ã£o PadrÃ£o
 
 **Alcance**: Pessoal
 
-**Alvo**: Você
+**Alvo**: VocÃª
 
-**Duração**: 1 hora(D)
+**DuraÃ§Ã£o**: 1 hora(D)
 
 
-Esta magia transforma o alvo em qualquer criatura de qualquer tamanho com até no máximo 30 níveis. O alvo adquire o tamanho, deslocamento e valores de habilidades físicas (For, Des e Con) da nova criatura, assim como bônus na CA e quaisquer ataques ou habilidades não mágicas. Toda as outras estatísticas do alvo, como valores de habilidades mentais, nível, bônus base de ataque, pontos de vida, perícias e talentos permanecem inalteradas (mas os bônus de ataque e perícias mudam de acordo com os  novos valores de habilidades físicas).
-A cada rodada, você pode usar uma ação de movimento para assumir outra forma
+Esta magia transforma o alvo em qualquer criatura de qualquer tamanho com atÃ© no mÃ¡ximo 30 nÃ­veis. O alvo adquire o tamanho, deslocamento e valores de habilidades fÃ­sicas (For, Des e Con) da nova criatura, assim como bÃ´nus na CA e quaisquer ataques ou habilidades nÃ£o mÃ¡gicas. Toda as outras estatÃ­sticas do alvo, como valores de habilidades mentais, nÃ­vel, bÃ´nus base de ataque, pontos de vida, perÃ­cias e talentos permanecem inalteradas (mas os bÃ´nus de ataque e perÃ­cias mudam de acordo com os  novos valores de habilidades fÃ­sicas).
+A cada rodada, vocÃª pode usar uma aÃ§Ã£o de movimento para assumir outra forma.
