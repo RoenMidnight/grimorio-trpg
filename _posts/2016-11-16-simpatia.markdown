@@ -3,7 +3,7 @@ layout: post
 title:  "Simpatia"
 date:   2016-11-16
 source: Manual Básico.213
-tags: [level9, clerigo, druida, feiticeiro, mago, encantamento]
+tags: [level8,level9, clerigo, druida, feiticeiro, mago, encantamento]
 ---
 
 **Arcana 8/ Divina 9**
