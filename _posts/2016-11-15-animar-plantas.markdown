@@ -18,6 +18,7 @@ tags: [level7, clerigo, druida, transmutacao]
 
 **Teste de Resistência**: Nenhum
 
+
 Você concede vida a plantas, que agem seguindo suas ordens. As estatísticas de uma planta animada, são as mesmas
 estatísticas de objetos animados e dependem de seu tamanho, e são descritas no Capítulo 11: Bestiário.
 
