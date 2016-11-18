@@ -1,21 +1,27 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Regeneração"
+date:   2016-11-15
+source: Manual Básico.207
+tags: [level7, clerigo, druida, cura]
 ---
 
-**Necromancia de Nível 1**
+**Cura de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: toque
 
-**Alvo**: Você
+**Alvo**: 1 criatura viva;
 
-**Duração**: 1 hora
+**Duração**: instantânea
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Nenhum;
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Partes do corpo do alvo que tenham
+sido arrancadas (como uma mão ou perna),
+assim como ossos quebrados e órgãos danifcados, crescem novamente. Se a criatura
+estiver tocando a parte arrancada, a regeneração é instantânea; caso contrário, leva
+2d10 rodadas.
+A regeneração também cura 4d8+13
+pontos de dano, e elimina condições de fadiga e exaustão

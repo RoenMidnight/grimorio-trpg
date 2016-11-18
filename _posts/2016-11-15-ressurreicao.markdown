@@ -1,21 +1,28 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Ressurreição"
+date:   2016-11-15
+source: Manual Básico.209
+tags: [level7, clerigo, druida, cura]
 ---
 
-**Necromancia de Nível 1**
+**Cura de Nível 7**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: 10 minutos
 
-**Alcance**: Pessoal
+**Alcance**: toque
 
-**Alvo**: Você
+**Alvo**: 1 criatura morta;
 
-**Duração**: 1 hora
+**Duração**: Instantanea
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+**Componente material**: um diamante (no valor de 10.000 TO)
+
+Esta magia revive uma criatura, você só precisa de uma parte do corpo da criatura, não do corpo inteiro, e ela pode ter morrido há até 10 anos. 
+Uma criatura revivida perde um nível (uma criatura de 1º nível, em vez disso, perde 2 pontos de Constituição). Nada pode restaurar essa perda
+
+Além disso, a criatura volta à vida com todos seus PV e PM. Valores de habilidade que tenham sido reduzidos a zero aumentam para 1. Venenos e doenças afetando a criatura são curados.
+
+Ressurreição não afeta criaturas transformadas em mortos-vivos, ou do tipo espírito. Também não afeta criaturas que morreram de velhice.

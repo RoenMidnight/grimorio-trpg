@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Mansão Magnífica de Vectorius"
+date:   2016-11-15
+source: Manual Básico.191
+tags: [level7, feiticeiro, mago, invocacao]
 ---
 
-**Necromancia de Nível 1**
+**Invocação de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Efeito**: Mansão extra-dimensional que ocupa cubo com 30m de lado
 
-**Duração**: 1 hora
+**Duração**: 1 dia
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você cria uma mansão extra-dimensional com muitos quartos luxuosos, comida para até cem pessoas e servos fantasmagóricos (como servo invisível) para servir a todos os hóspedes.
+A mansão tem uma única entrada, que lembra uma porta feita de luz, levando ao plano onde a magia foi lançada. Você pode deixá-la visível ou invisível à vontade

@@ -1,21 +1,23 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Espada de Energia"
+date:   2016-11-15
+source: Manual Básico.182
+tags: [level7, mago, feiticeiro, essencia]
 ---
 
-**Necromancia de Nível 1**
+**Essência de Nível 7**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: Ação Completa
 
-**Alcance**: Pessoal
+**Alcance**: 30 metros
 
-**Alvo**: Você
+**Efeito**: Espada de Energia
 
-**Duração**: 1 hora
+**Duração**: 1 minuto
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Vontade Anula
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você cria uma espada ﬂutuante de pura energia, que voa na direção de uma criatura designada dentro do alcance. 
+No início de cada turno, a espada faz um ataque corpo-a-corpo contra essa criatura, com bônus de ataque igual a seu nível + mod. Int. +4. O dano é 4d8 + mod. Int. +4, crítico 17-20.
+Você pode mudar o alvo da espada com uma ação de movimento, mas o novo alvo deve estar a até 30m. A espada não pode ser destruída, mas pode ser dissipada.

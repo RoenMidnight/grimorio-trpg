@@ -1,21 +1,30 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Refugiar Itens"
+date:   2016-11-15
+source: Manual Básico.207
+tags: [level7, feiticero, mago, abjuracao]
 ---
 
-**Necromancia de Nível 1**
+**Abjuração de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: toque
 
-**Alvo**: Você
+**Alvo**: 1 criatura ou objeto
 
-**Duração**: 1 hora
+**Duração**: 1 semana (D);
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Vontade Anula;
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+A criatura ou objeto tocado fca invisível e indetectável por magias de adivinha-
+ção. Assim, refugiar itens pode ser usada para
+esconder uma porta secreta, um esconderijo
+de tesouros, ou mesmo uma vítima sequestrada. Ela não impede que a criatura ou item
+seja descoberto através do toque.
+Uma criatura involuntária tem direito
+a um teste de Vontade para anular o efeito.
+Se a criatura for afetada, fca em estado de
+animação suspensa até que a magia termine
+ou seja dissipada

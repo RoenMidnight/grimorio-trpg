@@ -1,21 +1,25 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Restauração Maior"
+date:   2016-11-15
+source: Manual Básico.209
+tags: [level7, clerigo, druida, cura]
 ---
 
-**Necromancia de Nível 1**
+**Cura de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: toque
 
-**Alvo**: Você
+**Alvo**: 1 criatura;
 
-**Duração**: 1 hora
+**Duração**: Instantânea
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+**Custo de XP**: 500 XP
+
+Esta magia cura todos os pontos de dano temporário de habilidade. 
+Esta magia também pode ser usada para curar 1d4 pontos de dano permanente de habilidade, eliminar fadiga ou exaustão, eliminar todos os níveis negativos, ou recuperar um nível que tenha sido perdido há até um ano.  Esta magia também pode ser
+usada para remover confusão, insanidade e efeitos mentais similaresRestauração não recupera níveis perdidos por ressurreição

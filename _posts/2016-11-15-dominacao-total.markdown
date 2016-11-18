@@ -1,21 +1,25 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Dominação Total"
+date:   2016-11-15
+source: Manual Básico.179
+tags: [level7, mago, feiticeiro, encantamento]
 ---
 
-**Necromancia de Nível 1**
+**Ordem/Sônico de Nível 7**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: 1 minuto
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Área**: 1 humanoide
 
-**Duração**: 1 hora
+**Duração**: 1 semana
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Vontade Anula
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+**Componente material**: uma parte do corpo do alvo (unhas, cabelos...)
+
+Esta é a mais poderosa magia de controle mental conhecida, e felizmente poucos em Arton têm poder sufciente para usá-la. 
+Funciona como dominar pessoa, a vítima torna-se um escravo total do conjurador, incapaz de desobedecer qualquer ordem sua — até mesmo ordens suicidas.
+Tudo que a pessoa dominada era não importa mais — ela será capaz de agir contra sua tendência, suas crenças e sua fé, podendo até mesmo conspirar e atacar seus entes amados e amigos.

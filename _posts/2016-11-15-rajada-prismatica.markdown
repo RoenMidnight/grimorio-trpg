@@ -1,21 +1,40 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Rajada Prismática"
+date:   2016-11-15
+source: Manual Básico.206
+tags: [level7, feiticeor, mago, luz]
 ---
 
-**Necromancia de Nível 1**
+**Luz de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Efeito**: explosão em cone
 
-**Duração**: 1 hora
+**Duração**: instantânea;
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Veja texto
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você dispara sete raios da sua mão,
+cada um com uma cor e poder diferente. Todas as criaturas na área de nível 8º ou menor
+fcam cegas por 2d4 rodadas. Além disso,
+cada criatura na área é atingida por um ou
+mais raios, de acordo com a tabela a seguir.
+Role uma vez na tabela para cada criatura.
+1) Vermelho. 20 pontos de dano de
+fogo (Reﬂexos reduz à metade).
+2) Laranja. 40 pontos de dano de ácido (Reﬂexos reduz à metade)
+3) Amarelo. 80 pontos de dano de eletricidade (Reﬂexos reduz à metade).
+4) Verde. Veneno causa morte (For titude reduz a 1d6 pontos de dano temporá-
+rio de Constituição).
+5) Azul. Petrifcação (como a magia
+carne para pedra, Fortitude anula).
+6) Anil. Insanidade (como a magia de
+mesmo nome, Vontade anula).
+7) Violeta. Envia para outro plano
+(Vontade anula).
+8) Atingido por dois raios. Role mais
+duas vezes, ignorando resultados “8”

@@ -1,21 +1,34 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Invocar Monstro VII"
+date:   2016-11-15
+source: Manual Básico.189
+tags: [level7, clerigo, druida, feiticeiro, mago, invocacao]
 ---
 
-**Necromancia de Nível 1**
+**Invocação de Nível 7**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: Ação Completa
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Efeito**: 1 criatura invocada
 
-**Duração**: 1 hora
+**Duração**: concentração +1 rodada, até 1 minuto.
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Esta magia invoca um monstro de tamanho Pequeno que surge em um ponto qualquer dentro de 9m, à sua escolha. No começo de seu próximo turno, a criatura
+avança e ataca seus inimigos, a menos que receba ordens para fazer outra coisa.
+O monstro pode ter qualquer forma escolhida por você (mas de tamanho Pequeno): uma serpente, diabrete, arbusto ambulante... No entanto, não é uma criatura viva de verdade, e sim um construto feito de energia. O monstro invocado tem as estatísticas a seguir:
+
+Monstro VII: 
+
+Construto 13, N; Enorme, desl. 15m; PV 105; CA 22; 
+corpo-a-corpo: pancada +18 (2d6+16); 
+Fort +6, Ref +6, Von +6; 
+For 31, Des 11, Con–, Int –, Sab 11, Car 10. 
+Perícias & Talentos: Iniciativa +8; Foco em Arma (pancada)
+
+
+O monstro permanece até o fim da magia, ou até ser destruído. Se destruído, desaparece com um brilho de energia, sem deixar nada para trás

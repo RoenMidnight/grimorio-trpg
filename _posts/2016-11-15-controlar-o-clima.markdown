@@ -1,21 +1,25 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Controlar o Clima"
+date:   2016-11-15
+source: Manual Básico.172
+tags: [level6, level7, clerigo, druida, feiticeiro, mago, transmutacao]
 ---
 
-**Necromancia de Nível 1**
+**Arcana 6/ Divina 7**
 
-**Tempo de Execução**: Ação Padrão
+**Transmutação de Nível 6/7**
 
-**Alcance**: Pessoal
+**Tempo de Execução**: 10 minutos
 
-**Alvo**: Você
+**Alcance**: 3km
 
-**Duração**: 1 hora
+**Área**: círculo com 3km de raio centrado em você; 
+
+**Duração**: 4d12 horas
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você muda o clima da área onde se encontra, podendo criar qualquer condição climática: chuva, neve, ventos, névoas...
+Veja o Capítulo 10: O Mestre para detalhes sobre o clima.
+Conjurada por um druida, a magia aumenta sua área para um círculo com 4,5km de raio, e sua duração para 1d4 dias.

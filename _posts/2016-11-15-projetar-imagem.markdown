@@ -1,21 +1,27 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Projetar Imagem"
+date:   2016-11-15
+source: Manual Básico.204
+tags: [level7, feiticeiro, mago, ilusao]
 ---
 
-**Necromancia de Nível 1**
+**Ilusão de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 30 metros
 
-**Alvo**: Você
+**Efeito**: duplicata de sombra
 
-**Duração**: 1 hora
+**Duração**: 1 minuto(D)
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Vontade anula (veja texto).
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+VVocê cria uma cópia ilusória semi-real de você. 
+Ela é idêntica em aparência, som e cheiro, mas é intangível. A cada turno, você escolhe se vai ver e ouvir através da duplicata, ou de seu corpo original.
+A cópia reproduz todas as suas ações, incluindo fala. 
+Qualquer magia com alcance de toque ou maior que você lançar pode se originar da duplicata, em vez do seu corpo original. 
+As magias afetam outros alvos normalmente, com a única diferença de se originarem da cópia, em vez de você.
+Se quiser que a duplicata faça algo diferente, deve gastar uma ação de movimento.
+Qualquer criatura que interagir com a cópia tem direito a um teste de Vontade para perceber que é uma ilusão. As magias que se originam dela, no entanto, são reais.

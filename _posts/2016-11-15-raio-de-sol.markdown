@@ -1,21 +1,24 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Raio de sol"
+date:   2016-11-15
+source: Manual Básico.206
+tags: [level7, clerigo, druida, luz]
 ---
 
-**Necromancia de Nível 1**
+**Luz de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 18 metros
 
-**Alvo**: Você
+**Área**: Linha
 
-**Duração**: 1 hora
+**Duração**: 1 minuto ou até 5 raios serem disparados;
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Reflexos Parcial
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você invoca um raio de luz intensa e quente, que causa 4d6 pontos de dano e cega todas as criaturas na área. 
+Mortos-vivos e criaturas vulneráveis a luz solar sofrem dano dobrado. 
+Um teste de Reﬂexos bem-sucedido reduz o dano à metade e evita a cegueira. 
+A cada turno, você pode gastar uma ação padrão para disparar outro raio, até um limite de cinco raios

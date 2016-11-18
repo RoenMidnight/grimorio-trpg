@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Teletransportar Objeto"
+date:   2016-11-15
+source: Manual Básico.214
+tags: [level7, feiticeiro, mago, invocacao]
 ---
 
-**Necromancia de Nível 1**
+**Invocação de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: Toque
 
-**Alvo**: Você
+**Alvo**: 1 objeto de até 250kg
 
-**Duração**: 1 hora
+**Duração**:  Instantânea;
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Nenhum.
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Como teletransporte, mas transporta um objeto e não você. Se quiser, pode enviar o objeto para o Plano Etéreo. 
+Nesse caso, o lugar onde o objeto estava emana uma aura tênue de magia. Um dissipar magia bem-sucedido no local traz o item de volta

@@ -1,21 +1,33 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Desejo Restrito"
+date:   2016-11-15
+source: Manual Básico.175
+tags: [level7, feiticeiro, mago, essencia]
 ---
 
-**Necromancia de Nível 1**
+**Essência de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: veja texto; 
 
-**Alvo**: Você
+**Alvo/Área/Efeito**:veja texto;
 
-**Duração**: 1 hora
+**Duração**: veja texto;
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: veja texto;
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+**Componente Material**: nenhum, mas para duplicar uma magia você precisa fornecer qualquer componente material exigido pela magia a ser duplicada.
+**Custo de XP**: 1.000 XP. Se o desejo duplicar uma magia com custo de XP, você também precisa pagar esse custo ou 1.000 XP, o que for maior
+
+
+Com um desejo restrito você pode:
+• Duplicar qualquer magia arcana de 6º nível ou menor.
+
+• Duplicar qualquer magia de 5º nível ou menor.
+
+• Criar um item mundano no valor de até 5.000 TO.
+
+• Desfazer os efeitos nocivos de qualquer magia de 6º nível ou menor (como carne para pedra e tarefa/missão).
+Desejo restrito também pode criar outros efeitos com poder similar, como fazer uma criatura ser atingida automaticamente pelo próximo ataque, ou sofrer uma penalidade de –7 no próximo teste de resistência.

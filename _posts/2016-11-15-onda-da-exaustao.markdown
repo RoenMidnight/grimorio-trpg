@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Onda da Exaustão"
+date:   2016-11-15
+source: Manual Básico.198
+tags: [level7, feiticeiro, mago, necromancia]
 ---
 
-**Necromancia de Nível 1**
+**Necromancia de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 18 metros
 
-**Alvo**: Você
+**Área**: explosão em cone
 
-**Duração**: 1 hora
+**Duração**: instatânea
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Nenhum.
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Todas as criaturas vivas na área ficam exaustas. A magia não afeta criaturas que já estão exaustas

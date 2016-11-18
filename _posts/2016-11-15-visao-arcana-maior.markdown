@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Visão Arcana Maior"
+date:   2016-11-15
+source: Manual Básico.218
+tags: [level7, feiticeiro, mago, adivinhacao]
 ---
 
-**Necromancia de Nível 1**
+**Adivinhação de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
@@ -14,8 +14,9 @@ tags: [level8, bardo, feiticeiro, mago, necromancia]
 
 **Alvo**: Você
 
-**Duração**: 1 hora
+**Duração**: 10 minutos
 
-**Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Seus olhos brilham com uma luz azul, e passam a enxergar auras mágicas. Este efeito é similar a detectar magia, mas você enxerga auras mágicas a até 36m, e recebe todas as informações sobre elas instantaneamente.
+
+Instantaneamente você descobre se uma criatura a até 36m  e qual a aura da magia mais poderosa que ela pode lançar

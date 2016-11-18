@@ -1,21 +1,26 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Visão"
+date:   2016-11-15
+source: Manual Básico.218
+tags: [level7, clerigo, druida, feiticeiro, mago, adivinhacao]
 ---
 
-**Necromancia de Nível 1**
+**Adivinhação de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: veja texto
 
-**Alvo**: Você
+**Efeito**: sensor mágico
 
-**Duração**: 1 hora
+**Duração**:  1 dia;
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Nenhum.
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+**Custo de XP**: 100 XP.
+
+Como lendas e histórias, mas funciona mais rapidamente, embora deixe o conjurador cansado.
+Você faz uma pergunta sobre uma pessoa, objeto ou lugar, lança esta magia e faz um teste de Identifcar Magia. A difculdade é CD 20 se você estiver tocando o alvo;
+CD 25 se não está tocando o alvo, mas já possui informações sobre ele; e CD 30 se não está tocando o alvo e ainda não possui informações sobre ele.
+Se você for bem-sucedido, recebe informações sobre o alvo, como em lendas e histórias. Você fca exausto por 10 minutos após lançar esta magia.

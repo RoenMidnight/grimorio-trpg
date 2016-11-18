@@ -1,21 +1,24 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Metal em Madeira"
+date:   2016-11-15
+source: Manual Básico.193
+tags: [level7, clerigo, druida, transmutacao]
 ---
 
-**Necromancia de Nível 1**
+**Essência de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 90 metros
 
-**Alvo**: Você
+**Área**: explosão com 12m de raio;
 
-**Duração**: 1 hora
+**Duração**: instatânea
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Nenhum ou Vontade anula (veja texto).
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Todos os objetos de metal na área se transformam em madeira. 
+Objetos mundanos são afetados automaticamente; itens mágicos têm direito a um teste de Vontade para anular o efeito.
+Armas transformadas em madeira impõem penalidade de –2 em jogadas de ataque e dano. 
+Armaduras têm seu bônus na CA reduzido em 2. Além disso, armas quebram com um resultado 1 natural na jogada de ataque, e armaduras têm CA reduzida em 1 cada vez que são atingidas por um ataque com resultado 20 natural.

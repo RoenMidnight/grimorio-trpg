@@ -1,21 +1,26 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Bola de Fogo Controlável"
+date:   2016-11-15
+source: Manual Básico.166
+tags: [level7, feiticeiro, mago, fogo]
 ---
 
-**Necromancia de Nível 1**
+**Fogo de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 30 metros
 
-**Alvo**: Você
+**Área**: explosão com 6 metros de raio
 
-**Duração**: 1 hora
+**Duração**: Até 5 rodadas
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Reflexos reduz a metade
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você aponta o dedo e dispara uma pequena pedra ﬂamejante, que explode quando atinge o local escolhido, causando 14d6 pontos de dano
+Não é necessário fazer uma jogada de ataque, a menos que você queira lançar a bola de fogo através de uma passagem estreita. Neste caso, se errar, a bola de fogo pode bater em um obstáculo no caminho, explodindo antes do desejado.
+
+Bola de Fogo Controlável pode ser detonada depois de lançada.
+Ao conjurar esta magia, você cria uma pequena pedra ﬂamejante que pode detonar imediatamente (como bola de fogo) ou mais tarde (até cinco rodadas). Se você escolher detoná-la mais tarde, a pedra fica inerte e pode ser lançada como uma arma de arremesso (distância de 3m) por qualquer criatura. 
+Independente de quantas vezes seja arremessada, só vai explodir na rodada que você escolheu

@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Destruição"
+date:   2016-11-15
+source: Manual Básico.176
+tags: [level7, clerigo, divina, invocacao]
 ---
 
-**Necromancia de Nível 1**
+**Invocaçaõ de Nível 7**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: Ação Completa
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Efeito**: 1 enxame
 
-**Duração**: 1 hora
+**Duração**: 10 minutos
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Nenhum;
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Esta magia invoca uma massa negra de insetos, vermes, larvas e outras criaturas rastejantes, que ocupam uma área com 3m de lado. 
+No início de cada turno, qualquer criatura na área sofre 6d6 pontos de dano. Você pode gastar uma ação padrão para fazer a destruição rastejante se mover até 9m em qualquer direção

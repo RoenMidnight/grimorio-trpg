@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Estátua"
+date:   2016-11-15
+source: Manual Básico.183
+tags: [level7, mago, feiticeiro, transmutacao]
 ---
 
-**Necromancia de Nível 1**
+**Transmutação de Nível 7**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: Ação Completa
 
-**Alcance**: Pessoal
+**Alcance**: toque
 
-**Alvo**: Você
+**Alvo**: 1 criatura
 
-**Duração**: 1 hora
+**Duração**: 1 dia
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Esta magia transforma o alvo (e qualquer equipamento que estiver carregando) em pedra viva. Como estátua, o alvo pode enxergar, escutar e cheirar normalmente, mas o tato fca limitado a substâncias que poderiam arranhar pedra. Ele não precisa respirar ou se alimentar, e recebe redução de dano 8.
+Pela duração da magia, o alvo pode mudar da forma de estátua para a forma normal uma vez por rodada, como uma ação de movimento

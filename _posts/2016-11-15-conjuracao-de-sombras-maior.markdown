@@ -1,21 +1,26 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Conjuração de Sombras Maior"
+date:   2016-11-15
+source: Manual Básico.171
+tags: [level7, feiticeiro, mago, ilusao]
 ---
 
-**Necromancia de Nível 1**
+**Ilusão de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: veja texto;
 
-**Alvo**: Você
+**Alvo/Área/Efeito**: veja texto;
 
-**Duração**: 1 hora
+**Duração**: veja texto
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Vontade Parcial
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você cria uma ilusão semi-real de qualquer magia arcana de 6º nível ou menor. Qualquer criatura afetada tem direito a um teste de Vontade; se bem-sucedida, 
+percebe que é uma ilusão e sofre apenas 50% do dano ou efeito da magia.
+Por exemplo, contra um alvo bem--sucedido em seu teste de Vontade, um raio ardentecriado por uma conjuração de sombrascausa 50% do dano, enquanto uma  teia criada por sombras tem chance de 50% de prender o alvo.
+Bem-sucedida ou não no teste de Vontade, qualquer criatura afetada também tem direito a qualquer teste de resistência oferecido pela magia original. 
+Por exemplo, uma criatura afetada por imobilizar pessoa criado por uma sombras tem direito a um teste de Vontade para perceber que é uma ilusão. 
+Mesmo que falhe, ainda tem direito ao teste de Vontade original de um imobilizar pessoa.

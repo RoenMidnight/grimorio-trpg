@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Palavra de Poder: Cegar"
+date:   2016-11-15
+source: Manual Básico.199
+tags: [level7, feiticeiro, mago, encantamento]
 ---
 
-**Necromancia de Nível 1**
+**Encantamento de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Área**: 1 criatura com 200 PV ou menos
 
-**Duração**: 1 hora
+**Duração**: Veja Texto
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Nenhum.
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você pronuncia uma palavra de poder que deixa a vítima cega. 
+A duração da magia depende dos pontos de vida atuais do alvo: permanente para um alvo com 50 PV ou menos; 1d4+1 minutos para 51 a 100 PV, e 1d4+1 rodadas para 101 a 200 PV.

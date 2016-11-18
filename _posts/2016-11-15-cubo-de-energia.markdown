@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Cubo de Energia"
+date:   2016-11-15
+source: Manual Básico.174
+tags: [level7, feiticeiro, mago, essencia]
 ---
 
-**Necromancia de Nível 1**
+**Essência de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Área**: cubo com 3 metros de lado
 
-**Duração**: 1 hora
+**Duração**: 1 dia
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Esta magia cria uma prisão imóvel, invisível e indestrutível, similar a muralha de energia. Ela prende qualquer criatura de tamanho Grande ou menor.

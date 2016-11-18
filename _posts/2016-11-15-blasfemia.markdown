@@ -1,21 +1,25 @@
 ---
 layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, bardo, feiticeiro, mago, necromancia]
+title:  "Blasfêmia"
+date:   2016-11-15
+source: Manual Básico.166
+tags: [level7, clerigo, druida, mal, sonico]
 ---
 
-**Necromancia de Nível 1**
+**Mal/Sônico de Nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Área**: dispersão com 9 metros de raio
 
-**Duração**: 1 hora
+**Duração**: instantânea
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Vontade Anula
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+As criaturas não Malignas na área sofrem um efeito que depende de seu nível:
+
+• Acima de 14º nível fcam pasmas por uma rodada.
+• Entre 7º e 14º nível sofrem 2d6 pontos de dano temporário de Força, e ficam pasmas por uma rodada.
+• Abaixo de 7º nível morrem. Além disso, se você estiver em seu plano nativo, todos os espíritos não Malignos são banidos para seu plano de origem
