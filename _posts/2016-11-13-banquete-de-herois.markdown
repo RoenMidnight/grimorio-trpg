@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Visão da Morte"
-date:   2016-11-08
+date:   2016-11-13
 source: Manual Básico.219
-tags: [level6, bardo, feiticeiro, mago, necromancia]
+tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
 ---
 
 **Necromancia de Nível 1**

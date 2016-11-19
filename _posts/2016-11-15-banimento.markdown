@@ -3,7 +3,7 @@ layout: post
 title:  "Banimento"
 date:   2016-11-15
 source: Manual Básico.165
-tags: [level7, level 6, clerigo, druida, feiticeiro, mago, abjuracao]
+tags: [level6, level7, clerigo, druida, feiticeiro, mago, abjuracao]
 ---
 
 **Arcana 7/ Divina 6**
