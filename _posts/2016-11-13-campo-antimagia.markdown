@@ -2,7 +2,7 @@
 layout: post
 title:  "Campo Anti-Magia"
 date:   2016-11-13
-source: Manual Básico.219
+source: Manual Básico.167
 tags: [level6, level8, bardo, clerigo, druida, feiticeiro, mago, abjuracao]
 ---
 
