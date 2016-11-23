@@ -1,21 +1,23 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Controlar Água"
 date:   2016-11-13
 source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+tags: [level4, level6, bardo, clerigo, druida, feiticeiro, mago, transmutacao]
 ---
 
-**Necromancia de Nível 1**
+**Divina 4/ Arcana 6**
+
+**Transmutação de Nível 4/6**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 90 metros
 
-**Alvo**: Você
+**Área**: Quadrado com 24m de lado
 
 **Duração**: 1 hora
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Esta magia reduz ou aumenta, à sua escolha, o nível da água (ou outro líquido) em até 4,5m. Reduzir um corpo de água raso abre um caminho seco, que pode ser atravessado a pé; reduzir um corpo de água profundo cria um redemoinho, que pode sugar barcos. Lançada sobre um elemental da água, esta magia causa o efeito de lentidão.

@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Bordão da Magia"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.166
+tags: [level6, bardo, clerigo, druida, transmutacao]
 ---
 
-**Necromancia de Nível 1**
+**Transmutação de Nível 6**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: 10 minutos
 
-**Alcance**: Pessoal
+**Alcance**: Toque
 
-**Alvo**: Você
+**Alvo**: 1 bordão
 
-**Duração**: 1 hora
+**Duração**: Permanente até ser descarregada
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você armazena uma magia num bordão de madeira. Somente uma magia pode ser guardada no bordão, e você não pode ter mais de um bordão da magia ao mesmo tempo. Você pode lançar a magia armazenada sem gastar PM; quando a lançar, o bordão se esvazia.
+Quando lança bordão da magia, você deve fornecer qualquer componente material necessário para a magia a ser guardada, e pagar qualquer custo em XP

@@ -1,21 +1,19 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Conto das Rochas"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.172
+tags: [level6, bardo, clerigo, druida, adivinhacao]
 ---
 
-**Necromancia de Nível 1**
+**Adivinhação de Nível 6**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: 10 minutos
 
 **Alcance**: Pessoal
 
 **Alvo**: Você
 
-**Duração**: 1 hora
+**Duração**: 10 minutos
 
-**Teste de Resistência**: Nenhum
-
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você pode conversar com rochas, tanto naturais quanto trabalhadas. Pode descobrir o que elas viram e ouviram na última semana, ou se escondem alguma coisa (como uma sala secreta atrás de uma parede falsa)

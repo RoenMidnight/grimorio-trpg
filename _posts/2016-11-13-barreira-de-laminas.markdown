@@ -1,21 +1,25 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Barreira de Lâminas"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.166
+tags: [level6, bardo, clerigo, druida]
 ---
 
-**Necromancia de Nível 1**
+**Divina de Nível 6**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 30 metros
 
-**Alvo**: Você
+**Efeito**: Barreira ou Círculo de Lâminas
 
-**Duração**: 1 hora
+**Duração**: 10 minutos
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Reflexos reduz à metade ou anula (veja texto)
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você cria uma barreira com até 30m de lado e 6m de altura, ou um círculo com 6m de raio e 6m de altura, de lâminas afadas e giratórias. 
+Qualquer criatura que atravessar a barreira de lâminas sofre 10d6 pontos de dano. Um teste de Reﬂexos reduz o dano à metade.
+Uma criatura que esteja na área da barreira de lâminas quando ela é lançada sofre dano como se estivesse atravessando-a.
+A vítima pode evitar o dano com um teste de Reﬂexos (terminando dentro ou fora da barreira, à sua escolha).
+A barreira de lâminas fornece cobertura contra ataques desferidos através dela

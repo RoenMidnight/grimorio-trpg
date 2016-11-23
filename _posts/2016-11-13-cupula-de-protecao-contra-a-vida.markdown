@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Cupula de Proteção contra a Vida"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.174
+tags: [level6, bardo, clerigo, druida, abjuracao]
 ---
 
-**Necromancia de Nível 1**
+**Necromancia de Nível 6**
 
 **Tempo de Execução**: Ação Padrão
 
@@ -14,8 +14,6 @@ tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
 
 **Alvo**: Você
 
-**Duração**: 1 hora
+**Duração**: 10 minutos
 
-**Teste de Resistência**: Nenhum
-
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Como cúpula de proteção contra vegetais, mas afeta quaisquer animais, humanoides e monstros (mas não construtos, espíritos e mortos-vivos)

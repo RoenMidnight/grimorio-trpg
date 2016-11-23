@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Carne para Pedra"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.168
+tags: [level6, bardo, feiticeiro, mago, transmutacao]
 ---
 
-**Necromancia de Nível 1**
+**Transmutação de Nível 6**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 30 metros
 
-**Alvo**: Você
+**Alvo**: 1 criatura
 
-**Duração**: 1 hora
+**Duração**: instantânea
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Fortitude Anula
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você transforma o alvo e seu equipamento em uma estátua inerte e sem consciência. A criatura não está morta, mas também não pode ser percebida como um ser vivo por magias de adivinhação. Se a estátua for quebrada a criatura morrerá.

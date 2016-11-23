@@ -1,21 +1,26 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Círculo da Morte"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.169
+tags: [level6, bardo, feiticeiro, mago, necromancia]
 ---
 
-**Necromancia de Nível 1**
+**Necromancia de Nível 6**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 30 metros
 
-**Alvo**: Você
+**Alvo**: explosão com 12 metros de raio;
 
-**Duração**: 1 hora
+**Duração**: instantânea
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Fortitude anula.
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+**Componente material**: pó de pérola negra (no valor de 500 TO).
+
+Esta magia absorve a força vital das criaturas na área, matando-as instantaneamente. 
+O círculo da morte pode matar criaturas vivas totalizando 10d4 níveis. 
+Alvos com menos níveis são afetados primeiro; entre criaturas com nível igual, as mais próximas do ponto de origem são afetadas primeiro. 
+Nenhuma criatura de 10º nível ou maior será afetada.

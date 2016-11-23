@@ -1,21 +1,24 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Cura Completa"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.174
+tags: [level6, bardo, clerigo, druida, cura]
 ---
 
-**Necromancia de Nível 1**
+**Cura de Nível 6**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: Toque
 
-**Alvo**: Você
+**Alvo**: 1 criatura
 
-**Duração**: 1 hora
+**Duração**: instantânea
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Esta magia recupera 100 pontos de vida do alvo, além de todo dano temporário de habilidade. 
+Também cura qualquer doença ou veneno, e qualquer das seguintes condições: atordoado, cego, confuso, enjoado, exausto, fatigado, ofuscado, pasmo e surdo.
+A cura completa não remove níveis negativos, não restaura níveis perdidos e não cura dano permanente de habilidade.
+Se usada contra um morto-vivo, esta magia funciona como doença plena

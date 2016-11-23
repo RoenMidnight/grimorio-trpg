@@ -1,21 +1,24 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Banquete de Heróis"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.166
+tags: [level6, bardo, clerigo, druida, agua]
 ---
 
-**Necromancia de Nível 1**
+**Água de Nível 6**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: 10 mínutos
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Efeito**: Banquete para até 10 criaturas
 
-**Duração**: 1 hora
+**Duração**: 1 hora mais 12 horas, veja texto;
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você conjura um suntuoso banquete, com comida, bebida, mesa, cadeiras, pratos e talheres, que dura uma hora. 
+Cada criatura consumindo banquete durante toda sua duração é curada de qualquer doença, veneno e enjoo. 
+Além disso, durante 12 horas, cada criatura fca imune a doenças, venenos e enjoo, recebe +1 nas jogadas de ataque e testes de Vontade, e 1d8+5 PV temporários.
+Se o banquete é interrompido por alguma razão, a magia é dissipada e seus efeitos, anulado

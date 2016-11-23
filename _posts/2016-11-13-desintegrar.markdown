@@ -1,21 +1,24 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Desintegrar"
 date:   2016-11-13
 source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+tags: [level6, bardo, feiticeiro, mago, transmutacao]
 ---
 
-**Necromancia de Nível 1**
+**Transmutação de Nível 6**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 30 metros
 
-**Alvo**: Você
+**Efeito**: Raio
 
-**Duração**: 1 hora
+**Duração**: instantânea
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Fortitude parcial
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você dispara um raio fno e esverdeado. Faça um ataque de toque à distância.
+Se acertar, o alvo deve fazer um teste de Fortitude. 
+Em caso de falha, sofre 20d6 pontos de dano; se bem-sucedido, o dano diminui para 5d6.
+Independentemente do resultado do teste de Fortitude, se os PV do alvo forem reduzidos a 0 ou menos, seu corpo será completamente desintegrado, restando apenas pó

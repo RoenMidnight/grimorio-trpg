@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Corrente de Relâmpagos"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.173
+tags: [level6, bardo, feiticeiro, mago, eletrecidade]
 ---
 
-**Necromancia de Nível 1**
+**Eletrecidade de Nível 6**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 90 metros
 
-**Alvo**: Você
+**Alvo**: 1 alvo primário e até 10 alvos secundários
 
-**Duração**: 1 hora
+**Duração**: Instantânea
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Reflexos reduz à metade
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Uma descarga elétrica parte das pontas de seus dedos, atingindo um alvo à sua escolha e causando 12d6 pontos de dano. A partir desse ponto, a descarga se divide em outros relâmpagos que atingem até dez outros alvos à sua escolha, causando 6d6 pontos de dano cada. 
+Um mesmo alvo não pode ser atingido por mais de um relâmpago
