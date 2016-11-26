@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Nevoa Ácida"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico. 197
+tags: [level6, bardo, clerigo, druida, feiticeiro, mago, acido]
 ---
 
-**Necromancia de Nível 1**
+**Ácido de Nível 6**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 30 metros
 
-**Alvo**: Você
+**Alvo**: nuvem com 6m de raio e 6m de altura
 
-**Duração**: 1 hora
+**Duração**: 1 minuto
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Como névoa sólida, mas além de obscurecer a visão e impedir o movimento, os vapores da névoa ácidasão corrosivos. No início de cada turno, a névoa ácida causa 2d6 pontos de dano a todas as criaturas e objetos em seu interior.

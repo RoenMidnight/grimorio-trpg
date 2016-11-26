@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Elucubração do Mago"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.180
+tags: [level6, bardo, feiticeiro, mago, transmutacao]
 ---
 
-**Necromancia de Nível 1**
+**Transmutação de Nível 6**
 
 **Tempo de Execução**: Ação Padrão
 
@@ -14,8 +14,6 @@ tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
 
 **Alvo**: Você
 
-**Duração**: 1 hora
+**Duração**:  instantânea
 
-**Teste de Resistência**: Nenhum
-
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você recupera uma magia de 5º nível ou menor que tenha lançado nas últimas 24 horas. A elucubração do magosó está disponível para conjuradores que memorizam suas magias (como magos).

@@ -1,21 +1,23 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Missão"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico. 194
+tags: [level6, bardo, clerigo, druida, feiticeiro, mago, encantamento]
 ---
 
-**Necromancia de Nível 1**
+**Encantamento de Nível 6**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: 10 minutos
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Alvo**: 1 criatura
 
-**Duração**: 1 hora
+**Duração**: 1 semana ou até ser completada (D)
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Esta magia obriga o alvo a cumprir uma tarefa à sua escolha. Ela dura uma semana, ou até o alvo cumprir a tarefa, o que vier primeiro. 
+O alvo pode recusar a missão — mas, no fim de cada dia em que não se esforça para cumprir a tarefa, sofre uma penalidade cumulativa de –2 em todas as suas habilidades além de sofrer 3d6 pontos de dano cada dia em que não completar sua missão.
+Missão não pode forçar uma criatura a um ato claramente suicida. O conjurador também não pode designar uma missão impossível (por exemplo, matar uma pessoa que não existe)

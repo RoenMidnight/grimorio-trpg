@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Heroísmo Maior"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.185
+tags: [level6, bardo, feiticeiro, mago, encantamento]
 ---
 
-**Necromancia de Nível 1**
+**Encantamento de Nível 6**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: Toque
 
-**Alvo**: Você
+**Alvo**: 1 criatura
 
-**Duração**: 1 hora
+**Duração**: 1 hora (D)
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Esta magia imbui uma criatura com coragem e valentia. O alvo recebe um bônus de +4 nas jogadas de ataque e testes de resistência, 10 PV temporário e fica imune a medo.

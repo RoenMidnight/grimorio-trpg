@@ -1,21 +1,23 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Teletransporte por Árvores"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.214
+tags: [level6, bardo, clerigo, druida, invocacao]
 ---
 
-**Necromancia de Nível 1**
+**Invocação de Nível 6**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: Toque
 
-**Alvo**: Você
+**Alvo**: até 5 criaturas voluntárias
 
-**Duração**: 1 hora
+**Duração**: 1 rodada
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você e até cinco criaturas tocadas entram em uma planta (de tamanho Médio ou maior) e saem em outra planta da mesma espécie, independente da distância separando as duas. 
+Ambas as plantas precisam estar vivas. Se você especificar uma planta de saída e ela estiver morta, a magia falha.
+Em vez de especificar uma planta de saída, você pode simplesmente especificar uma direção e distância aproximadas (como “um carvalho 100km ao norte daqui”). Nesse caso, a magia vai transportá-lo para a planta mais próxima do destino.

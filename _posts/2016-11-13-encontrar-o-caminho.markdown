@@ -1,21 +1,24 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Encontrar o Caminho"
 date:   2016-11-13
 source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+tags: [level6, bardo, clerigo, druida, adivinhacao]
 ---
 
-**Necromancia de Nível 1**
+**Adivinhação de nível 6**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: Ação Completa
 
-**Alcance**: Pessoal
+**Alcance**: Toque
 
-**Alvo**: Você
+**Alvo**: 1 criatura
 
 **Duração**: 1 hora
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+A criatura tocada descobre o caminho mais direto para entrar ou sair de um lugar. 
+Assim, a magia pode ser usada para descobrir a rota até o relicário de uma catedral, ou a saída mais próxima de uma masmorra (mas não para encontrar a localização de uma criatura ou objeto; encontrar o caminhofunciona apenas em relação a lugares).
+Caso a criatura demore mais de uma hora para percorrer o caminho, o conhecimento se perde.
+Se encontrar o caminhofor lançada em uma criatura sob efeito de labirinto, o efeito de labirintotermina em uma rodada

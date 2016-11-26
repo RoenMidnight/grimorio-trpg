@@ -1,21 +1,23 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Madeira-Ferro"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.191
+tags: [level6, bardo, clerigo, druida, transmutacao]
 ---
 
-**Necromancia de Nível 1**
+**Transmutação de Nível 6**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: 10 minutos;
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Alvo**: 1 objeto de madeira de até 20 kg;
 
-**Duração**: 1 hora
+**Duração**: 1 semana
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você fornece a um item de madeira a resistência e peso do metal. Assim, você pode ter uma espada longa ou uma armadura completa de madeira com as mesmas estatísticas de suas versões metálicas. 
+Isso é especialmente útil para druidas, que não podem usar itens de metal.
+Efeitos que afetam metal (como a magia esquentar metal) não afetam a madeira--ferro. Você pode construir itens de madeira para tornar madeira-ferrousando Ofício (carpintaria) ou a magia moldar madeira

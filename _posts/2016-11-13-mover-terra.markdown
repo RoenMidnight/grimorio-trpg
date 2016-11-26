@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Mover Terra"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico. 195
+tags: [level6, bardo, clerigo, druida, transmutacao]
 ---
 
-**Necromancia de Nível 1**
+**Trasmutação de Nível 6**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: 10 minutos
 
-**Alcance**: Pessoal
+**Alcance**: 90 metros
 
-**Alvo**: Você
+**Área**: quadrado com 18 metros de lado e até 3 metros de profundidade
 
-**Duração**: 1 hora
+**Duração**: instantanea
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você desloca terra (ou outro tipo de solo macio, como argila, barro, areia...) suavemente, criando pequenas ondulações que não afetam árvores, estruturas, formações rochosas e coisas do tipo. A magia também é muito lenta para prender criaturas. Mover terraé usada principalmente para ajustar fossos, trincheiras 
+e barricadas, preparando o terreno para um acampamento ou batalha, por exemplo

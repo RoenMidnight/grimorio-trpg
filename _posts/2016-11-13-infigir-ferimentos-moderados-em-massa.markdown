@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Inflingir Ferimentos Moderados em Massa"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.187
+tags: [level6, bardo, clerigo, druida, necromancia]
 ---
 
-**Necromancia de Nível 1**
+**Necromancia de Nível 6**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Alvo**: até 5 criaturas
 
-**Duração**: 1 hora
+**Duração**: instantânea
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você canaliza energia positiva que recupera 2d8+11 pontos de vida até 5 criaturas

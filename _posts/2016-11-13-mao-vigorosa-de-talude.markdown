@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Mão Vigorosa de Talude"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico. 192
+tags: [level6, bardo,  feiticeiro, mago, essencia]
 ---
 
-**Necromancia de Nível 1**
+**Essência de Nível 6**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 30 metros
 
-**Alvo**: Você
+**Efeito**: Mão Mágica
 
-**Duração**: 1 hora
+**Duração**: 1 minuto
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Como a mão interposta, mas além de protegê-lo a mão esmagadorapersegue e afasta o oponente. No início de cada turno, ela usa uma manobra empurrar contra o oponente, com bônus de +21. A mão sempre acompanha o oponente para empurrá--lo até a distância máxima que conseguir

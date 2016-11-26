@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Palavra de Recordação"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.200
+tags: [level6, bardo, clerigo, druida, invocacao]
 ---
 
-**Necromancia de Nível 1**
+**Invocação de Nível 6**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: Toque
 
-**Alvo**: Você
+**Alvo**: Você e até 5 criaturas voluntárias
 
-**Duração**: 1 hora
+**Duração**:  Instantânea
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Esta magia teletransporta você e até cinco criaturas voluntárias que você esteja tocando para seu santuário — um local familiar escolhido por você. A escolha do santuário deve ser feita quando você prepara a magia, não quando você a lança.
+A palavra de recordaçãopode transportá-lo a qualquer distância, mas apenas dentro do mesmo plano.

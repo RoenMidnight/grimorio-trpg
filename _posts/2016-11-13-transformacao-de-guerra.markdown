@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Transformação de Guerra"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.217
+tags: [level6, bardo, feiticeiro, mago, transmutacao]
 ---
 
-**Necromancia de Nível 1**
+**Transmutação de Nível 6*
 
 **Tempo de Execução**: Ação Padrão
 
@@ -14,8 +14,8 @@ tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
 
 **Alvo**: Você
 
-**Duração**: 1 hora
+**Duração**: 1 minuto
 
-**Teste de Resistência**: Nenhum
-
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você se torna uma máquina de combate — mais forte, rápido e resistente. 
+Você recebe +6 na CA e jogadas de ataque e dano corpo-a-corpo. Além disso, recebe 30 PV temporários.
+Durante a transformação de guerra você perde sua habilidade de lançar magias.

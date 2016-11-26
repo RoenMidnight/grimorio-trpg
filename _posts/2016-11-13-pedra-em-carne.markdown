@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Pedra em Carne"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.201
+tags: [level6, bardo,  feiticeiro, mago, transmutacao]
 ---
 
-**Necromancia de Nível 1**
+**Trasmutação de Nível 6**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: Pessoal
+**Alcance**: 30 metros
 
-**Alvo**: Você
+**Alvo**: 1 criatura petrificada
 
-**Duração**: 1 hora
+**Duração**: Instantânea
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Esta magia restaura uma criatura petrificada ao estado normal. A vítima precisa ser bem-sucedida em um teste de Fortitude (CD 15) para sobreviver ao trauma.

@@ -1,21 +1,25 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Invocar Monstro VI"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.189
+tags: [level6, bardo, clerigo, druida, feiticeiro, mago, invocacao]
 ---
 
-**Necromancia de Nível 1**
+**Invocação de Nível 6**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: Ação Completa
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Efeito**: 1 criatura invocada
 
-**Duração**: 1 hora
+**Duração**: concentração +1 rodada, até 1 minuto.
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Esta magia invoca um monstro de tamanho Pequeno que surge em um ponto qualquer dentro de 9m, à sua escolha. No começo de seu próximo turno, a criatura avança e ataca seus inimigos, a menos que receba ordens para fazer outra coisa. O monstro pode ter qualquer forma escolhida por você (mas de tamanho Pequeno): uma serpente, diabrete, arbusto ambulante… No entanto, não é uma criatura viva de verdade, e sim um construto feito de energia. O monstro invocado tem as estatísticas a seguir:
+
+Monstro VI: Construto 10, N; Grande, desl. 12m; PV 80; CA 21; corpo-a-corpo: pancada +15 (1d8+13); Fort +5, Ref +6, Von +5; For 27, Des 13, Con –, Int –, Sab 11, Car 10. Perícias & Talentos:Iniciativa +7; Foco em Arma (pancada)
+
+O monstro permanece até o fm da magia, ou até ser destruído. Se destruído, desaparece com um brilho de energia, sem deixar nada para trás

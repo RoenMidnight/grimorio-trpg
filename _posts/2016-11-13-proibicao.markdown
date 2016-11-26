@@ -1,21 +1,24 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Proibição"
 date:   2016-11-13
 source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+tags: [level6, bardo, clerigo, druida, abjuracao]
 ---
 
-**Necromancia de Nível 1**
+**Abjuração de Nível 6**
 
-**Tempo de Execução**: Ação Padrão
+**Tempo de Execução**: 1 minuto
 
-**Alcance**: Pessoal
+**Alcance**: 9 metros
 
-**Alvo**: Você
+**Área**: cubo com 9m de lado
 
-**Duração**: 1 hora
+**Duração**: Permanente
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+**Componentes materiais**: água benta e incensos raros no valor total de 1.000 TO
+
+Esta magia impede todas as viagens planares para a área, e a partir dela. Isso inclui todas as magias de invocação (como porta dimensional, teletransportee viagem planar), além de viagens astrais, etéreas ou pelo Plano das Sombras.
+Além disso, a proibiçãocausa dano em criaturas com tendência diferente da sua. Criaturas com tendência a um passo da sua sofrem 6d6 pontos de dano quando entram na área. Criaturas com tendência a dois ou mais passos da sua sofrem 12d6 pontos de dano.

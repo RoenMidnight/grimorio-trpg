@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Visão da Morte"
+title:  "Despistar"
 date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+source: Manual Básico.176
+tags: [level6, bardo, feiticeiro, mago, ilusao]
 ---
 
-**Necromancia de Nível 1**
+**Ilusao de Nível 6**
 
 **Tempo de Execução**: Ação Padrão
 
 **Alcance**: Pessoal
 
-**Alvo**: Você
+**Alvo/Efeito**: Você/ uma duplicata ilusória
 
-**Duração**: 1 hora
+**Duração**: concentração, até 1 minuto
 
 **Teste de Resistência**: Nenhum
 
-Você percebe automaticamente se uma criatura que esteja vendo morta, moribunda (com 0 ou menos PV), fraca (com menos de 25% de seus PV), razoável (entre 25 a 90% de seus PV) ou saudável (com mais de 90% de seus PV). Você também percebe se é um ser vivo, morto-vivo ou construto
+Você se torna invisível (como invi sibi li dade  aprimorada). Ao mesmo tempo, uma cópia ilusória de você (como imagem maior) surge no ponto em que você está. 
+A duplicata tem o mesmo deslocamento, fala e gesticula como se fosse real — mas não pode atacar, nem lançar magias
