@@ -18,4 +18,4 @@ tags: [level6, bardo, clerigo, druida, feiticeiro, mago, transmutacao]
 
 **Teste de Resistência**: Nenhum
 
-Fornece aos alvos um bônus de +4 de Carisma, afeta até cinco criaturas.
+Fornece aos alvos um bônus de +4 de Inteligencia, afeta até cinco criaturas.
