@@ -1,27 +1,26 @@
 ---
 layout: post
-title:  "Vazio"
+title:  "Fascinação"
 date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+source: Manual Básico. 183
+tags: [level4,  feiticeiro, mago, encantamento]
 ---
 
-**Encantamento de Nível 8**
+**Encantamento de Nível 4**
 
-**Tempo de Execução**: Ação Completa
+**Tempo de Execução**: 1 minuto
 
 **Alcance**: Toque
 
-**Alvo**: 1 criatura
+**Alvo**: 1 pintura, escultura ou outra obra de arte
 
 **Duração**: Permanente
 
 **Teste de Resistência**: Vontade Anula;
 
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+Diz a lenda que esta magia foi criada por um artista frustrado, competente em magia, mas incapaz de produzir uma verdadeira obra de arte. 
+Qualquer criatura que se aproxime a 9m ou menos de uma obra de arte afetada pela fascinaçãodeve fazer um teste de Vontade. Se falhar, não conseguirá tirar os olhos do objeto, totalmente encantada com sua beleza.
+O transe pode ser interrompido facilmente — basta que a vítima receba qualquer dano ou apenas seja sacudida (“Ei, acorda!”). Caso não seja arrancada de seu transe, uma vítima pode observar o objeto 
+de sua fascinação durante dias, sem comer, beber ou dormir, até morrer de inanição. 
+Conta-se histórias de aventureiros solitários que morreram em casas ou mansões abandonadas, contemplando um quadro ou estátua até a morte.
+Apenas um alvo por vez pode ser afetado pela fascinação. Enquanto o objeto tem um “admirador”, cessa de afetar quaisquer outras criaturas que olhem para ele.

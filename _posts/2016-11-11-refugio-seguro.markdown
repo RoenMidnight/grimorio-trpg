@@ -1,27 +1,22 @@
 ---
 layout: post
-title:  "Vazio"
+title:  "Refúgio Seguro"
 date:   2016-11-11
 source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+tags: [level4, bardo, feiticeiro, mago, invocacao]
 ---
 
-**Encantamento de Nível 8**
+**Invocação de Nível 4**
 
-**Tempo de Execução**: Ação Completa
+**Tempo de Execução**: 10 minutos
 
-**Alcance**: Toque
+**Alcance**: 9 metros
 
-**Alvo**: 1 criatura
+**Efeito**: estrutura quadrada com 6m de lado; 
 
-**Duração**: Permanente
+**Duração**: 1 dia
 
-**Teste de Resistência**: Vontade Anula;
+**Teste de Resistência**: nenhum;
 
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+Esta magia cria uma pequena cabana de madeira. Para todos os efeitos é uma cabana normal, com uma porta, duas janelas e alguma mobília (camas, uma mesa com bancos e uma lareira). 
+A porta e janelas têm 15 PV, redução de dano 5 e são protegidas por tranca arcana. As paredes têm 60 PV e redução de dano 5.

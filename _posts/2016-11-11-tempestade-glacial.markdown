@@ -1,27 +1,22 @@
 ---
 layout: post
-title:  "Vazio"
+title:  "Tempestade Glacial"
 date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+source: Manual Básico.215
+tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, frio]
 ---
 
-**Encantamento de Nível 8**
+**Frio de Nível 4**
 
-**Tempo de Execução**: Ação Completa
+**Tempo de Execução**: Ação Padrão
 
-**Alcance**: Toque
+**Alcance**: 90 metros
 
-**Alvo**: 1 criatura
+**Área**: cilindro com 6m de raio e 12m de altura;
 
-**Duração**: Permanente
+**Duração**: 1 rodada
 
-**Teste de Resistência**: Vontade Anula;
+**Teste de Resistência**: nenhum;
 
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+Esta magia faz chover grandes pedras de granizo, causando 3d6 pontos de dano de esmagamento e mais 2d6 pontos de dano de frio em todas as criaturas na área.
+A área afetada é considerada terreno difícil, e testes de Percepção ali sofrem penalidade de –4. No início do seu próximo turno, o granizo desaparece, sem deixar resquícios (exceto o dano causado).

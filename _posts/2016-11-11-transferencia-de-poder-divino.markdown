@@ -1,27 +1,22 @@
 ---
 layout: post
-title:  "Vazio"
+title:  "Transferencia de Poder Divino"
 date:   2016-11-11
 source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+tags: [level4, bardo, clerigo, druida, ranger, paladino, transmutacao]
 ---
 
-**Encantamento de Nível 8**
+**Transmutação de Nível 4**
 
-**Tempo de Execução**: Ação Completa
+**Tempo de Execução**: 10 minutos
 
 **Alcance**: Toque
 
 **Alvo**: 1 criatura
 
-**Duração**: Permanente
+**Duração**: Permanente até ser descarregada
 
-**Teste de Resistência**: Vontade Anula;
+**Teste de Resistência**: Nenhum;
 
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+Você transfere um pouco de seu poder divino a outra criatura. Escolha uma magia de 2º nível; o alvo de transferência de poder divinopode lançar essa magia uma vez, sem gastar pontos de magia.
+Até que o alvo de transferência de poder divinolance a magia que ganhou, seu total de PM é reduzido em –4

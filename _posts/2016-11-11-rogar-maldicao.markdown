@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  "Vazio"
+title:  "Rogar Maldição"
 date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+source: Manual Básico.210
+tags: [level3, level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
 ---
 
-**Encantamento de Nível 8**
+**Arcana 4/ Divina 3**
 
-**Tempo de Execução**: Ação Completa
+**Necromancia de Nível 3/4**
+
+**Tempo de Execução**: Ação Padrão
 
 **Alcance**: Toque
 
@@ -18,10 +20,12 @@ tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encan
 
 **Teste de Resistência**: Vontade Anula;
 
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+Você lança uma maldição sobre a criatura tocada. Escolha um entre três efeitos:
+
+• Penalidade de –6 em um valor de habilidade (mas nunca abaixo de 1).
+
+• Penalidade de –4 em todas as jogadas de ataque e testes de habilidade, perícia e resistência.
+
+• 50% de chance de agir normalmente a cada rodada ou ficar imóvel.
+
+Você também pode inventar sua própria maldição, usando estes exemplos como sugestões, mas o mestre tem a palavra final sobre o efeito. A maldição não pode ser dissipada, mas pode ser removida com remover encantamento

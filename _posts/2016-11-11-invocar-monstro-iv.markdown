@@ -1,27 +1,25 @@
 ---
 layout: post
-title:  "Vazio"
-date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+title:  "Invocar Monstro IV"
+date:   2016-11-13
+source: Manual Básico.189
+tags: [level6, bardo, clerigo, druida, paladino, ranger, feiticeiro, mago, invocacao]
 ---
 
-**Encantamento de Nível 8**
+**Invocação de Nível 4**
 
 **Tempo de Execução**: Ação Completa
 
-**Alcance**: Toque
+**Alcance**: 9 metros
 
-**Alvo**: 1 criatura
+**Efeito**: 1 criatura invocada
 
-**Duração**: Permanente
+**Duração**: concentração +1 rodada, até 1 minuto.
 
-**Teste de Resistência**: Vontade Anula;
+**Teste de Resistência**: Nenhum
 
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+Esta magia invoca um monstro de tamanho Pequeno que surge em um ponto qualquer dentro de 9m, à sua escolha. No começo de seu próximo turno, a criatura avança e ataca seus inimigos, a menos que receba ordens para fazer outra coisa. O monstro pode ter qualquer forma escolhida por você (mas de tamanho Pequeno): uma serpente, diabrete, arbusto ambulante… No entanto, não é uma criatura viva de verdade, e sim um construto feito de energia. O monstro invocado tem as estatísticas a seguir:
+
+Monstro IV:Construto 5; N; Médio, desl. 12m; PV 45; CA 18; corpo-a-corpo: pancada +9 (1d6+7); Fort +2, Ref +4, Von +2; For 21, Des 15, Con –, Int –, Sab 11, Car 10. Perícias & Talentos:Iniciativa +6; Foco em Arma (pancada).
+
+O monstro permanece até o fm da magia, ou até ser destruído. Se destruído, desaparece com um brilho de energia, sem deixar nada para trás

@@ -1,27 +1,24 @@
 ---
 layout: post
-title:  "Vazio"
+title:  "Pedras Afiadas"
 date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+source: Manual Básico.201
+tags: [level4, bardo, clerigo, druida, ranger, paladino, transmutacao]
 ---
 
-**Encantamento de Nível 8**
+**Transmutação de Nível 4**
 
-**Tempo de Execução**: Ação Completa
+**Tempo de Execução**: Ação Padrão
 
-**Alcance**: Toque
+**Alcance**: 30 metros
 
-**Alvo**: 1 criatura
+**Área**:  quadrado com 12m de lado;
 
-**Duração**: Permanente
+**Duração**: 1 dia
 
-**Teste de Resistência**: Vontade Anula;
+**Teste de Resistência**: Reflexos parcial;
 
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+Esta magia só pode ser lançada sobre solo rochoso — cujas pedras criam pontas longas e afi adas, presas ao chão. 
+A área conta como terreno difícil; além disso, uma criatura que entre em um quadrado afetado sofre 1d8 pontos de dano e deve fazer um teste de Reflexos. 
+Se falhar no teste, sofre ferimentos severos nos pés e tem seu deslocamento reduzido à metade por um dia, ou até receber uma magia que cure pelo menos 1 PV (esta redução no deslocamento não é cumulativa).
+Um personagem com a habilidade de encontrar armadilhas pode notar as pedras afiadas com um teste de Percepção (CD 29).

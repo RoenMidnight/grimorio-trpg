@@ -1,27 +1,23 @@
 ---
 layout: post
-title:  "Vazio"
+title:  "Moldar Rocha"
 date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+source: Manual Básico. 195
+tags: [level3, level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, transmutacao]
 ---
 
-**Encantamento de Nível 8**
+**Arcana 4/ Divina 3**
 
-**Tempo de Execução**: Ação Completa
+**Transmutaçaõ de Nível 3/4**
+
+**Tempo de Execução**: Ação Padrão
 
 **Alcance**: Toque
 
-**Alvo**: 1 criatura
+**Alvo**: 1 pedao de pedra Grande ou menor;
 
-**Duração**: Permanente
+**Duração**: instantânea
 
-**Teste de Resistência**: Vontade Anula;
+**Teste de Resistência**: nenhum;
 
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+Você muda a forma de um pedaço de pedra. Pode transformar um bloco de pedra em estátua, esculpir degraus para subir uma montanha, transformar uma estalagmite em uma lança, criar uma passagem através de uma parede... mas não pode criar mecanismos complexos

@@ -1,27 +1,24 @@
 ---
 layout: post
-title:  "Vazio"
+title:  "Enfeitiçar Monstro"
 date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+source: Manual Básico. 180
+tags: [level4, bardo, clerigo, druida, ranger, paladino, encantamento]
 ---
 
-**Encantamento de Nível 8**
+**Encantamento de Nível 4**
 
-**Tempo de Execução**: Ação Completa
+**Tempo de Execução**: Ação Padrão
 
-**Alcance**: Toque
+**Alcance**: 9 metros
 
-**Alvo**: 1 criatura
+**Alvo**: 1 criatura viva
 
-**Duração**: Permanente
+**Duração**: 1 semana
 
 **Teste de Resistência**: Vontade Anula;
 
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+Esta magia torna uma qualquer criatura viva prestativa (veja Diplomacia no Capítulo 2: Perícias). Ela não fica sob seu controle, mas percebe suas palavras e ações da maneira mais favorável possível. 
+A vítima atende pedidos simples e inofensivos automaticamente; para pedidos incomuns ou arriscados você precisa ser bem-sucedido em um teste de Diplomacia (CD 20, sem direito a novas tentativas em caso de falha). 
+A vítima não atende pedidos muito perigosos ou suicidas.
+Um teste de Vontade bem-sucedido anula a magia, e um alvo ameaçado recebe +5 nesse teste. Se você ou seus aliados executam qualquer ação hostil contra o alvo, a magia é anulada.

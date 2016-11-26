@@ -1,27 +1,32 @@
 ---
 layout: post
-title:  "Vazio"
+title:  "Momento de Tormenta"
 date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+source: Manual Básico. 195
+tags: [level4, bardo, feiticeiro, mago, transmutacao]
 ---
 
-**Encantamento de Nível 8**
+**Transmutação de Nível 4**
 
 **Tempo de Execução**: Ação Completa
 
-**Alcance**: Toque
+**Alcance**: 9 metros
 
-**Alvo**: 1 criatura
+**Efeito**: nuvem com 30m de raio
 
-**Duração**: Permanente
+**Duração**: Concentração mais 1 minuto
 
-**Teste de Resistência**: Vontade Anula;
+**Teste de Resistência**: veja adiante;
 
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+**Componente material**: um fragmento de matéria vermelha da Tormenta
+
+Uma nuvem rubra surge acima do 
+conjurador. A cada rodada, a nuvem manifesta um dos seguintes fenômenos, à escolha do conjurador.
+
+• Chuva ácida: 4d4 pontos de dano de ácido em toda a área sob a nuvem; sem teste de Resistência.
+
+• Neblina venenosa: 1d6 pontos de dano de Constituição em todas as criaturas sob a nuvem; Fortitude anula.
+
+• Tempestade elétrica: uma criatura aleatória sob a nuvem — incluindo o conju ra dor! — é atingida por um relâmpago que causa 5d10 pontos de dano de eletricidade; Reflexos reduz à metade. 
+
+Esta magia só pode ser realizada por conjuradores que tenham observado uma área de Tormenta pelo menos uma vez. Sua divulgação é proibida, e sua invocação é permitida apenas em áreas controladas na Academia Arcana e outros lugares restritos, para estudar o fenômeno da Tormenta. Usar esta magia em qualquer outro ponto do Reinado é crime punido com a morte!

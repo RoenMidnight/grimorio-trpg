@@ -1,27 +1,25 @@
 ---
 layout: post
-title:  "Vazio"
+title:  "Drenar Temporário"
 date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+source: Manual Básico. 179
+tags: [level4, bardo, feiticeiro, mago, necromancia]
 ---
 
-**Encantamento de Nível 8**
+**Necromancia de Nível 4**
 
-**Tempo de Execução**: Ação Completa
+**Tempo de Execução**: Ação Padrão
 
-**Alcance**: Toque
+**Alcance**: 9 metros
 
-**Alvo**: 1 criatura
+**Efeito**:  raio
 
-**Duração**: Permanente
+**Duração**: 1 hora
 
-**Teste de Resistência**: Vontade Anula;
+**Teste de Resistência**:  nenhum;
 
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+Você dispara um raio púrpura de seus dedos. Faça um ataque de toque à distância. Se acertar, o alvo sofre 1d4 níveis negativos. 
+Cada nível negativo impõe uma penalidade de –1 nas jogadas de ataque e testes de habilidade, perícia e resistência. 
+Cada nível negativo também faz um conjurador perder sua magia memorizada de mais alto nível, ou pontos de magia equivalentes à magia de mais alto nível que pode lançar.
+Normalmente, níveis negativos podem se tornar uma perda permanente de nível, mas os níveis negativos de drenar temporárionão têm duração suficiente.
+Contra um morto-vivo, em vez disso a magia oferece 1d4x5 PV temporários

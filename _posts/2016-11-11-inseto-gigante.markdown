@@ -1,27 +1,29 @@
 ---
 layout: post
-title:  "Vazio"
+title:  "Inseto Gigante"
 date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+source: Manual Básico. 187
+tags: [level4, bardo, clerigo, druida, ranger, paladino, transmutacao]
 ---
 
-**Encantamento de Nível 8**
+**Transmutação de Nível 4**
 
-**Tempo de Execução**: Ação Completa
+**Tempo de Execução**: Ação Padrão
 
-**Alcance**: Toque
+**Alcance**: 9 metros
 
-**Alvo**: 1 criatura
+**Alvo**: 1 inseto
 
-**Duração**: Permanente
+**Duração**: 10 minutos
 
-**Teste de Resistência**: Vontade Anula;
+**Teste de Resistência**: Nenhum;
 
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+Esta magia transforma um inseto comum (formiga, abelha, besouro...) em uma versão gigante, com as seguintes estatísticas:
+
+Inseto Gigante:Animal 4; N; tamanho Grande, desl. voo 12m; PV 24; CA 17; 
+corpo-a-corpo: mordida +6 (1d8+6 mais veneno); 
+hab. veneno; Fort +6, Ref +6, Von +3; 
+For 19, Des 15, Con 15, Int 1, Sab 12, Car 4. 
+Perícias e Talentos:Iniciativa +4.
+Veneno:inoculação através da mordida; teste de Fortitude (CD 14); 1d4 pontos de dano temporário de Constituição.
+O inseto é obediente ao conjurador, mas só entende ordens básicas, como “ataque”, “pegue” e “pare”

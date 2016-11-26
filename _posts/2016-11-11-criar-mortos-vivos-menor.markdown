@@ -1,27 +1,27 @@
 ---
 layout: post
-title:  "Vazio"
+title:  "Criar Mortos-Vivos Menor"
 date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+source: Manual Básico. 174
+tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
 ---
 
-**Encantamento de Nível 8**
+**Arcana 4 / Divina 3**
 
-**Tempo de Execução**: Ação Completa
+**Necromancia de Nível 3/4**
+
+**Tempo de Execução**: Ação Padrão
 
 **Alcance**: Toque
 
-**Alvo**: 1 criatura
+**Alvo**: 1 cadáver
 
-**Duração**: Permanente
+**Duração**: Instantânea
 
-**Teste de Resistência**: Vontade Anula;
+**Teste de Resistência**: nenhum;
 
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+**Componente material**:um ônix negro (no valor de 25 TO por nível do morto--vivo), inserido na boca ou olho do cadáver
+
+Esta magia transforma um cadáver em um esqueleto ou zumbi (conforme o estado de conservação do corpo) que segue seus comandos. 
+O nível máximo de mortos-vivos que você pode ter sob seu comando é igual ao dobro de seu nível. Um conjurador de 10º nível, por exemplo, pode ter até 20 níveis de mortos-vivos sob seu comando — 20 esqueletos, 10 zumbis ou qualquer outra combinação que some 20 níveis.
+Os mortos-vivos podem segui-lo ou então proteger um local à sua escolha. Eles duram até serem destruídos (um morto-vivo destruído não pode ser reanimado). Veja o Capítulo 11: Bestiário, para estatísticas de esqueletos e zumbis.

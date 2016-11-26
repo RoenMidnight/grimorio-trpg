@@ -1,27 +1,25 @@
 ---
 layout: post
-title:  "Vazio"
+title:  "Adivinhação"
 date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+source: Manual Básico.160
+tags: [level4, bardo, clerigo, druida, ranger, paladino, adivinhacao]
 ---
 
-**Encantamento de Nível 8**
+**Adivinhação de Nível 4**
 
-**Tempo de Execução**: Ação Completa
+**Tempo de Execução**: 10 minutos
 
-**Alcance**: Toque
+**Alcance**: Pessoal
 
-**Alvo**: 1 criatura
+**Alvo**: Você
 
-**Duração**: Permanente
+**Duração**: Instantânea
 
-**Teste de Resistência**: Vontade Anula;
+**Componente material**:incenso e oferendas sacrificadas à sua divindade, no valor de pelo menos 100 TO
 
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+
+Esta magia responde uma pergunta feita por você. O mestre deve rolar 1d6; com um resultado de 1 a 5 a adivinhação funciona, e você recebe sua resposta, que pode ser desde uma simples frase até uma profecia ou enigma.
+Em um resultado de 6 a adivinhaçãofalha, e você não recebe resposta alguma. Você não pode lançar mais de uma adivinhaçãopara a mesma pergunta.
+Adivinhação não é poderosa o suficiente para resolver tramas intrincadas — como regra geral, qualquer coisa que exija mais de um dia de investigação não será descoberta. 
+Mas a magia pode fornecer pistas, indicando um caminho a tomar para descobrir a resposta que procura.

@@ -1,27 +1,39 @@
 ---
 layout: post
-title:  "Vazio"
+title:  "Vidência"
 date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+source: Manual Básico.218
+tags: [level4, level5, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, adivinhacao]
 ---
 
-**Encantamento de Nível 8**
+**Arcana 4/ Divina 5**
 
-**Tempo de Execução**: Ação Completa
+**Adivinhação de Nível 4/5**
 
-**Alcance**: Toque
+**Tempo de Execução**: 1 hora
 
-**Alvo**: 1 criatura
+**Alcance**: veja texto
 
-**Duração**: Permanente
+**Efeito**:  Sensor Mágico;
+
+**Duração**: 1 minuto
 
 **Teste de Resistência**: Vontade Anula;
 
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+Através de uma superfície (bacia de água benta para clérigos, lago para druidas, espelho para feiticeiros e bola de cristal para magos) você pode ver e ouvir uma criatura escolhida e seus arredores (cerca de 3m em qualquer direção), mesmo que ela se mova. 
+O alvo pode estar a qualquer distância, mas se ele é bem-sucedido em um teste de Vontade, a magia falha. A vítima recebe bônus ou penalidades em seu teste de resistência, dependendo do conhecimento que você tiver dela.
+
+• Não conhece o alvo: +10.
+• Ouviu falar do alvo: +5.
+• Já encontrou o alvo pessoalmente: +0.
+• Conhece bem o alvo: –5
+• Tem uma descrição ou pintura do 
+alvo: –2.
+• Tem um pertence pessoal ou peça de 
+roupa do alvo: –5.
+• Tem uma parte do corpo do alvo 
+(unhas, cabelos...): –10.
+• O alvo está em outro plano ou dimensão: +5.
+As seguintes magias podem ser usadas 
+através do sensor mágico: detectar magia, 
+detectar o mal/bem/caos/ordeme mensagem.

@@ -1,27 +1,19 @@
 ---
 layout: post
-title:  "Vazio"
+title:  "Detectar Videncia"
 date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+source: Manual Básico. 177
+tags: [level4, bardo, clerigo, druida, ranger, paladino, adivinhacao]
 ---
 
-**Encantamento de Nível 8**
+**Adivinhação de Nível 4**
 
-**Tempo de Execução**: Ação Completa
+**Tempo de Execução**: Ação Padrão
 
-**Alcance**: Toque
+**Alcance**: Pessoal
 
-**Alvo**: 1 criatura
+**Alvo**:  você
 
-**Duração**: Permanente
+**Duração**: 1 dia
 
-**Teste de Resistência**: Vontade Anula;
-
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+Você percebe qualquer tentativa de detectá-lo através de magias de adivinhação, e descobre a presença de qualquer sensor mágico a até 18m. Você pode fazer um teste oposto de Identificar Magia contra o conjurador que tentou detectá-lo; se for bem-sucedido, você tem um vislumbre de seu rosto e uma ideia aproximada de sua localização (“três dias de viagem ao norte”, por exemplo).

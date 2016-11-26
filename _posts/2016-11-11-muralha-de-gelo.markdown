@@ -1,27 +1,24 @@
 ---
 layout: post
-title:  "Vazio"
+title:  "Muralha de Gelo"
 date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+source: Manual Básico.196
+tags: [level4, bardo, feiticeiro, mago, frio]
 ---
 
-**Encantamento de Nível 8**
+**Frio de Nível 4**
 
-**Tempo de Execução**: Ação Completa
+**Tempo de Execução**: Ação Padrão
 
-**Alcance**: Toque
+**Alcance**: 30 metros
 
-**Alvo**: 1 criatura
+**Efeito**: barreira ou cúpula de gelo;
 
-**Duração**: Permanente
+**Duração**: 10 minutos;
 
-**Teste de Resistência**: Vontade Anula;
+**Teste de Resistência**: veja texto;
 
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+Esta magia cria uma muralha de gelo. 
+Na forma de barreira, tem 15m de largura, 3m de altura (ou o contrário) e 15cm de espessura. 
+Na forma de cúpula, tem 3m de raio e 15cm de espessura. Uma cúpula pode prender uma ou mais criaturas, mas estas têm direito a um teste de Reflexos para escapar antes que a cúpula se forme.
+Cada trecho de 3m da muralha tem 20 PV. Um trecho da muralha que atinja 0 PV será rompido. Qualquer efeito de fogo causa dano dobrado à muralha. Uma criatura que atravesse um trecho rompido da muralha sofre 2d6 pontos de dano de frio.

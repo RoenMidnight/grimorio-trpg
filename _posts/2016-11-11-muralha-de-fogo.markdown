@@ -1,27 +1,26 @@
 ---
 layout: post
-title:  "Vazio"
+title:  "Muralha de Fogo"
 date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+source: Manual Básico.196
+tags: [level4, level5, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, fogo]
 ---
 
-**Encantamento de Nível 8**
+**Arcana 4/ Divina 5**
 
-**Tempo de Execução**: Ação Completa
+**Fogo de Nível 4/5**
 
-**Alcance**: Toque
+**Tempo de Execução**: Ação Padrão
 
-**Alvo**: 1 criatura
+**Alcance**: 30 metros
 
-**Duração**: Permanente
+**Efeito**: cortina ou anel de fogo
 
-**Teste de Resistência**: Vontade Anula;
+**Duração**: Concentração + 1 minuto, até 1 hora
 
-Uma vítima desta magia perde a memória de quem é, assim como todas as perícias, talentos e habilidades de classe, tornando-se na prática uma pessoa comum. 
-Na verdade, nenhuma dessas habilidades é realmente perdida — a vítima simplesmente não se lembra mais que as possui. 
-Valores de habilidades e pontos de vida permanecem os mesmos (o personagem os utiliza inconscientemente).
-Caso a magia seja dissipada, o personagem vai se lembrar de suas habilidades aos poucos, no período de 1d4+2 dias (o mestre determina quais habilidades são lembradas, e em que ordem).
-Eventualmente, o personagem afetado por vazio pode ter “lampejos” de memória, que permitam usar uma de suas habilidades — especialmente em situações extremas, como usar remover condição para salvar uma pessoa querida doente, ou usar todas suas graduações de Furtividade quando perseguido por um grupo de bugbears. 
-O personagem não saberá explicar de onde veio essa habilidade.
-Um desejo ou milagre recupera imediatamente todas as memórias perdidas
+**Teste de Resistência**: veja texto;
+
+Esta magia faz surgir uma violenta cortina de chamas com até 30m de largura e 6m de altura, ou um anel de fogo com 6m de raio e 6m de altura.
+Um lado da muralha (à sua escolha) emite ondas de calor, que causam 1d6 pontos de dano em criaturas a até 6m. A muralha de fogoprovoca esse dano quando surge, e no início de cada um de seus turnos. 
+Atravessar a muralha provoca 4d6 pontos de dano.
+Caso seja criada em uma área onde existem criaturas, estas sofrem dano como e estivessem atravessando a muralha. Neste caso o dano pode ser evitado com um teste de Reflexos (a criatura escolhe para qual lado quer escapar, mas se escapar para o lado quente sofrerá 1d6 pontos de dano).
