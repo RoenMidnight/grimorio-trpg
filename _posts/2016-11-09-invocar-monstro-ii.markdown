@@ -3,7 +3,7 @@ layout: post
 title:  "Invocar Monstro II"
 date:   2016-11-09
 source: Manual Básico.188
-tags: [level1, bardo, clerigo, druida, paladino, ranger, feiticeiro, mago, invocacao]
+tags: [level2, bardo, clerigo, druida, paladino, ranger, feiticeiro, mago, invocacao]
 ---
 
 **Invocação de Nível 2**
