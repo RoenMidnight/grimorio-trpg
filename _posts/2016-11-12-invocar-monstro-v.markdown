@@ -3,7 +3,7 @@ layout: post
 title:  "Invocar Monstro V"
 date:   2016-11-08
 source: Manual Básico.189
-tags: [level1, bardo, clerigo, druida, feiticeiro, mago, invocacao]
+tags: [level5, bardo, clerigo, druida, feiticeiro, mago, invocacao]
 ---
 
 **Invocação de Nível 5**
