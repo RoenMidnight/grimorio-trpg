@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pirotecnia
+title:  "Pirotecnia"
 date:   2016-11-09
 source: Manual Básico.202
 tags: [level2, bardo, feiticeiro, mago, fogo]
