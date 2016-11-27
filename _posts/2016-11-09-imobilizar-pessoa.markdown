@@ -3,7 +3,7 @@ layout: post
 title:  "Imobilizar Pessoa"
 date:   2016-11-09
 source: Manual Básico.186
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+tags: [level2, level3, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
 ---
 
 **Arcana 3/ Divina 2**
