@@ -1,30 +1,417 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Grimório TRPG</title>
+    <description>Uma lista de fácil acesso de magias para TRPG baseado no grimoire do thebombzen para 5e</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 27 Nov 2016 22:52:24 -0200</pubDate>
+    <lastBuildDate>Sun, 27 Nov 2016 22:52:24 -0200</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Tempestade da Vingança</title>
+        <description>&lt;p&gt;&lt;strong&gt;Ácido/Ar/Eletricidade/Frio de Nível 9&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Completa&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 90 metros&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Efeito&lt;/strong&gt;: Nuvem de Tempestade com 30 metros de Lado&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: Concentração, até 1 minuto&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: Veja texto&lt;/p&gt;
+
+&lt;p&gt;Você cria uma nuvem negra de tempestade, com relâmpagos e trovões. Criaturas sob a nuvem devem fazer um teste de Fortitude ou ficam surdas por 10 minutos.&lt;/p&gt;
+
+&lt;p&gt;Se você parar de se concentrar, a magia termina em uma rodada. Enquanto você se concentra, a magia continua e gera os seguintes efeitos, sempre no início do seu turno:&lt;/p&gt;
+
+&lt;p&gt;2ª rodada:chuva ácida causa 1d6 pontos de dano de ácido (sem direito a teste de resistência).&lt;/p&gt;
+
+&lt;p&gt;3ª rodada:até seis relâmpagos caem em alvos à sua escolha; um mesmo alvo não pode ser atingido por mais de um relâmpago. Cada relâmpago causa 10d6 pontos de dano de eletricidade (Reflexos reduz à metade)&lt;/p&gt;
+
+&lt;p&gt;4ª rodada:granizo causa 5d6 pontos de dano de esmagamento (sem direito a teste de resistência).&lt;/p&gt;
+
+&lt;p&gt;5ª a 10ª rodadas:chuva e ventos reduzem a visibilidade (como a magia névoa), transformam toda a área em terreno difícil (reduzindo o deslocamento à metade) e tornam ataques à distância impossíveis. 
+Além disso, conjuradores precisam ser bem-sucedidos em testes de Vontade para lançar magias (CD igual ao teste de resistência da tempestade da vingança+ nível da magia sendo lançada)&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/tempestade-da-vinganca</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/tempestade-da-vinganca</guid>
+        
+        <category>level9</category>
+        
+        <category>clerigo</category>
+        
+        <category>druida</category>
+        
+        <category>acido</category>
+        
+        <category>ar</category>
+        
+        <category>eletricidade</category>
+        
+        <category>frio</category>
+        
+        
+        <category>spells</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Sombras</title>
+        <description>&lt;p&gt;&lt;strong&gt;Ilusão de Nível 9&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: veja texto;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alvo/Área/Efeito&lt;/strong&gt;: veja texto;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: veja texto&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: Vontade Parcial&lt;/p&gt;
+
+&lt;p&gt;Você cria uma ilusão semi-real de qualquer magia arcana de 8º nível ou menor. Qualquer criatura afetada tem direito a um teste de Vontade; se bem-sucedida, 
+percebe que é uma ilusão e sofre apenas 75% do dano ou efeito da magia.
+Por exemplo, contra um alvo bem–sucedido em seu teste de Vontade, um raio ardentecriado por uma conjuração de sombrascausa 75% do dano, enquanto uma  teia criada por sombras tem chance de 75% de prender o alvo.
+Bem-sucedida ou não no teste de Vontade, qualquer criatura afetada também tem direito a qualquer teste de resistência oferecido pela magia original. 
+Por exemplo, uma criatura afetada por imobilizar pessoa criado por uma sombras tem direito a um teste de Vontade para perceber que é uma ilusão. 
+Mesmo que falhe, ainda tem direito ao teste de Vontade original de um imobilizar pessoa.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/sombras</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/sombras</guid>
+        
+        <category>level9</category>
+        
+        <category>feiticeiro</category>
+        
+        <category>mago</category>
+        
+        <category>ilusao</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Simpatia</title>
+        <description>&lt;p&gt;&lt;strong&gt;Arcana 8/ Divina 9&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Encantamento de Nível 8/9&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: 1 hora&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 9 metros&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alvo ou Área&lt;/strong&gt;: 1 objeto ou 1 cubo com 30m de lado&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 dia&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: Vontade parcial.&lt;/p&gt;
+
+&lt;p&gt;O alvo ou área da magia emitem vibrações que atraem um tipo de criatura à sua escolha. Você pode escolher uma raça, como elfos, goblins ou dragões; ou uma tendência, como Leal e Bondoso ou Caótico e Neutro.
+Criaturas da raça ou tendência escolhidas sentem-se compelidas a se aproximar do alvo ou área. Uma criatura bem-sucedida em um teste de Vontade pode largar o objeto ou sair da área, mas deve fazer outro teste 1d6x10 minutos depois. Se falhar, volta para pegar o objeto ou entrar na área.
+Antipatia anula simpatia.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/simpatia</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/simpatia</guid>
+        
+        <category>level8</category>
+        
+        <category>level9</category>
+        
+        <category>clerigo</category>
+        
+        <category>druida</category>
+        
+        <category>feiticeiro</category>
+        
+        <category>mago</category>
+        
+        <category>encantamento</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Sexto Sentido</title>
+        <description>&lt;p&gt;&lt;strong&gt;Adivinhação de Nível 9&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: Pessoal&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: Você&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 hora&lt;/p&gt;
+
+&lt;p&gt;Você recebe um poderoso sexto sentido que avisa-o de qualquer perigo ou ameaça. Graças a ele, você nunca é surpreendido, nunca fica desprevenido e recebe um bônus de +8 na CA e testes de Reflexos.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/sexto-sentido</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/sexto-sentido</guid>
+        
+        <category>level9</category>
+        
+        <category>feiticeiro</category>
+        
+        <category>mago</category>
+        
+        <category>adivinhacao</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Ressurreição Verdadeira</title>
+        <description>&lt;p&gt;&lt;strong&gt;Cura de Nível 9&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: 10 minutos&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: Toque&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura morta&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: Instantânea&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: Nenhum&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Componente Material&lt;/strong&gt;: um diamante (no valor de 25.000 TO)&lt;/p&gt;
+
+&lt;p&gt;Esta magia revive uma criatura, mas você não precisa de nenhuma parte do corpo da vítima — ele pode ter sido completamente destruído — e ela pode ter morrido há até 100 anos.
+Além disso, a criatura volta à vida com todos seus PV e PM.
+Você também pode ressuscitar criaturas que tenham sido transformadas em mortos-vivos e depois destruídas, assim como criaturas do tipo espírito. 
+No entanto, nem mesmo ressurreição verdadeirapode ressuscitar criaturas que morreram de velhice&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/ressurreicao-verdadeira</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/ressurreicao-verdadeira</guid>
+        
+        <category>level9</category>
+        
+        <category>clerigo</category>
+        
+        <category>druida</category>
+        
+        <category>cura</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Refúgio</title>
+        <description>&lt;p&gt;&lt;strong&gt;Arcana 9/ Divina 7&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Invocação de Nível 7/9&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: Toque&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 objeto&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: Permanente até ser descarregada&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: Nenhum&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Componente Material&lt;/strong&gt;: um objeto crave jado de joias (no valor de 1.500 TO), como um cetro, uma estatueta, etc. O objeto é consumido quando ativado&lt;/p&gt;
+
+&lt;p&gt;Você lança esta magia sobre um objeto especialmente preparado. O objeto pode ser ativado por qualquer criatura que esteja segurando-o e pronuncie uma palavra secreta (determinada por você). Quando o objeto é ativado, transporta a criatura segurando-o para um lugar determinado por você quando a magia é lançada.
+A criatura a ser transportada pode estar trazendo carga pesada, mas não pode levar outras criaturas com ela.
+Esta magia tem outra versão que, em vez de transportar a criatura para um lugar, transporta você até a criatura quando o objeto é ativado (você querendo ou não).&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/refugio</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/refugio</guid>
+        
+        <category>level7</category>
+        
+        <category>level9</category>
+        
+        <category>clerigo</category>
+        
+        <category>druida</category>
+        
+        <category>feiticeiro</category>
+        
+        <category>mago</category>
+        
+        <category>invocacao</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Projeção Astral</title>
+        <description>&lt;p&gt;&lt;strong&gt;Necromancia de Nível 9&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: 10 minutos&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: Toque&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: Você e até 5 criaturas voluntárias&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: veja texto (D)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: Nenhum&lt;/p&gt;
+
+&lt;p&gt;Você libera sua alma do corpo físico, projetando-a no Plano Astral. Sua projeção astral é uma cópia de seu corpo e equipamento. Seu corpo físico permanece no Plano Material, em animação suspensa.
+Sua projeção astral é ligada ao corpo físico por um fio de prata incorpóreo, com CA igual à sua, redução de dano 10 e metade de seus PV. Se o fio de prata for destruído, você morre.
+Você pode viajar no Plano Astral indefinidamente, e pode até entrar em outros planos (já que o Plano Astral toca todos os outros planos). Se entrar em outro plano, sua projeção astral adquire uma forma física. Se essa forma for destruída a magia termina, e você acorda no seu corpo físico 
+original. Note que seu corpo físico original ainda permanece no Plano Material, e se ele for destruído, você morre!
+Esta magia dura até que você a termine ou alguém a dissipe (lançando dissipar magia sobre os corpos físicos). Em ambos os casos você e quaisquer criaturas afetadas acordam nos seus corpos físicos originais.
+As criaturas afetadas dependem de você para viajar entre os planos e voltar aos seus corpos físicos. Se alguma coisa acontecer com você, elas ficarão presas em suas projeções astrais até que alguém dissipe a magia.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/projecao-astral</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/projecao-astral</guid>
+        
+        <category>level9</category>
+        
+        <category>clerigo</category>
+        
+        <category>druida</category>
+        
+        <category>feiticeiro</category>
+        
+        <category>mago</category>
+        
+        <category>necromancia</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Prender a Alma</title>
+        <description>&lt;p&gt;&lt;strong&gt;Necromancia de Nível 9&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 9 metros&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 alma&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: Permanente&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: Vontade anula&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Componente Material&lt;/strong&gt;: uma safira  de pelo menos 1.000 TO por nível da criatura  cuja alma vai ser aprisionada (por exemplo, uma gema de 20.000 TO para uma criatura de 20º nível).&lt;/p&gt;
+
+&lt;p&gt;Você captura a alma de uma criatura morta recentemente (até um dia) e a aprisiona em uma safira. Uma vez aprisionada  na gema, a alma não pode retornar através de clone,  reviver os mortos,  reencarnação, ressurreição verdadeiraou mesmo desejo e milagre. Somente destruir a safi a libertará a alma (que continuará viva).
+Se a gema não é valiosa o bastante, se quebra quando a magia for lançada. A gema não é consumida pela magia. Se a gema for destruída, a magia é dissipada&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/prender-a-alma</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/prender-a-alma</guid>
+        
+        <category>level9</category>
+        
+        <category>clerigo</category>
+        
+        <category>druida</category>
+        
+        <category>feiticeiro</category>
+        
+        <category>mago</category>
+        
+        <category>necromancia</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Portal</title>
+        <description>&lt;p&gt;&lt;strong&gt;Invocação de Nível 9&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 30 metros&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Efeito&lt;/strong&gt;: veja texto;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 minuto ou concentração, até 1 minuto&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: Nenhum&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Custo de XP&lt;/strong&gt;: 1000 XP (somente para convocar criatura)&lt;/p&gt;
+
+&lt;p&gt;Esta magia gera um dos seguintes efeitos, à sua escolha.
+Convocar criatura:você invoca uma  criatura qualquer, à sua escolha, de outro plano. Se essa criatura tiver até 30 níveis, estará sob seu controle; caso contrário estará livre para fazer o que quiser (incluindo atacá-lo, por tirá-la de seu lar…). 
+A magia dura um minuto, quando então a criatura é transportada de volta a seu plano natal.
+Divindades e outras criaturas de extremo poder (de acordo com o mestre) não podem ser invocadas por esta magia.&lt;/p&gt;
+
+&lt;p&gt;Viagem planar:você cria um portal entre o plano de existência onde está e outro plano qualquer, permitindo viagens entre os dois em ambas as direções. 
+Funciona como viagem planar, mas abre exatamente no local escolhido. O portal tem frente e trás, e apenas as coisas que entrarem pela frente serão transportadas. 
+Você pode abrir um portalem um corredor, para fazer com que qualquer coisa passando por ele seja transportada para outro plano; se os nativos desse plano vão gostar disso, é outra história… 
+O portal dura enquanto você se concentra nele, mas no máximo um minuto.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/portal</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/portal</guid>
+        
+        <category>level9</category>
+        
+        <category>feiticeiro</category>
+        
+        <category>mago</category>
+        
+        <category>invocacao</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Parar o Tempo</title>
+        <description>&lt;p&gt;&lt;strong&gt;Arcana de Nível 9&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: Pessoal&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: Você&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1d4+1 rodadas de tempo aparente (veja texto)&lt;/p&gt;
+
+&lt;p&gt;O tempo parece parar para todas as criaturas, exceto você. Na verdade a magia torna o conjurador tão rápido que, para ele, as outras criaturas parecem paradas.
+Em termos de jogo, você fica livre para agir por 1d4+1 rodadas de tempo aparente. 
+Durante essas rodadas, efeitos contínuos não o afetam; por outro lado, criaturas e objetos na posse de outras criaturas ficam invulneráveis aos seus ataques e magias.
+A maioria dos conjuradores usa parar o tempopara fortalecer suas defesas, invocar monstros ou fugir do combate.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/parar-o-tempo</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/parar-o-tempo</guid>
+        
+        <category>level9</category>
+        
+        <category>feiticeiro</category>
+        
+        <category>mago</category>
+        
+        <category>tempo</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
   </channel>
 </rss>
