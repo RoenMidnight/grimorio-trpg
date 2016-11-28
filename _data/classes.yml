@@ -1,0 +1,14 @@
+- name: Bardo
+  tag: bardo
+- name: Clerigo
+  tag: clerigo
+- name: Druida
+  tag: druida
+- name: Paladino
+  tag: paladino
+- name: Ranger
+  tag: ranger
+- name: Feiticeiro
+  tag: feiticeiro
+- name: Mago
+  tag: mago
