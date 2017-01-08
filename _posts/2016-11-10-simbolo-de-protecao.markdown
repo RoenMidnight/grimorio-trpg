@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simbolo da Proteção"
+title:  "Símbolo da Proteção"
 date:   2016-11-10
 source: Manual Básico.212
 tags: [level3, bardo, clerigo, druida, paladino, ranger, abjuracao]

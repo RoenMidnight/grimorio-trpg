@@ -18,7 +18,7 @@ tags: [level2, level3, bardo, clerigo, druida, ranger, paladino, feiticeiro, mag
 
 **Duração**: 1 minuto
 
-**Teste de Resistência**: Nenhum
+**Teste de Resistência**: Vontade Anula
 
 Esta magia paralisa uma criatura humanoide, deixando-a imobilizada e indefesa. Ela continua consciente e respirando normalmente, mas não pode falar ou executar qualquer ação física. Porém, ainda pode executar ações puramente mentais.
 A cada rodada, a vítima pode gastar uma ação completa para fazer um novo teste de Vontade para tentar se libertar

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Escurid'ao Profunda"
+title:  "Escuridão Profunda"
 date:   2016-11-10
 source: Manual Básico.181
 tags: [level3, bardo, clerigo, druida, paladino, ranger, escuridao]

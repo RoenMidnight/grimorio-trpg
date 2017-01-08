@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Astucia da Raposa"
+title:  "Astúcia da Raposa"
 date:   2016-11-09
 source: Manual Básico.164
 tags: [level2, bardo, feiticeiro, mago, transmutacao]

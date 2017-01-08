@@ -3,8 +3,8 @@ title: "Grimório TRPG"
 author: "Midnight, Roen"
 description:
   "Uma lista de fácil acesso de magias para TRPG baseado no grimoire do thebombzen para 5e"
-baseurl: "/grimorio-trpg" # the subpath of your site, e.g. /blog/
-url: "http://roenmidnight.github.io/" # the base hostname & protocol for your site
+baseurl: "/grimorio-trpg/" # the subpath of your site, e.g. /blog/
+url: "http://roenmidnight.github.io/grimorio-trpg/" # the base hostname & protocol for your site
 source-url: https://github.com/RoenMidnight/grimorio-trpg/"
 permalink: "/:categories/:title"
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cranio Voador de Vladislav"
+title:  "Crânio Voador de Vladislav"
 date:   2016-11-09
 source: Manual Básico.173
 tags: [level2, bardo, feiticeiro, mago, necromancia]

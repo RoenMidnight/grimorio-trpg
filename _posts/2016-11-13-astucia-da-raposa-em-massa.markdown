@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Astucia da Raposa em Massa"
+title:  "Ástucia da Raposa em Massa"
 date:   2016-11-13
 source: Manual Básico.165
 tags: [level6, bardo, clerigo, druida, feiticeiro, mago, transmutacao]

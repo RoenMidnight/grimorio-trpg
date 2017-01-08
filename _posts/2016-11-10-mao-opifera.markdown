@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mão Opifera"
+title:  "Mão Opífera"
 date:   2016-11-10
 source: Manual Básico.192
 tags: [level3, bardo, clerigo, druida, paladino, ranger, adivinhacao]

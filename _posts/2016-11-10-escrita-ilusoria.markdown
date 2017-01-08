@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Escrita Ilusoria"
+title:  "Escrita Ilusória"
 date:   2016-11-10
 source: Manual Básico.181
 tags: [level3, bardo, feiticeiro, mago, ilusao]

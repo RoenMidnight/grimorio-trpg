@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simbolo da Persuasão"
+title:  "Símbolo da Persuasão"
 date:   2016-11-13
 source: Manual Básico.212
 tags: [level6, bardo, clerigo, druida, feiticeiro, mago, encantamento]

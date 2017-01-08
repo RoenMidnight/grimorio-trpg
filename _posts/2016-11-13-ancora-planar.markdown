@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ancora Planar"
+title:  "Âncora Planar"
 date:   2016-11-13
 source: Manual Básico.161
 tags: [level6, bardo, feiticeiro, mago, invocacao]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Area Escorregadia"
+title:  "Área Escorregadia"
 date:   2016-11-08
 source: Manual Básico.163
 tags: [level1, bardo, feiticeiro, mago, agua]

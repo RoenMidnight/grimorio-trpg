@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Invisibilidade contra animais"
+title:  "Invisibilidade contra Animais"
 date:   2016-11-08
 source: Manual Básico.188
 tags: [level1, bardo, clerigo, druida, ranger, paladino, abjuracao]

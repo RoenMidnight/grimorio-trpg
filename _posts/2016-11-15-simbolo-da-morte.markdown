@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simbolo da Morte"
+title:  "Símbolo da Morte"
 date:   2016-11-15
 source: Manual Básico.212
 tags: [level8, clerigo, druida, feiticeiro, mago, necromancia]

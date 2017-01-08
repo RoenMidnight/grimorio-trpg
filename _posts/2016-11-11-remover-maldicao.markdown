@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Remover Maldiçaõ"
+title:  "Remover Maldição"
 date:   2016-11-11
 source: Manual Básico.208
 tags: [level3, level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, cura]

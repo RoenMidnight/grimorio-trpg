@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bencao"
+title:  "Bencão"
 date:   2016-11-08
 source: Manual Básico.166
 tags: [level1, bardo, clerigo, druida, ranger,paladino, encantamento]

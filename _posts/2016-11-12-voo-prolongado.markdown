@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vôo Prolongado"
+title:  "Voo Prolongado"
 date:   2016-11-08
 source: Manual Básico.219	
 tags: [level5, bardo,  feiticeiro, mago, transmutacao]

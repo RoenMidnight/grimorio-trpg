@@ -6,18 +6,20 @@ source: Manual Básico.178
 tags: [level8, clerigo, druida, feiticeiro, mago, adivinhacao]
 ---
 
-**Adivinhação de Nível 8**
+**Encantamento de Nível 8**
 
-**Tempo de Execução**: 10 minutos
+**Tempo de Execução**: Ação Padrão
 
-**Alcance**: Ilimitado
+**Alcance**: 9 metros
 
-**Alvo**: 1 criatura ou objeto
+**Alvo**: qualquer número de criaturas
 
-**Duração**: Instantânea
+**Duração**: 1 semana
 
-**Teste de Resistência**: Nenhum;
+**Teste de Resistência**: Vontade anula;
 
-Esta é uma das mais poderosas magias de adivinhação, e permite que você descubra a localização de uma criatura ou objeto. Esta magia supera os meios normais de proteção contra adivinhação; 
-Apenas limpar a mente,ou a intervenção direta de um deus maior, podem impedir que você descubra onde o alvo está.
-Para encontrar uma criatura, você precisa conhecê-la pessoalmente ou ter consigo um objeto pessoal dela; para encontrar um objeto, você precisa tê-lo tocado ao menos uma vez
+
+Esta magia torna qualquer número de criaturas vivas somando não mais de 30 níveis prestativa (veja Diplomacia no Capítulo 2: Perícias). 
+Elas não ficam sob seu controle, mas percebem suas palavras e ações da maneira mais favorável possível. As vítimasatendem pedidos simples e inofensivos automaticamente; para pedidos incomuns ou 
+arriscados você precisa ser bem-sucedido em um teste de Diplomacia (CD 20, sem direito a novas tentativas em caso de falha). As vítimas não atendem pedidos muito perigosos ou suicidas.
+Um teste de Vontade bem-sucedido anula a magia, e um alvo ameaçado recebe +5 nesse teste. Se você ou seus aliados executam qualquer ação hostil contra o alvo, a  magia é anulada.

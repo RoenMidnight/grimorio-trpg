@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simbolo do Sono"
+title:  "Símbolo do Sono"
 date:   2016-11-13
 source: Manual Básico.212
 tags: [level5, bardo, clerigo, druida, feiticeiro, mago, encantamento]

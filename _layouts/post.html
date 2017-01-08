@@ -10,9 +10,9 @@ layout: default
     {% for tag in page.tags %}
     <dd>
         {% if tag == 'cantrip' or tag contains 'level' %}
-          <a href="{{site.baseurl}}/#{{tag}}">{{tag}}</a>
+          <a href="{{site.baseurl}}/grimorio-trpg/#{{tag}}">{{tag}}</a>
         {% else %}
-          <a href="{{site.baseurl}}/tags/{{tag}}.html">{{tag}}</a>
+          <a href="{{site.baseurl}}/grimorio-trpg/tags/{{tag}}.html">{{tag}}</a>
         {% endif %}
     </dd>
     {% endfor %}

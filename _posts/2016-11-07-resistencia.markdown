@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Resistencia"
+title:  "Resistência"
 date:   2016-11-07
 source: Manual Básico.211
 tags: [level0, bardo, clerigo, druida, feiticeiro, mago, abjuracao]

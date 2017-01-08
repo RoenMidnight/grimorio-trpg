@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cupula de Proteção contra a Vida"
+title:  "Cúpula de Proteção contra a Vida"
 date:   2016-11-13
 source: Manual Básico.174
 tags: [level6, bardo, clerigo, druida, abjuracao]

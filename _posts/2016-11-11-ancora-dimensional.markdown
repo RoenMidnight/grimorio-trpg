@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ancora Dimensional"
+title:  "Âncora Dimensional"
 date:   2016-11-11
 source: Manual Básico.161
 tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, abjuracao]

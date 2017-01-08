@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Padrão Ilusória"
+title:  "Parede Ilusória"
 date:   2016-11-11
 source: Manual Básico.200
 tags: [level4, bardo, feiticeiro, mago, ilusao]

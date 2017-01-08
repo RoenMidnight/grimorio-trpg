@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Augurio"
+title:  "Augúrio"
 date:   2016-11-09
 source: Manual Básico.165
 tags: [level2, bardo, clerigo, druida, ranger, paladino, adivinhacao]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Videncia Maior"
+title:  "Vidência Maior"
 date:   2016-11-15
 source: Manual Básico.218
 tags: [level7, clerigo, druida, feiticeiro, mago, adivinhacao]

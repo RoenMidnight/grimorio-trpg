@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simbolo da Fraqueza"
+title:  "Símbolo da Fraqueza"
 date:   2016-11-15
 source: Manual Básico.212
 tags: [level7, clerigo, druida, feiticeiro, mago, necromancia]

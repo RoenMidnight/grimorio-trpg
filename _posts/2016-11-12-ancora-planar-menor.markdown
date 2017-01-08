@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ancora Planar Menor"
+title:  "Âncora Planar Menor"
 date:   2016-11-08
 source: Manual Básico.162
 tags: [level5, bardo, feiticeiro, mago, invocacao]

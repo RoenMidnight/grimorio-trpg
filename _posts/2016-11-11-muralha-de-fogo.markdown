@@ -3,7 +3,7 @@ layout: post
 title:  "Muralha de Fogo"
 date:   2016-11-11
 source: Manual Básico.196
-tags: [level4, level5, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, fogo]
+tags: [level4, level5, bardo, clerigo, druida, feiticeiro, mago, fogo]
 ---
 
 **Arcana 4/ Divina 5**

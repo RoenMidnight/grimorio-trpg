@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simbolo do Atordoamento"
+title:  "Símbolo do Atordoamento"
 date:   2016-11-15
 source: Manual Básico.212
 tags: [level7, clerigo, druida, feiticeiro, mago, encantamento]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mssão Menor"
+title:  "Missão Menor"
 date:   2016-11-11
 source: Manual Básico.217
 tags: [level4, bardo, feiticeiro, mago, encantamento]

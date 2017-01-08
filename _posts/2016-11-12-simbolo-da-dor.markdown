@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simbolo da Dor"
+title:  "Símbolo da Dor"
 date:   2016-11-13
 source: Manual Básico.211
 tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]

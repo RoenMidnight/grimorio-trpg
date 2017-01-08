@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simbolo de Proteção Maior"
+title:  "Símbolo de Proteção Maior"
 date:   2016-11-13
 source: Manual Básico.212
 tags: [level6, bardo, clerigo, druida, abjuracao]
