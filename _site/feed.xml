@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grimório TRPG</title>
+    <description>Uma lista de fácil acesso de magias para TRPG baseado no grimoire do thebombzen para 5e</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 08 Jan 2017 21:00:25 -0200</pubDate>
+    <lastBuildDate>Sun, 08 Jan 2017 21:00:25 -0200</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;strong&gt;Cura de Nível 2&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: toque&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: uma criatura viva&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: instantânea&lt;/p&gt;
+
+&lt;p&gt;Esta magia cura 2d4+2 pontos de dano temporário de 
+Força perdidos por longos períodos em gravidade baixa. Ela 
+pode ser usada para curar dano de habilidade de outras fontes, 
+mas sempre restaura apenas 1 ponto nesses casos.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Jan 2017 21:00:25 -0200</pubDate>
+        <link>http://localhost:4000/2017-01-08-recuperar-musculatura</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-08-recuperar-musculatura</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;strong&gt;Transmutação de nível 6&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 30 metros&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura não humanoide;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 minuto&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum&lt;/p&gt;
+
+&lt;p&gt;Esta magia torna uma criatura maior e mais forte. Em termos de regras, a criatura aumenta uma categorias de tamanho e recebe 4 níveis,
+Força +8, Constituição +4 e redução de dano 10.&lt;/p&gt;
+
+&lt;p&gt;Diz a lenda que esta magia recebeu o nome de seu criador, Megalon, um antigo e poderoso sumo-sacerdote de Megallokk. Usando-a em conjunto com permanência, ele criou
+no passado versões gigantescas de diversos monstros. Essas criaturas titânicas e únicas são conhecidas como “megalontes”, e ainda podem ser encontradas vagando em lugares inóspitos.&lt;/p&gt;
+
+&lt;p&gt;Criaturas que recebam  a magia contra vontade tem direito a um teste de Fortitude para negar o efeito.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Jan 2017 21:00:25 -0200</pubDate>
+        <link>http://localhost:4000/2016-11-20-megalon</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-11-20-megalon</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;strong&gt;Transmutação de nível 8&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 30 metros&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura não humanoide;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 minuto&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum&lt;/p&gt;
+
+&lt;p&gt;Esta magia torna uma criatura maior e mais forte. Em termos de regras, a criatura aumenta duas categorias de tamanho e recebe 8 níveis,
+Força +16, Constituição +8 e redução de dano 20.&lt;/p&gt;
+
+&lt;p&gt;Diz a lenda que esta magia recebeu o nome de seu criador, Megalon, um antigo e poderoso sumo-sacerdote de Megallokk. Usando-a em conjunto com permanência, ele criou
+no passado versões gigantescas de diversos monstros. Essas criaturas titânicas e únicas são conhecidas como “megalontes”, e ainda podem ser encontradas vagando em lugares inóspitos.&lt;/p&gt;
+
+&lt;p&gt;Criaturas que recebam  a magia contra vontade tem direito a um teste de Fortitude para negar o efeito.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Jan 2017 21:00:25 -0200</pubDate>
+        <link>http://localhost:4000/2016-11-18-megalon-maior</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-11-18-megalon-maior</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Pedra Encantada Maior</title>
+        <description>&lt;p&gt;&lt;strong&gt;Luz/Terra de nível 4&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: toque;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alvos&lt;/strong&gt;: até 3 pedras;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 hora;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum;&lt;/p&gt;
+
+&lt;p&gt;Você encanta até três pedras pequenas 
+para atingirem com grande força quando 
+arremessadas. Cada pedra pode ser usada 
+como uma arma de arremesso (dano 3d6+5, crítico x2, distância 9m, esmagamento, fornece bônus de +3 no ataque) ou 
+como bala de funda (aumenta o dano em 
+três categorias de tamanho, fornece bônus 
+de +3 no ataque). Estas pedras emitem 
+uma luz equivalente a uma tocha e causam 
+dano dobrado contra mortos-vivos. Como 
+alternativa, você pode encantar até 20 
+pedras, mas o seu encantamento será mais 
+fraco: utilize a versão comum de pedra 
+encantadapara estas.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/pedra-encantada-maior</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/pedra-encantada-maior</guid>
+        
+        <category>level4</category>
+        
+        <category>bardo</category>
+        
+        <category>paladino</category>
+        
+        <category>ranger</category>
+        
+        <category>clerigo</category>
+        
+        <category>druida</category>
+        
+        <category>luz</category>
+        
+        <category>terra</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Momento Glorioso</title>
+        <description>&lt;p&gt;&lt;strong&gt;Bem/Encantamento de nível 4&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: pessoal;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;:  instantânea;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum;&lt;/p&gt;
+
+&lt;p&gt;Ao lançar esta magia, você se transporta para qualquer posição a até 30m 
+que esteja enxergando, desde que acabe 
+o movimento adjacente a um inimigo. 
+Você deixa um rastro de imagens suas 
+no trajeto, cada uma retratando uma 
+fase da preparação dos seus golpes. Ao 
+chegar a seu destino, você pode realizar 
+um ataque corpo-a-corpo para cada 
+magia gloriosa lançada sobre si (veja 
+arma gloriosa, armadura gloriosae elmo 
+glorioso), sem nenhuma penalidade por 
+ataques múltiplos. Esta magia só pode 
+ser lançada uma vez por dia e só pode ser 
+aprendida e lançada por paladinos.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/momento-glorioso-supremo</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/momento-glorioso-supremo</guid>
+        
+        <category>level4</category>
+        
+        <category>paladino</category>
+        
+        <category>encantamento</category>
+        
+        <category>bem</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Luz Cegante Maior</title>
+        <description>&lt;p&gt;&lt;strong&gt;Luz de nível 4&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 30 metros;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Efeito&lt;/strong&gt;: raio;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: instantânea&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum;&lt;/p&gt;
+
+&lt;p&gt;Você dispara um raio de sol pela 
+palma da mão. Faça um ataque de toque 
+à distância. Se você acertar, o alvo sofre 
+4d8 pontos de dano (8d6 contra mortos-vivos). Paladinos que lancem esta 
+magia causam mais 1 ponto de dano 
+para cada 2 níveis de classe.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/luz-cegante-maior</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/luz-cegante-maior</guid>
+        
+        <category>level4</category>
+        
+        <category>bardo</category>
+        
+        <category>clerigo</category>
+        
+        <category>druida</category>
+        
+        <category>luz</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Invocar Aspecto Divino</title>
+        <description>&lt;p&gt;&lt;strong&gt;Invocação de nível 5&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Completa;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 9 metros;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Efeito&lt;/strong&gt;: 1 criatura invocada;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 dia ou 1 minuto;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Custo de XP&lt;/strong&gt;:100&lt;/p&gt;
+
+&lt;p&gt;Esta magia invoca uma criatura que 
+surge em um ponto qualquer dentro de 
+9m, à sua escolha. A criatura acompanha 
+o conjurador por 1 dia — ou, se entrar 
+em combate, por 1 minuto, quando 
+então desaparece.
+No começo de seu próximo turno, 
+a criatura avança e ataca seus inimigos, 
+a menos que receba ordens para fazer 
+outra coisa. Contudo, esta não é uma criatura comum — é um aspecto divino, uma espécie de avatar limitado da 
+sua divindade padroeira. Ao contrário 
+de outras criaturas invocadas, o aspecto 
+não é obrigado a obedecer as ordens do 
+conjurador, tendo vontade própria e 
+muitas vezes agindo de formas que só ele 
+mesmo entende.
+O aspecto invocado depende do 
+deus a quem o conjurador serve. Conjuradores que não sejam devotos de 
+nenhum deus maior não podem lançar 
+esta magia.
+Todos os aspectos invocados por 
+esta magia compartilham as mesmas 
+características básicas (veja a ficha 
+abaixo). Entretanto, cada aspecto tem 
+a aparência de acordo com o deus, e 
+cada um tem uma habilidade especial. 
+Alguns aspectos divinos estão descritos 
+a seguir. Os demais (assim como as 
+outras facetas de aspectos de cada deus) 
+ficam a cargo do mestre. Para mais 
+informações sobre aspectos divinos, 
+consulte o Capítulo 5.&lt;/p&gt;
+
+&lt;p&gt;Aspecto Divino:espírito 7, tamanho varia (veja a caixa na página a 
+seguir), tendência igual à do deus; desl. 
+9m; PV 70; CA 20; corpo-a-corpo: 
+pancada +12 (1d8+7) ou 2 pancadas 
++10 (1d8+7); hab. redução de dano 10, 
+resistência a energia, visão no escuro, 
+mais habilidades especiais conforme o 
+deus (veja a caixa na página a seguir); 
+Fort +9, Ref +7, Von +9; For 18, Des 
+15, Con 18, Int 12, Sab 15, Car 18.
+Perícias &amp;amp; Talentos:Conhecimento 
+(religião) +11, Iniciativa +12, Percepção 
++12, mais duas perícias à escolha do 
+mestre; Armadura Natural Aprimorada, 
+Ataques Múltiplos, Foco em Arma (pancada), Vitalidade, Vontade de Ferro&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/invocar-aspecto-divino</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/invocar-aspecto-divino</guid>
+        
+        <category>level5</category>
+        
+        <category>bardo</category>
+        
+        <category>clerigo</category>
+        
+        <category>druida</category>
+        
+        <category>invocacao</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Imbuir Cura Acelerada</title>
+        <description>&lt;p&gt;&lt;strong&gt;Cura de nível 2&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 9 metros;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura viva;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 minuto;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum;&lt;/p&gt;
+
+&lt;p&gt;O alvo desta magia recebe cura 
+acelerada 3: no início de cada um de 
+seus turnos, recupera 3 PV. Cura acelerada não recupera PV perdidos por inanição, desidratação ou asfixia.  Apenas 
+criaturas vivas (com um valor não nulo 
+de Constituição) podem se beneficiar 
+desta magia.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/imbuir-cura-acelerada</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/imbuir-cura-acelerada</guid>
+        
+        <category>level2</category>
+        
+        <category>bardo</category>
+        
+        <category>clerigo</category>
+        
+        <category>druida</category>
+        
+        <category>paladino</category>
+        
+        <category>ranger</category>
+        
+        <category>cura</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Imbuir Cura Acelerada Suprema</title>
+        <description>&lt;p&gt;&lt;strong&gt;Cura de nível 8&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 9 metros;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura viva;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 minuto;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum;&lt;/p&gt;
+
+&lt;p&gt;O alvo desta magia recebe cura 
+acelerada 12: no início de cada um de 
+seus turnos, recupera 12 PV. Cura acelerada não recupera PV perdidos por inanição, desidratação ou asfixia.  Apenas 
+criaturas vivas (com um valor não nulo 
+de Constituição) podem se beneficiar 
+desta magia.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/imbuir-cura-acelerada-suprema</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/imbuir-cura-acelerada-suprema</guid>
+        
+        <category>level8</category>
+        
+        <category>clerigo</category>
+        
+        <category>druida</category>
+        
+        <category>cura</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Imbuir Cura Acelerada Maior</title>
+        <description>&lt;p&gt;&lt;strong&gt;Cura de nível 5&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 9 metros;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura viva;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 minuto;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum;&lt;/p&gt;
+
+&lt;p&gt;O alvo desta magia recebe cura 
+acelerada 7: no início de cada um de 
+seus turnos, recupera 7 PV. Cura acelerada não recupera PV perdidos por inanição, desidratação ou asfixia.  Apenas 
+criaturas vivas (com um valor não nulo 
+de Constituição) podem se beneficiar 
+desta magia.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/imbuir-cura-acelerada-maior</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/imbuir-cura-acelerada-maior</guid>
+        
+        <category>level5</category>
+        
+        <category>bardo</category>
+        
+        <category>clerigo</category>
+        
+        <category>druida</category>
+        
+        <category>cura</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+  </channel>
+</rss>
