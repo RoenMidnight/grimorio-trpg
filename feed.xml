@@ -5,89 +5,45 @@
     <description>Uma lista de fácil acesso de magias para TRPG baseado no grimoire do thebombzen para 5e</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 08 Jan 2017 21:00:25 -0200</pubDate>
-    <lastBuildDate>Sun, 08 Jan 2017 21:00:25 -0200</lastBuildDate>
+    <pubDate>Sun, 15 Jan 2017 13:21:07 -0200</pubDate>
+    <lastBuildDate>Sun, 15 Jan 2017 13:21:07 -0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title></title>
-        <description>&lt;p&gt;&lt;strong&gt;Cura de Nível 2&lt;/strong&gt;&lt;/p&gt;
+        <title>Estase Parcia</title>
+        <description>&lt;hr /&gt;
+&lt;p&gt;layout: post
+title:  “Estase Parcial”
+date:   2016-11-17
+source: Manual do Arcano. 77
+tags: [level3, bardo, feiticeiro, mago, tempo, necromancia, minuto, toque, criatura, mes, vontade, anula]
+—&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tempo/Necromancia de nível 3&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: toque&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: 1 minuto;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: uma criatura viva&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: toque;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: instantânea&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura em repouso ou você;&lt;/p&gt;
 
-&lt;p&gt;Esta magia cura 2d4+2 pontos de dano temporário de 
-Força perdidos por longos períodos em gravidade baixa. Ela 
-pode ser usada para curar dano de habilidade de outras fontes, 
-mas sempre restaura apenas 1 ponto nesses casos.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 mês ou até ser despertada (veja o texto);&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistencia&lt;/strong&gt;: Vontade Anula;&lt;/p&gt;
+
+&lt;p&gt;Esta magia desacelera drasticamente 
+o metabolismo do alvo. A criatura entra 
+em um estado de torpor, no qual irá dormir um mês. Contudo, seus ferimentos 
+se curam como se ela houvesse dormido 
+apenas um dia. A criatura pode ser acordada por meios normais. Se isso ocorrer, 
+a magia termina.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 08 Jan 2017 21:00:25 -0200</pubDate>
-        <link>http://localhost:4000/2017-01-08-recuperar-musculatura</link>
-        <guid isPermaLink="true">http://localhost:4000/2017-01-08-recuperar-musculatura</guid>
+        <pubDate>Wed, 23 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/estase-parcia</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/estase-parcia</guid>
         
         
-      </item>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;&lt;strong&gt;Transmutação de nível 6&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 30 metros&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura não humanoide;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 minuto&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum&lt;/p&gt;
-
-&lt;p&gt;Esta magia torna uma criatura maior e mais forte. Em termos de regras, a criatura aumenta uma categorias de tamanho e recebe 4 níveis,
-Força +8, Constituição +4 e redução de dano 10.&lt;/p&gt;
-
-&lt;p&gt;Diz a lenda que esta magia recebeu o nome de seu criador, Megalon, um antigo e poderoso sumo-sacerdote de Megallokk. Usando-a em conjunto com permanência, ele criou
-no passado versões gigantescas de diversos monstros. Essas criaturas titânicas e únicas são conhecidas como “megalontes”, e ainda podem ser encontradas vagando em lugares inóspitos.&lt;/p&gt;
-
-&lt;p&gt;Criaturas que recebam  a magia contra vontade tem direito a um teste de Fortitude para negar o efeito.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 08 Jan 2017 21:00:25 -0200</pubDate>
-        <link>http://localhost:4000/2016-11-20-megalon</link>
-        <guid isPermaLink="true">http://localhost:4000/2016-11-20-megalon</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;&lt;strong&gt;Transmutação de nível 8&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 30 metros&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura não humanoide;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 minuto&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum&lt;/p&gt;
-
-&lt;p&gt;Esta magia torna uma criatura maior e mais forte. Em termos de regras, a criatura aumenta duas categorias de tamanho e recebe 8 níveis,
-Força +16, Constituição +8 e redução de dano 20.&lt;/p&gt;
-
-&lt;p&gt;Diz a lenda que esta magia recebeu o nome de seu criador, Megalon, um antigo e poderoso sumo-sacerdote de Megallokk. Usando-a em conjunto com permanência, ele criou
-no passado versões gigantescas de diversos monstros. Essas criaturas titânicas e únicas são conhecidas como “megalontes”, e ainda podem ser encontradas vagando em lugares inóspitos.&lt;/p&gt;
-
-&lt;p&gt;Criaturas que recebam  a magia contra vontade tem direito a um teste de Fortitude para negar o efeito.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 08 Jan 2017 21:00:25 -0200</pubDate>
-        <link>http://localhost:4000/2016-11-18-megalon-maior</link>
-        <guid isPermaLink="true">http://localhost:4000/2016-11-18-megalon-maior</guid>
-        
+        <category>spells</category>
         
       </item>
     
@@ -134,11 +90,23 @@ encantadapara estas.&lt;/p&gt;
         
         <category>clerigo</category>
         
+        <category>abencoado</category>
+        
         <category>druida</category>
         
         <category>luz</category>
         
         <category>terra</category>
+        
+        <category>padrao</category>
+        
+        <category>toque</category>
+        
+        <category>objeto</category>
+        
+        <category>hora</category>
+        
+        <category>nenhum</category>
         
         
         <category>spells</category>
@@ -184,6 +152,14 @@ aprendida e lançada por paladinos.&lt;/p&gt;
         
         <category>bem</category>
         
+        <category>padrao</category>
+        
+        <category>pessoal</category>
+        
+        <category>instantanea</category>
+        
+        <category>nenhum</category>
+        
         
         <category>spells</category>
         
@@ -221,9 +197,21 @@ para cada 2 níveis de classe.&lt;/p&gt;
         
         <category>clerigo</category>
         
+        <category>abencoado</category>
+        
         <category>druida</category>
         
         <category>luz</category>
+        
+        <category>padrao</category>
+        
+        <category>metros</category>
+        
+        <category>raio</category>
+        
+        <category>instantanea</category>
+        
+        <category>nenhum</category>
         
         
         <category>spells</category>
@@ -305,9 +293,25 @@ Ataques Múltiplos, Foco em Arma (pancada), Vitalidade, Vontade de Ferro&lt;/p&g
         
         <category>clerigo</category>
         
+        <category>abencoado</category>
+        
         <category>druida</category>
         
         <category>invocacao</category>
+        
+        <category>completa</category>
+        
+        <category>metros</category>
+        
+        <category>criatura</category>
+        
+        <category>dia</category>
+        
+        <category>minuto</category>
+        
+        <category>nenhum</category>
+        
+        <category>experiencia</category>
         
         
         <category>spells</category>
@@ -345,6 +349,8 @@ desta magia.&lt;/p&gt;
         
         <category>clerigo</category>
         
+        <category>abencoado</category>
+        
         <category>druida</category>
         
         <category>paladino</category>
@@ -352,6 +358,16 @@ desta magia.&lt;/p&gt;
         <category>ranger</category>
         
         <category>cura</category>
+        
+        <category>padrao</category>
+        
+        <category>metros</category>
+        
+        <category>criatura</category>
+        
+        <category>minuto</category>
+        
+        <category>nenhum</category>
         
         
         <category>spells</category>
@@ -387,9 +403,21 @@ desta magia.&lt;/p&gt;
         
         <category>clerigo</category>
         
+        <category>abencoado</category>
+        
         <category>druida</category>
         
         <category>cura</category>
+        
+        <category>padrao</category>
+        
+        <category>metros</category>
+        
+        <category>criatura</category>
+        
+        <category>minuto</category>
+        
+        <category>nenhum</category>
         
         
         <category>spells</category>
@@ -427,9 +455,143 @@ desta magia.&lt;/p&gt;
         
         <category>clerigo</category>
         
+        <category>abencoado</category>
+        
         <category>druida</category>
         
         <category>cura</category>
+        
+        <category>padrao</category>
+        
+        <category>metros</category>
+        
+        <category>criatura</category>
+        
+        <category>minuto</category>
+        
+        <category>nenhum</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Gêiser</title>
+        <description>&lt;p&gt;&lt;strong&gt;Água/Fogo de nível 4&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 15 metros;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Efeito&lt;/strong&gt;: um jorro;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: instantânea;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: Reflexos anula;&lt;/p&gt;
+
+&lt;p&gt;Esta magia só pode ser lançada 
+sobre um solo de pedra ou de terra — 
+não funciona em pântanos, desertos ou 
+oceanos, por exemplo, mas funciona em 
+masmorras. Escolha uma área de 3m por 
+3m a até 15m de você. Você cria uma 
+pequena fenda no solo desta área, da 
+qual surge uma forte rajada de vapor e 
+água fervente. Qualquer criatura dentro 
+da área afetada sofre 6d8 pontos de 
+dano de fogo e fica caída. Um teste de 
+Reflexos reduz o dano à metade e evita a 
+queda. Esta magia só pode ser aprendida 
+e lançada por druidas.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/geiser</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/geiser</guid>
+        
+        <category>level4</category>
+        
+        <category>bardo</category>
+        
+        <category>clerigo</category>
+        
+        <category>abencoado</category>
+        
+        <category>druida</category>
+        
+        <category>paladino</category>
+        
+        <category>ranger</category>
+        
+        <category>agua</category>
+        
+        <category>fogo</category>
+        
+        <category>padrao</category>
+        
+        <category>metros</category>
+        
+        <category>outro</category>
+        
+        <category>instantanea</category>
+        
+        <category>reflexo</category>
+        
+        <category>anula</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Envenenamento em Massa</title>
+        <description>&lt;p&gt;&lt;strong&gt;Necromancia de nível 6&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: toque;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura viva;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: instantânea;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: Fortitude anula;&lt;/p&gt;
+
+&lt;p&gt;Como envenenamento(causa 1d10 
+pontos de dano em Constituição), mas 
+afeta a criatura tocada e até 6 criaturas 
+que você escolher e que estejam a até 
+12m da criatura tocada. Cada alvo tem 
+direito a um teste de Fortitude.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/spells/envenenamento-em-massa</link>
+        <guid isPermaLink="true">http://localhost:4000/spells/envenenamento-em-massa</guid>
+        
+        <category>level6</category>
+        
+        <category>bardo</category>
+        
+        <category>clerigo</category>
+        
+        <category>abencoado</category>
+        
+        <category>druida</category>
+        
+        <category>necromancia</category>
+        
+        <category>padrao</category>
+        
+        <category>toque</category>
+        
+        <category>criatura</category>
+        
+        <category>instantanea</category>
+        
+        <category>fortitude</category>
+        
+        <category>anula</category>
         
         
         <category>spells</category>
