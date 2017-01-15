@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: "Calluna", Georgia, serif;
+  /*font-family: "Calluna", Georgia, serif;*/
   font-size: 18px;
   line-height: 1.5;
   font-weight: 400;
