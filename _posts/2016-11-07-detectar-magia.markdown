@@ -3,7 +3,7 @@ layout: post
 title:  "Detectar Magia"
 date:   2016-11-07
 source: Manual Básico.177
-tags: [level0, bardo, clerigo, druida, feiticeiro, mago, adivinhacao]
+tags: [level0, bardo, clerigo, abencoado, druida, feiticeiro, mago, adivinhacao, padrao, metros, emanacao, concentracao, rodadas, nenhum]
 ---
 
 **Adivinhação de Nível 0**

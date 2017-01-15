@@ -3,7 +3,7 @@ layout: post
 title:  "Encantar Grimório"
 date:   2016-11-09
 source: Manual do Arcano.76
-tags: [level5, bardo, feiticeiro, mago, transmutacao]
+tags: [level5, bardo, feiticeiro, mago, transmutacao, padrao, hora, toque, objeto, permanente, nenhum, experiencia]
 ---
 
 **Transmutacao de Nível 5**

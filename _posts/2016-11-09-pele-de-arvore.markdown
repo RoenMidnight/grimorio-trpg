@@ -3,7 +3,7 @@ layout: post
 title:  "Pele de Árvore"
 date:   2016-11-08
 source: Manual Básico.219
-tags: [level2, bardo, clerigo, druida, ranger, paladino, transmutacao]
+tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, transmutacao, padrao, toque, criatura, hora, nenhum]
 ---
 
 **Transmutação de Nível 2**

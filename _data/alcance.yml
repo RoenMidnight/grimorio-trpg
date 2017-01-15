@@ -1,0 +1,10 @@
+- name: Pessoal
+  tag: pessoal
+- name: Toque
+  tag: toque
+- name: Alcance em Metros
+  tag: metros
+- name: Ilimitado
+  tag: ilimitado
+- name: Quilometros
+  tag: quilometros

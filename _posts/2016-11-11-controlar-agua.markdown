@@ -3,7 +3,7 @@ layout: post
 title:  "Vazio"
 date:   2016-11-11
 source: Manual Básico.217
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, encantamento]
+tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, encantamento, completo, toque, criatura, permanente, vontade, anula]
 ---
 
 **Encantamento de Nível 8**

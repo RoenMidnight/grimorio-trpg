@@ -3,7 +3,7 @@ layout: post
 title:  "Escudo Arcano Supremo"
 date:   2016-11-17
 source: Manual do Arcano. 76
-tags: [level5, bardo, feiticeiro, mago, abjuracao]
+tags: [level5, bardo, feiticeiro, mago, abjuracao, padrao, toque, voce, minuto]
 ---
 
 **Abjuração de nível 5**

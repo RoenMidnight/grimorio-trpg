@@ -3,7 +3,7 @@ layout: post
 title:  "Insanidade"
 date:   2016-11-15
 source: Manual Básico.187
-tags: [level7, mago, feiticeiro, encantamento]
+tags: [level7, mago, feiticeiro, encantamento, padrao, metros, criatura, instantanea, vontade, anula]
 ---
 
 **Encantamento de Nível 7**

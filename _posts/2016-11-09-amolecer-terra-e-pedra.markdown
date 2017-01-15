@@ -3,7 +3,7 @@ layout: post
 title:  "Amolecer Terra e Pedra"
 date:   2016-11-09
 source: Manual Básico.161
-tags: [level2, bardo, clerigo, druida, ranger, paladino, Terra]
+tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, Terra, padrao, metros, quadrado, instantanea, nenhum]
 ---
 
 **Terra de Nível 2**

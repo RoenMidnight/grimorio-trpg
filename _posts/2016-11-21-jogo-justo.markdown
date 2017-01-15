@@ -3,7 +3,7 @@ layout: post
 title:  "Jogo Justo"
 date:   2016-11-17
 source: Manual do Arcano. 71
-tags: [level5, level6, bardo, clerigo, druida, feiticeiro, mago, abjuracao]
+tags: [level5, level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, abjuracao, padrao, metros, criatura, minuto, vontade, anula]
 ---
 
 **Arcana 5/ Divina 6**

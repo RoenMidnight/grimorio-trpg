@@ -3,7 +3,7 @@ layout: post
 title:  "Montaria Fantasmagórica Maior"
 date:   2016-11-17
 source: Manual do Arcano. 81
-tags: [level7, feiticeiro, mago, invocacao]
+tags: [level7, feiticeiro, mago, invocacao, completa, metros, criatura, dia, nenhum]
 ---
 
 **Transmutação de nível 7**

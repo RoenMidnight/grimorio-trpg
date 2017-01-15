@@ -3,7 +3,7 @@ layout: post
 title:  "Campo Anti-Magia"
 date:   2016-11-13
 source: Manual Básico.167
-tags: [level6, level8, bardo, clerigo, druida, feiticeiro, mago, abjuracao]
+tags: [level6, level8, bardo, clerigo, abencoado, druida, feiticeiro, mago, abjuracao,  padrao, pessoal, voce, hora]
 ---
 
 **Arcana 6/ Divina 8**

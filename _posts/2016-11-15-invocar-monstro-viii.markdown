@@ -3,7 +3,7 @@ layout: post
 title:  "Invocar Monstro VIII"
 date:   2016-11-15
 source: Manual Básico.189
-tags: [level8, clerigo, druida, feiticeiro, mago, invocacao]
+tags: [level8, clerigo, abencoado, druida, feiticeiro, mago, invocacao, completa, metros, criatura, concentracao, rodada, minuto, nenhum]
 ---
 
 **Invocação de Nível 8**

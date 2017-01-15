@@ -3,7 +3,7 @@ layout: post
 title:  "Corrente de Relâmpagos"
 date:   2016-11-13
 source: Manual Básico.173
-tags: [level6, bardo, feiticeiro, mago, eletrecidade]
+tags: [level6, bardo, feiticeiro, mago, eletrecidade,  padrao, metros, alvo, instantanea, reflexo, metade]
 ---
 
 **Eletrecidade de Nível 6**

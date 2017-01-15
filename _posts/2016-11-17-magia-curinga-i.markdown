@@ -3,7 +3,7 @@ layout: post
 title:  "Magia Curinga I"
 date:   2016-11-17
 source: Manual do Devoto.88
-tags: [level1, clerigo, druida,  wynna]
+tags: [level1, clerigo, abencoado, druida,  wynna]
 ---
 
 ** Descritor igual a magia imitada de nível 1 **

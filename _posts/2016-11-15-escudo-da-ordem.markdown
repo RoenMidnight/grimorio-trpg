@@ -3,7 +3,7 @@ layout: post
 title:  "Escudo da Ordem"
 date:   2016-11-15
 source: Manual Básico.181
-tags: [level8, clerigo, druida, ordem]
+tags: [level8, clerigo, abencoado, druida, ordem, padrao, metros, criatura, minuto]
 ---
 
 **Ordem de Nível 8**

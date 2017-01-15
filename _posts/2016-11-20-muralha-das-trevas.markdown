@@ -3,7 +3,7 @@ layout: post
 title:  "Muralha das Trevas"
 date:   2016-11-17
 source: Manual do Arcano. 81
-tags: [level6, bardo, feiticeiro, mago, abjuracao, escuridao, necromancia]
+tags: [level6, bardo, feiticeiro, mago, abjuracao, escuridao, necromancia, padrao, metros, outro, concentracao, minuto, hora, vontade, parcial]
 ---
 
 **Abjuração/Escuridão/Necromancai de nível 6**

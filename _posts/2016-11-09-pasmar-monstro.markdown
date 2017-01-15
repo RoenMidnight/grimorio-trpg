@@ -3,7 +3,7 @@ layout: post
 title:  "Pasmar Monstro"
 date:   2016-11-09
 source: Manual Básico.200
-tags: [level2, bardo, feiticeiro, mago, encantamento]
+tags: [level2, bardo, feiticeiro, mago, encantamento, padrao, metros, alvo, rodada, vontade, anula]
 ---
 
 **Encantamento de Nível 2**

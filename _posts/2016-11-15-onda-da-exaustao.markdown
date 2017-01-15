@@ -3,7 +3,7 @@ layout: post
 title:  "Onda da Exaustão"
 date:   2016-11-15
 source: Manual Básico.198
-tags: [level7, feiticeiro, mago, necromancia]
+tags: [level7, feiticeiro, mago, necromancia, padrao, metros, explosao, instantanea, nenhum]
 ---
 
 **Necromancia de Nível 7**

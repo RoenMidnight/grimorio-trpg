@@ -3,7 +3,7 @@ layout: post
 title:  "Toque do Carniçal"
 date:   2016-11-09
 source: Manual Básico.216
-tags: [level2, bardo, feiticeiro, mago, necromancia]
+tags: [level2, bardo, feiticeiro, mago, necromancia, padrao, toque, alvo, minuto, fortitude, anula]
 ---
 
 **Necromancia de Nível 2**

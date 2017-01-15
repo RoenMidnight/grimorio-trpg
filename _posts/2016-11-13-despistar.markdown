@@ -3,7 +3,7 @@ layout: post
 title:  "Despistar"
 date:   2016-11-13
 source: Manual Básico.176
-tags: [level6, bardo, feiticeiro, mago, ilusao]
+tags: [level6, bardo, feiticeiro, mago, ilusao,  padrao, pessoal, voce, outro, concentracao, minuto , nenhum]
 ---
 
 **Ilusao de Nível 6**

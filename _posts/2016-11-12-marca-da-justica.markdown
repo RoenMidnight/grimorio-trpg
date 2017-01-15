@@ -3,7 +3,7 @@ layout: post
 title:  "Marca da Justiça"
 date:   2016-11-08
 source: Manual Básico.192
-tags: [level5, bardo, clerigo, druida, necromancia]
+tags: [level5, bardo, clerigo, abencoado, druida, necromancia, minuto, toque, criatura, permanente, nenhum]
 ---
 
 **Necromancia de Nível 1**

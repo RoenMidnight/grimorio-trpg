@@ -3,7 +3,7 @@ layout: post
 title:  "Cólera da Ordem"
 date:   2016-11-11
 source: Manual Básico.170
-tags: [level4, bardo, clerigo, druida, ranger, paladino,ordem]
+tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, ordem, padrao, metros, explosao, instantanea, fortitude, parcial, dano]
 ---
 
 **Ordem de Nível 4**

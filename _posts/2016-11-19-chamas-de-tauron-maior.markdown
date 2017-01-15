@@ -3,7 +3,7 @@ layout: post
 title:  "Chamas de Tauron Maior"
 date:   2016-11-17
 source: Manual do Devoto. 84
-tags: [level7,  feiticeiro, mago, fogo]
+tags: [level7,  feiticeiro, mago, fogo, completa, metros, cubo, minuto, nenhum]
 ---
 
 **Fogo de nível 7**

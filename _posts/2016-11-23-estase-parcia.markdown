@@ -1,9 +1,9 @@
----
+ ---
 layout: post
 title:  "Estase Parcial"
 date:   2016-11-17
 source: Manual do Arcano. 77
-tags: [level3, bardo, feiticeiro, mago, tempo, necromancia]
+tags: [level3, bardo, feiticeiro, mago, tempo, necromancia, minuto, toque, criatura, mes, vontade, anula]
 ---
 
 **Tempo/Necromancia de nível 3**

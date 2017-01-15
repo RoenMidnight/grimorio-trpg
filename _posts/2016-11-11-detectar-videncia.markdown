@@ -3,7 +3,7 @@ layout: post
 title:  "Detectar Vidência"
 date:   2016-11-11
 source: Manual Básico. 177
-tags: [level4, bardo, clerigo, druida, ranger, paladino, adivinhacao]
+tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, adivinhacao, padrao, pessoal, voce, dia]
 ---
 
 **Adivinhação de Nível 4**

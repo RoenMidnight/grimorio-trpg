@@ -3,7 +3,7 @@ layout: post
 title:  "Andar nas Sombras"
 date:   2016-11-13
 source: Manual Básico.162
-tags: [level6, bardo, feiticeiro, mago, ilusao]
+tags: [level6, bardo, feiticeiro, mago, ilusao,  padrao, toque, criatura, dia, nenhum]
 ---
 
 **Ilusão de Nível 6**

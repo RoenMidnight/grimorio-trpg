@@ -3,7 +3,7 @@ layout: post
 title:  "Causar Medo"
 date:   2016-11-08
 source: Manual Básico.168
-tags: [level1, bardo, clerigo, druida, ranger,paladino, feiticeiro, mago, medo, necromancia]
+tags: [level1, bardo, clerigo, abencoado, druida, ranger,paladino, feiticeiro, mago, medo, necromancia, padrao, metros, alvo, vontade, parcial]
 ---
 
 **Medo/Necromancia de Nível 1**

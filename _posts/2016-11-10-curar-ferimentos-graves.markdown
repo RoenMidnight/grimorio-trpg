@@ -3,7 +3,7 @@ layout: post
 title:  "Curar Ferimentos Graves"
 date:   2016-11-10
 source: Manual Básico.174
-tags: [level3, bardo, clerigo, druida, paladino, ranger, cura]
+tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, cura, padrao, toque, criatura, instantanea, nenhum]
 ---
 
 **Cura de Nível 3**

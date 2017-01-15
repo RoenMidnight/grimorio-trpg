@@ -3,7 +3,7 @@ layout: post
 title:  "Obscurecer Objeto"
 date:   2016-11-09
 source: Manual Básico.198
-tags: [level2,level3, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, abjuracao]
+tags: [level2,level3, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, abjuracao, padrao, toque, objeto, dia, nenhum]
 ---
 
 **arcana 2/ divina 3**

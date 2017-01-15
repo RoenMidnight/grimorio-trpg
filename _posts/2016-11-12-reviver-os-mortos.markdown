@@ -3,7 +3,7 @@ layout: post
 title:  "Reviver os Mortos"
 date:   2016-11-08
 source: Manual Básico.209
-tags: [level5, bardo, clerigo, druida, cura]
+tags: [level5, bardo, clerigo, abencoado, druida, cura, minuto, toque, criatura, instantanea, nenhum, componente]
 ---
 
 **Cura de Nível 5**
@@ -14,7 +14,7 @@ tags: [level5, bardo, clerigo, druida, cura]
 
 **Alvo**: 1 criatura morta
 
-**Duração**: Istântanea
+**Duração**: Instântanea
 
 **Teste de Resistência**: Nenhum
 

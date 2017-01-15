@@ -3,7 +3,7 @@ layout: post
 title:  "Torcer Madeira"
 date:   2016-11-09
 source: Manual Básico.216
-tags: [level2, bardo, clerigo, druida, paladino, ranger, feiticeiro, mago, transmutacao]
+tags: [level2, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, transmutacao, padrao, metros, objeto, instantanea, nenhum]
 ---
 
 **Transmutação de Nível 2**

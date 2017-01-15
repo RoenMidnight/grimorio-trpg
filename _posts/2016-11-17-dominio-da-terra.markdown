@@ -3,7 +3,7 @@ layout: post
 title:  "Domínio da Terra"
 date:   2016-11-17
 source: Manual do Arcano. 75
-tags: [level9, feiticeiro, mago, gelo]
+tags: [level9, feiticeiro, mago, gelo, semana, quilometro, circulo, ano, componente]
 ---
 
 **Fogo de nível 9 **

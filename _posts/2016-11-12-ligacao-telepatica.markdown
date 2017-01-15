@@ -3,7 +3,7 @@ layout: post
 title:  "Ligação Telepática"
 date:   2016-11-08
 source: Manual Básico.190
-tags: [level5, bardo, feiticeiro, mago, adivinhacao]
+tags: [level5, bardo, feiticeiro, mago, adivinhacao, padrao, metros, criatura, dia, nenhum]
 ---
 
 **Adivinhação de Nível 5**

@@ -3,7 +3,7 @@ layout: post
 title:  "Marionete"
 date:   2016-11-08
 source: Manual Básico.192
-tags: [level5, bardo, feiticeiro, mago, encantamento]
+tags: [level5, bardo, feiticeiro, mago, encantamento, padrao, metros, criatura, concentracao, dia, fortitude, anula]
 ---
 
 **Encantamento de Nível 5**

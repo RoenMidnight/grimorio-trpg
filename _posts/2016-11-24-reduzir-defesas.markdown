@@ -3,7 +3,7 @@ layout: post
 title:  "Reduzir Defesas"
 date:   2016-11-17
 source: Manual do Arcano. 83
-tags: [level2, bardo, feiticeiro, mago, transmutacao]
+tags: [level2, bardo, feiticeiro, mago, transmutacao, padrao, metros, criatura, hora, vontade, parcial]
 ---
 
 **Transmutação de nível 2**

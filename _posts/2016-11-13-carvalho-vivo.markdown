@@ -3,7 +3,7 @@ layout: post
 title:  "Carvalho Vivo"
 date:   2016-11-13
 source: Manual Básico.168
-tags: [level6, bardo, clerigo, druida, transmutacao]
+tags: [level6, bardo, clerigo, abencoado, druida, transmutacao,  padrao, toque, objeto, mes, nenhum]
 ---
 
 **Transmutação de Nível 6**

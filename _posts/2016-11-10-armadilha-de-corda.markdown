@@ -3,7 +3,7 @@ layout: post
 title:  "Armadilha de Corda"
 date:   2016-11-10
 source: Manual Básico.164
-tags: [level3, bardo, clerigo, druida, paladino, ranger, transmutacao]
+tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, transmutacao, padrao, toque, objeto, permanente, descarregar, nenhum]
 ---
 
 **Transmutação de Nível 3**

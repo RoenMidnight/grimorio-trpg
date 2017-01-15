@@ -3,7 +3,7 @@ layout: post
 title:  "Alterar Paisagem"
 date:   2016-11-17
 source: Manual do Devoto. 83
-tags: [level2, bardo, paladino, ranger, clerigo, druida, invocacao]
+tags: [level2, bardo, paladino, ranger, clerigo, abencoado, druida, invocacao, padrao, metros, objeto, minuto, nenhum]
 ---
 
 **Invocação de nível 2**

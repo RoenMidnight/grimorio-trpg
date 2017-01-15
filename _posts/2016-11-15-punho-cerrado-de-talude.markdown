@@ -3,7 +3,7 @@ layout: post
 title:  "Punho Cerrado de Talude"
 date:   2016-11-15
 source: Manual Básico.205
-tags: [level8, feiticeiro, mago, essencia]
+tags: [level8, feiticeiro, mago, essencia, padrao, metros, outro, minuto, nenhum]
 ---
 
 **Essência de Nível 8**

@@ -3,7 +3,7 @@ layout: post
 title:  "Escrita Ilusória"
 date:   2016-11-10
 source: Manual Básico.181
-tags: [level3, bardo, feiticeiro, mago, ilusao]
+tags: [level3, bardo, feiticeiro, mago, ilusao, minutos, toque, objeto, semana, vontade, anula]
 ---
 
 **Ilusão de Nível 3**

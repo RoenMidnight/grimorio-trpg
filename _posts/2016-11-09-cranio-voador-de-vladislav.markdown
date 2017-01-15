@@ -3,7 +3,7 @@ layout: post
 title:  "Crânio Voador de Vladislav"
 date:   2016-11-09
 source: Manual Básico.173
-tags: [level2, bardo, feiticeiro, mago, necromancia]
+tags: [level2, bardo, feiticeiro, mago, necromancia, padrao, metros, outro, instantanea, nenhum]
 ---
 
 **Necromancia de Nível 2**

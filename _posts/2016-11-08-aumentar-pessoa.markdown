@@ -3,7 +3,7 @@ layout: post
 title:  "Aumentar Pessoa"
 date:   2016-11-08
 source: Manual Básico.165
-tags: [level1, bardo, feiticeiro, mago, transmutacao]
+tags: [level1, bardo, feiticeiro, mago, transmutacao, padrao, metros, alvo, minuto, nenhun]
 ---
 
 **Transmutação de Nível 1**

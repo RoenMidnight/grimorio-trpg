@@ -3,7 +3,7 @@ layout: post
 title:  "Maldição de Tenebra (Absoluta)"
 date:   2016-11-17
 source: Manual do Devoto. 95
-tags: [level9, clerigo, druida, escuridao, tenebra]
+tags: [level9, clerigo, abencoado, druida, escuridao, tenebra, padrao, metros, peramente, vontade, absoluta]
 ---
 
 **Escuridão de Nível 9 (Absoluta)**

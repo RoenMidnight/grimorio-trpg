@@ -3,7 +3,7 @@ layout: post
 title:  "Tsunami do Oceano (Absoluta)"
 date:   2016-11-17
 source: Manual do Devoto. 95
-tags: [level9, clerigo, druida, agua, frio, oceano]
+tags: [level9, clerigo, abencoado, druida, agua, frio, oceano, padrao, metros, outros, instantanea, nenhum, absoluta]
 ---
 
 **Água/Frio de Nível 9 (Absoluta)**

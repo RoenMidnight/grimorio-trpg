@@ -3,7 +3,7 @@ layout: post
 title:  "Azar Atípico"
 date:   2016-11-10
 source: Mundo dos Deuses. 147
-tags: [level2, bardo, mago, feiticeiro, clerigo, druida, paladino, ranger, caos]
+tags: [level2, bardo, mago, feiticeiro, clerigo, abencoado, druida, paladino, ranger, caos, padrao, metros, criatura, instantanea, vontade, anula]
 ---
 
 **Caos de Nível 2**

@@ -3,7 +3,7 @@ layout: post
 title:  "Muralha de Vento"
 date:   2016-11-10
 source: Manual Básico.197
-tags: [level3, bardo, clerigo, druida, paladino, ranger, feiticeiro, mago, ar]
+tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, ar, padrao, metros, outro, minuto, nenhum]
 ---
 
 **Ar de Nível 3**

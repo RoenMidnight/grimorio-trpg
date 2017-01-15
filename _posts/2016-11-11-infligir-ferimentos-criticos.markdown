@@ -3,7 +3,7 @@ layout: post
 title:  "Infligir Ferimentos Críticos"
 date:   2016-11-11
 source: Manual Básico. 187
-tags: [level4, bardo, clerigo, druida, ranger, paladino, necromancia]
+tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, necromancia, padrao, toque, criatura, instantanea, nenhum, dano]
 ---
 
 **Necromancia de Nível 4**

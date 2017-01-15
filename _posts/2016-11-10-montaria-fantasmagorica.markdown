@@ -3,7 +3,7 @@ layout: post
 title:  "Montaria Fantasmagórica"
 date:   2016-11-10
 source: Manual Básico.195
-tags: [level3, bardo, feiticeiro, mago, invocacao]
+tags: [level3, bardo, feiticeiro, mago, invocacao, completa, metros, criatura, dia, nenhum]
 ---
 
 **Invocaçaõ de Nível 3**

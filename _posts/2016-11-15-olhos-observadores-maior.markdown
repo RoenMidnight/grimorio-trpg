@@ -3,7 +3,7 @@ layout: post
 title:  "Olhos Observadores Maior"
 date:   2016-11-15
 source: Manual Básico.198
-tags: [level8, feiticeiro, mago, adivinhacao]
+tags: [level8, feiticeiro, mago, adivinhacao, minuto, quilometro, outro, dia, nenhum]
 ---
 
 **Adivinhação de Nível 8**

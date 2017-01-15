@@ -3,7 +3,7 @@ layout: post
 title:  "Animar Corda"
 date:   2016-11-08
 source: Manual Básico.162
-tags: [level1, bardo, feiticeiro, mago, transmutacao]
+tags: [level1, bardo, feiticeiro, mago, transmutacao, padrao, metros, objeto, minuto, nenhum]
 ---
 
 **Transmutação de Nível 1**

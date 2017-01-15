@@ -3,7 +3,7 @@ layout: post
 title:  "Transformação de Guerra"
 date:   2016-11-13
 source: Manual Básico.217
-tags: [level6, bardo, feiticeiro, mago, transmutacao]
+tags: [level6, bardo, feiticeiro, mago, transmutacao, padrao, pessoal, voce, minuto]
 ---
 
 **Transmutação de Nível 6*

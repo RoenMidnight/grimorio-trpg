@@ -3,7 +3,7 @@ layout: post
 title:  "Maquinações de Hyninn (Absoluta)"
 date:   2016-11-17
 source: Manual do Devoto. 91
-tags: [level9, clerigo, druida, caos, ordem, hyninn]
+tags: [level9, clerigo, abencoado, druida, caos, ordem, hyninn, dia, pessoal, instantanea, nenhum, absoluta]
 ---
 
 **Caos/Ordem de Nível 9 (Absoluta)**

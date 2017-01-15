@@ -3,7 +3,7 @@ layout: post
 title:  "Evaporação"
 date:   2016-11-15
 source: Manual Básico.183
-tags: [level8, feiticeiro, mago, necromancia]
+tags: [level8, feiticeiro, mago, necromancia, padrao, metros, criatura, instantanea, fortitude, metade, dano]
 ---
 
 **Necromancia de Nível 8**

@@ -3,7 +3,7 @@ layout: post
 title:  "Fogo Amigo"
 date:   2016-11-17
 source: Manual do Arcano. 78
-tags: [level2, bardo, feiticeiro, mago, abjuracao]
+tags: [level2, bardo, feiticeiro, mago, abjuracao, padrao, metros, criatura, hora, nenhum]
 ---
 
 **Abjuração de nível 2**

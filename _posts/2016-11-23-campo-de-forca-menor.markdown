@@ -3,7 +3,7 @@ layout: post
 title:  "Campo de Força Menor"
 date:   2016-11-17
 source: Manual do Arcano. 70
-tags: [level3, bardo, feiticeiro, mago, abjuracao, essencia]
+tags: [level3, bardo, feiticeiro, mago, abjuracao, essencia, livre, pessoal, voce, minuto, nenhum]
 ---
 
 **Abjuração/Essência de nível 3**

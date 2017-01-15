@@ -3,7 +3,7 @@ layout: post
 title:  "Criar Mortos-Vivos Maior"
 date:   2016-11-15
 source: Manual Básico.174
-tags: [level8, clerigo, druida, feiticeiro, mago, necromancia]
+tags: [level8, clerigo, abencoado, druida, feiticeiro, mago, necromancia, hora, toque, alvo, instantanea, nenhum, componente]
 ---
 
 **Necromancia de Nível 8**

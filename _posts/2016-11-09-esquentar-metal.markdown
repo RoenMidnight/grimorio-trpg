@@ -3,7 +3,7 @@ layout: post
 title:  "Esquentar Metal "
 date:   2016-11-09
 source: Manual Básico.182
-tags: [level2, bardo, clerigo, druida, ranger, paladino, fogo]
+tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, fogo, padrao, metros, objeto, rodadas, nenhum, dano]
 ---
 
 **Fogo de Nível 2**

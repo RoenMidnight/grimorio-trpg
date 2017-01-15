@@ -3,7 +3,7 @@ layout: post
 title:  "Desmetamorfosear"
 date:   2016-11-17
 source: Manual do Arcano. 71
-tags: [level3, bardo, feiticeiro, mago, abjuracao, necromancia]
+tags: [level3, bardo, feiticeiro, mago, abjuracao, necromancia, padrao, metros, criatura, instantanea, fortitude, parcial]
 ---
 
 **Abjuração/Necromancia de nível 3**

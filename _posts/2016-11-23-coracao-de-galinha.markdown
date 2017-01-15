@@ -3,7 +3,7 @@ layout: post
 title:  "Coração de Galinha"
 date:   2016-11-17
 source: Manual do Arcano. 71
-tags: [level3, bardo, feiticeiro, mago, medo, necromancia]
+tags: [level3, bardo, feiticeiro, mago, medo, necromancia, movimento, metros, criatura, minuto, vontade, anula]
 ---
 
 **Medo/Necromancia de nível 3**

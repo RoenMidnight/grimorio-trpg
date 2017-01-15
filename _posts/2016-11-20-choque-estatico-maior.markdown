@@ -3,7 +3,7 @@ layout: post
 title:  "Choque Estático Maior"
 date:   2016-11-17
 source: Manual do Arcano. 70
-tags: [level6, bardo, feiticeiro, mago, eletricidade]
+tags: [level6, bardo, feiticeiro, mago, eletricidade, padrao, metros, minuto, fortitude, parcial, componente, dano]
 ---
 
 **Eletrícidade de nível 6**

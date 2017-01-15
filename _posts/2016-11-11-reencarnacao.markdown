@@ -3,7 +3,7 @@ layout: post
 title:  "Reencarnação"
 date:   2016-11-11
 source: Manual Básico.207
-tags: [level4, bardo, clerigo, druida, ranger, paladino, cura]
+tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, cura, minuto, toque, criatura, instantanea, componente]
 ---
 
 **Cura de Nível 4**

@@ -3,7 +3,7 @@ layout: post
 title:  "Enfeitiçar Monstro em Massa"
 date:   2016-11-15
 source: Manual Básico.178
-tags: [level8, clerigo, druida, feiticeiro, mago, adivinhacao]
+tags: [level8, clerigo, abencoado, druida, feiticeiro, mago, adivinhacao, padrao, metros, criatura, semana, vontade, anula]
 ---
 
 **Encantamento de Nível 8**

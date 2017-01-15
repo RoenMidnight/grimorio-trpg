@@ -3,7 +3,7 @@ layout: post
 title:  "Feixe Solar de Azgher(Absoluta)"
 date:   2016-11-17
 source: Manual do Devoto. 94
-tags: [level9, clerigo, druida, bem, fogo, luz, azgher]
+tags: [level9, clerigo, abencoado, druida, bem, fogo, luz, azgher, livre, metros, raio, instantanea, reflexos, absoluta]
 ---
 
 **Bem/Fogo/Luz de 9 (Absoluta)**

@@ -3,7 +3,7 @@ layout: post
 title:  "Remover Medo"
 date:   2016-11-08
 source: Manual Básico.208
-tags: [level1, bardo, feiticeiro, mago, abjuracao]
+tags: [level1, bardo, feiticeiro, mago, abjuracao, padrao, metros, alvo, instantanea, nenhum]
 ---
 
 **Abjuração de Nível 1**

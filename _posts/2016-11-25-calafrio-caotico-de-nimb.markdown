@@ -3,7 +3,7 @@ layout: post
 title:  "Calafrio Caótico de Nimb"
 date:   2016-11-17
 source: Manual do Arcano. 70
-tags: [level1, bardo,clerigo, druida, feiticeiro, paladino, ranger, mago, caos, frio]
+tags: [level1, bardo,clerigo, abencoado, druida, feiticeiro, paladino, ranger, mago, caos, frio, movimento, metros, criatura, rodadas, nenhum]
 ---
 
 **Caos/Frio de nível 1**

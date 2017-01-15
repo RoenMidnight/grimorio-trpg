@@ -3,7 +3,7 @@ layout: post
 title:  "Contingência"
 date:   2016-11-13
 source: Manual Básico.172
-tags: [level6, bardo, feiticeiro, mago, essencia]
+tags: [level6, bardo, feiticeiro, mago, essencia, minuto, pessoal, voce, dia, descarregar, nenhum]
 ---
 
 **Essência de Nível 6**

@@ -3,7 +3,7 @@ layout: post
 title:  "Melhoria Mnemônica"
 date:   2016-11-11
 source: Manual Básico. 193
-tags: [level4, bardo,  feiticeiro, mago, transmutacao]
+tags: [level4, bardo,  feiticeiro, mago, transmutacao, minuto, pessoal, voce, instantanea]
 ---
 
 **Transmutação de Nível 4**

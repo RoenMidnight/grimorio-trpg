@@ -3,7 +3,7 @@ layout: post
 title:  "Invisibilidade Suprema"
 date:   2016-11-17
 source: Manual do Devoto. 79
-tags: [level8, feiticeiro, mago, ilusao]
+tags: [level8, feiticeiro, mago, ilusao, padrao, pessoal, toque, voce, criatura, objeto, minuto, nenhum]
 ---
 
 **Ilusão de nível 8**

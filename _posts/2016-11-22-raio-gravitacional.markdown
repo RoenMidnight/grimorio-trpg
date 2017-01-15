@@ -3,7 +3,7 @@ layout: post
 title:  "Raio Gravitacional"
 date:   2016-11-17
 source: Manual do Arcano. 83
-tags: [level4, bardo, feiticeiro, mago, tempo]
+tags: [level4, bardo, feiticeiro, mago, tempo, padrao, metros, raio, instantanea, nenhum]
 ---
 
 **Tempo de nível 4**

@@ -3,7 +3,7 @@ layout: post
 title:  "Perecer/Preservar"
 date:   2016-11-17
 source: Manual do Arcano. 81
-tags: [level5, level6, bardo, clerigo, druida, feiticeiro, mago, transmutacao]
+tags: [level5, level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, transmutacao, padrao, toque, objeto, hora, nenhum]
 ---
 
 **Arcana 5/ Divina 6**

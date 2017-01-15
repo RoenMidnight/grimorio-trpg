@@ -3,7 +3,7 @@ layout: post
 title:  "Matar"
 date:   2016-11-08
 source: Manual Básico.193
-tags: [level5, bardo, clerigo, druida, necromancia]
+tags: [level5, bardo, clerigo, abencoado, druida, necromancia, padrao, toque, criatura, instantanea, fortitude, parcial, dano]
 ---
 
 **Necromancia de Nível 5**

@@ -3,7 +3,7 @@ layout: post
 title:  "Servo Invisível Maior"
 date:   2016-11-17
 source: Manual do Arcano. 84
-tags: [level4, bardo, feiticeiro, mago, invocacao]
+tags: [level4, bardo, feiticeiro, mago, invocacao, padrao, metros, dia, nenhum]
 ---
 
 **Arcana de nível 4**

@@ -42,7 +42,7 @@
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
-            padding-left: 20px;
+            padding-left: 13px;
         }
     }
 
@@ -210,11 +210,11 @@ dl.tag-list {
         font-weight: bold;
         display: inline-block;
         color: $grey-color-dark;
-        padding-right: 20px;
+        padding-right: 0px;
     }
     dd {
         display: inline;
-        padding-right: 20px;
+        padding-right: 4px;
     }
 }
 

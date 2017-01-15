@@ -3,7 +3,7 @@ layout: post
 title:  "Visão Suprema"
 date:   2016-11-17
 source: Manual do Devoto. 86
-tags: [level8, clerigo, druida, feiticeiro, mago, adivinhacao]
+tags: [level8, clerigo, abencoado, druida, feiticeiro, mago, adivinhacao, padrao, toque, criatura, hora, nenhum]
 ---
 
 **Adivinhação de nível 8**

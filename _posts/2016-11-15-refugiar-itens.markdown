@@ -3,7 +3,7 @@ layout: post
 title:  "Refugiar Itens"
 date:   2016-11-15
 source: Manual Básico.207
-tags: [level7, feiticero, mago, abjuracao]
+tags: [level7, feiticero, mago, abjuracao, padrao, toque, criatura, objeto, semana, vontade, anula]
 ---
 
 **Abjuração de Nível 7**

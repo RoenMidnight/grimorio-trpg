@@ -3,7 +3,7 @@ layout: post
 title:  "Mensageiro Animal"
 date:   2016-11-09
 source: Manual Básico.193
-tags: [level2, bardo, clerigo, druida, ranger, paladino, encantamento]
+tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, encantamento, padrao, metros, alvo, semana, nenhum]
 ---
 
 **Encantamento de Nível 2**

@@ -3,7 +3,7 @@ layout: post
 title:  "Mesclar-se as Rochas"
 date:   2016-11-10
 source: Manual Básico.193
-tags: [level3, bardo, clerigo, druida, paladino, ranger, transmutacao]
+tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, transmutacao, padrao, pessoal, voce, hora]
 ---
 
 **Transmutação de Nível 3**

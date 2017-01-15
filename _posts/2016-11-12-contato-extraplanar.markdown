@@ -3,7 +3,7 @@ layout: post
 title:  "Contato Extraplanar"
 date:   2016-11-08
 source: Manual Básico.172
-tags: [level5, bardo, feiticeiro, mago, adivinhacao]
+tags: [level5, bardo, feiticeiro, mago, adivinhacao, minuto, pessoal, voce, concentracao, minuto]
 ---
 
 **Adivinhação de Nível 5**

@@ -3,7 +3,7 @@ layout: post
 title:  "Pesadelo"
 date:   2016-11-08
 source: Manual Básico.202
-tags: [level5, bardo, clerigo, druida, feiticeiro, mago, ilusao]
+tags: [level5, bardo, clerigo, abencoado, druida, feiticeiro, mago, ilusao, ilimitado, minuto, criatura, instantanea, vontade, anula]
 ---
 
 **Ilusão de Nível 5**

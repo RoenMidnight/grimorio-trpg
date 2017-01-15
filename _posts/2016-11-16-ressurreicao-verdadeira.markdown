@@ -3,7 +3,7 @@ layout: post
 title:  "Ressurreição Verdadeira"
 date:   2016-11-16
 source: Manual Básico.209
-tags: [level9, clerigo, druida, cura]
+tags: [level9, clerigo, abencoado, druida, cura,  minuto, toque, criatura, instantanea, nenhum, componente]
 ---
 
 **Cura de Nível 9**

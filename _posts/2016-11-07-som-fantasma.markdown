@@ -3,7 +3,7 @@ layout: post
 title:  "Som Fantasma"
 date:   2016-11-07
 source: Manual Básico.213
-tags: [level0, bardo, feiticeiro, mago, ilusao]
+tags: [level0, bardo, feiticeiro, mago, ilusao, padrao, metros, outro, minuto, vontade, anula]
 ---
 
 **Ilusão de Nível 0**

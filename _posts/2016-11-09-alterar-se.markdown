@@ -3,7 +3,7 @@ layout: post
 title:  "Alterar-se"
 date:   2016-11-09
 source: Manual Básico.161
-tags: [level2, bardo, feiticeiro, mago, transmutacao]
+tags: [level2, bardo, feiticeiro, mago, transmutacao, padrao, pessoal, voce, hora]
 ---
 
 **Transmutação de Nível 2**

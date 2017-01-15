@@ -3,7 +3,7 @@ layout: post
 title:  "Animação Ilusória"
 date:   2016-11-15
 source: Manual Básico.162
-tags: [level8, feiticeiro, mago, ilusao]
+tags: [level8, feiticeiro, mago, ilusao, minuto, metros, cubo, hora, nenhum, vontade, anula]
 ---
 
 **Ilusão de Nível 8**

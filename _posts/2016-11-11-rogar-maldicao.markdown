@@ -3,7 +3,7 @@ layout: post
 title:  "Rogar Maldição"
 date:   2016-11-11
 source: Manual Básico.210
-tags: [level3, level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, necromancia]
+tags: [level3, level4, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, necromancia, padrao, toque, criatura, permanente]
 ---
 
 **Arcana 4/ Divina 3**

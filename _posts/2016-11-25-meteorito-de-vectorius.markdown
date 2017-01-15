@@ -3,7 +3,7 @@ layout: post
 title:  "Meteorito de Vectorius"
 date:   2016-11-17
 source: Manual do Arcano. 80
-tags: [level1, bardo, feiticeiro, mago, invocacao, terra]
+tags: [level1, bardo, feiticeiro, mago, invocacao, terra, completa, metros, outro, instantanea, reflexo, metade]
 ---
 
 **Invocação/Terra de nível 1**

@@ -3,7 +3,7 @@ layout: post
 title:  "Dizimar Defesas"
 date:   2016-11-09
 source: Manual do Arcano.73
-tags: [level5, bardo, feiticeiro, mago, transmutacao]
+tags: [level5, bardo, feiticeiro, mago, transmutacao, padrao, metros, criatura, hora, vontade, parcial]
 ---
 
 **Transmutacao de Nível 5**

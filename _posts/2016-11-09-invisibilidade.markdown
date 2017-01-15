@@ -3,12 +3,12 @@ layout: post
 title:  "Invisibilidade"
 date:   2016-11-09
 source: Manual Básico.188
-tags: [level2, bardo, feiticeiro, mago, ilusao]
+tags: [level2, bardo, feiticeiro, mago, ilusao, padrao, toque, pessoal, alvo, minuto, nenhum]
 ---
 
 **Ilusão de Nível 2**
 
-**Tempo de Execução**: Ação Padrão ou toque
+**Tempo de Execução**: Ação Padrão
 
 **Alcance**: Pessoal ou Toque
 

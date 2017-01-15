@@ -3,12 +3,12 @@ layout: post
 title:  "Encolher Item"
 date:   2016-11-10
 source: Manual Básico.180
-tags: [level3, bardo, feiticeiro, mago, transmutacao]
+tags: [level3, bardo, feiticeiro, mago, transmutacao, padrao, toque, objeto, semana, nenhum]
 ---
 
 **Transmutação de Nível 3**
 
-**Tempo de Execução**: Ação Pdrão
+**Tempo de Execução**: Ação Padrão
 
 **Alcance**: toque
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Bola de Fogo Controlável"
 date:   2016-11-15
 source: Manual Básico.166
-tags: [level7, feiticeiro, mago, fogo]
+tags: [level7, feiticeiro, mago, fogo, padrao, metros, explosao, rodada, reflexo, metade, dano]
 ---
 
 **Fogo de Nível 7**

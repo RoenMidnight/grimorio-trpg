@@ -3,7 +3,7 @@ layout: post
 title:  "Curar Ferimentos Moderados"
 date:   2016-11-09
 source: Manual Básico.175
-tags: [level2, bardo, clerigo, druida, ranger, paladino, Cura]
+tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, Cura, padrao, toque, criatura, instantanea, nenhum]
 ---
 
 **Cura de Nível 2**

@@ -3,7 +3,7 @@ layout: post
 title:  "Metamorfose de Vladislav"
 date:   2016-11-17
 source: Expedição à Aliança Negra. 48
-tags: [level4, bardo, feiticeiro, mago, transmutacao]
+tags: [level4, bardo, feiticeiro, mago, transmutacao, padrao, toque, alvo, dias, nenhum]
 ---
 
 **Transmutação de nível 4**

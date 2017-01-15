@@ -3,7 +3,7 @@ layout: post
 title:  "Curar Ferimentos Graves em Massa"
 date:   2016-11-15
 source: Manual Básico.174
-tags: [level7, clerigo, druida, cura]
+tags: [level7, clerigo, abencoado, druida, cura, padrao, metros, criatura, instantanea, nenhum]
 ---
 
 **Cura de Nível 7**

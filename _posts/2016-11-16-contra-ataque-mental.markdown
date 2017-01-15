@@ -3,7 +3,7 @@ layout: post
 title:  "Contra-Ataque Mental"
 date:   2016-11-08
 source: Manual Básico.219
-tags: [level9, clerigo, druida, feiticeiro, mago,  abjuracao]
+tags: [level9, clerigo, abencoado, druida, feiticeiro, mago,  abjuracao,  minuto, toque, criatura, dia, nenhum]
 ---
 
 **Abjuração de Nível 9**

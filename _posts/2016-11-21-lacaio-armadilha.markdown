@@ -3,7 +3,7 @@ layout: post
 title:  "Lacaio-Armadilha"
 date:   2016-11-17
 source: Manual do Arcano. 68
-tags: [level5, bardo, feiticeiro, mago, fogo]
+tags: [level5, bardo, feiticeiro, mago, fogo, padrao, toque, criatura, permanente, vontade, anula, reflexos, parcial, componente]
 ---
 
 **Fogo de nível 5**

@@ -3,7 +3,7 @@ layout: post
 title:  "Proteger Outro"
 date:   2016-11-09
 source: Manual Básico.205
-tags: [level2, bardo, clerigo, druida, ranger, paladino,abjuracao]
+tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, abjuracao, padrao, metros, alvo, hora, nenhum]
 ---
 
 **Abjuração de Nível 2**

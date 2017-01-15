@@ -3,7 +3,7 @@ layout: post
 title:  "Repelir Metal ou Pedra"
 date:   2016-11-15
 source: Manual Básico.208
-tags: [level8, clerigo, druida, abjuracao]
+tags: [level8, clerigo, abencoado, druida, abjuracao, padrao, metros, emanacao, linha, minuto]
 ---
 
 **Abjuração de Nível 8**

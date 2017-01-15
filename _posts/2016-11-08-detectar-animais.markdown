@@ -3,7 +3,7 @@ layout: post
 title:  "Detectar Animais"
 date:   2016-11-08
 source: Manual Básico.176
-tags: [level1, bardo, clerigo, druida, ranger,paladino, adivinhacao]
+tags: [level1, bardo, clerigo, abencoado, druida, ranger,paladino, adivinhacao, padrao, metros, emanacao, concentracao, rodadas, nenhum]
 ---
 
 **Adivinhação de Nível 1**

@@ -3,7 +3,7 @@ layout: post
 title:  "Medo do Escuro"
 date:   2016-11-17
 source: Manual do Arcano. 80
-tags: [level3, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, escuridao, medo]
+tags: [level3, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, escuridao, medo, padrao, metros, criatura, minuto, vontade, anula]
 ---
 
 **Escuridão/Medo de nível 3**

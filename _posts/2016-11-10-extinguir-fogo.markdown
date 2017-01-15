@@ -3,7 +3,7 @@ layout: post
 title:  "Extinguir Fogo"
 date:   2016-11-10
 source: Manual Básico.183
-tags: [level3, bardo, clerigo, druida, paladino, ranger, transmutacao]
+tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, transmutacao, padrao, metros, cubo, instantanea, nenhum]
 ---
 
 **Transmutação de Nível 3**

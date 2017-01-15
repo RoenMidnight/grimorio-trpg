@@ -3,7 +3,7 @@ layout: post
 title:  "Movimentação Livre"
 date:   2016-11-11
 source: Manual Básico.195
-tags: [level4, bardo, clerigo, druida, ranger, paladino, abjuracao]
+tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, abjuracao, padrao, toque, criatura, hora, nenhum]
 ---
 
 **Abjuração de Nível 4**

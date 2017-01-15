@@ -3,7 +3,7 @@ layout: post
 title:  "Expandir Domínio"
 date:   2016-11-17
 source: Manual do Devoto. 73
-tags: [level9, feiticeiro, mago]
+tags: [level9, feiticeiro, mago, dia, quilometro, alvo, especial, nenhum, componente]
 ---
 
 **Arcana de nível 9 **

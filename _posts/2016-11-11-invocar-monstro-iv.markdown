@@ -3,7 +3,7 @@ layout: post
 title:  "Invocar Monstro IV"
 date:   2016-11-13
 source: Manual Básico.189
-tags: [level4, bardo, clerigo, druida, paladino, ranger, feiticeiro, mago, invocacao]
+tags: [level4, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, invocacao, completa, metros, objeto, instantanea, nenhum]
 ---
 
 **Invocação de Nível 4**

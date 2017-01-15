@@ -3,7 +3,7 @@ layout: post
 title:  "Portal"
 date:   2016-11-16
 source: Manual Básico.202
-tags: [level9,  feiticeiro, mago, invocacao]
+tags: [level9,  feiticeiro, mago, invocacao,  padrao, metros, minuto, concentracao, experiencia, nenhum]
 ---
 
 **Invocação de Nível 9**

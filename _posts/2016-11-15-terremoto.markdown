@@ -3,7 +3,7 @@ layout: post
 title:  "Terremoto"
 date:   2016-11-15
 source: Manual Básico.215
-tags: [level8, clerigo, druida, feiticeiro, mago, terra]
+tags: [level8, clerigo, abencoado, druida, feiticeiro, mago, terra,  padrao, metros, disperssao, rodada]
 ---
 
 **Terra de Nível 8**

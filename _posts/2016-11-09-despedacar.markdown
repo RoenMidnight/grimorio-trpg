@@ -3,7 +3,7 @@ layout: post
 title:  "Despedaçar"
 date:   2016-11-09
 source: Manual Básico.176
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, sonico]
+tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, sonico, padrao, metros, alvo, objeto, dispersao, instantanea, nenhum]
 ---
 
 **Sônico de Nível 2**

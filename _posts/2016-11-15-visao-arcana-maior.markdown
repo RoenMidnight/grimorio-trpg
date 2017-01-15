@@ -3,7 +3,7 @@ layout: post
 title:  "Visão Arcana Maior"
 date:   2016-11-15
 source: Manual Básico.218
-tags: [level7, feiticeiro, mago, adivinhacao]
+tags: [level7, feiticeiro, mago, adivinhacao,  padrao, pessoal, voce, minuto]
 ---
 
 **Adivinhação de Nível 7**

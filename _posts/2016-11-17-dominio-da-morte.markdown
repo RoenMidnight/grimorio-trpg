@@ -3,7 +3,7 @@ layout: post
 title:  "Domínio do Morte"
 date:   2016-11-17
 source: Manual do Arcano. 75
-tags: [level9, feiticeiro, mago, necromancia, mal]
+tags: [level9, feiticeiro, mago, necromancia, mal, semana, quilometro, circulo, ano, componente]
 ---
 
 **Necromancia/Mal de nível 9 **

@@ -3,7 +3,7 @@ layout: post
 title:  "Fogo das Fadas"
 date:   2016-11-08
 source: Manual Básico.184
-tags: [level1, bardo, clerigo, druida, ranger, paladino, luz]
+tags: [level1, bardo, clerigo, abencoado, druida, ranger, paladino, luz, padrao, metros, explosao, minuto, nenhum]
 ---
 
 **Luz de Nível 1**

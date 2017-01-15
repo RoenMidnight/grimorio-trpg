@@ -3,7 +3,7 @@ layout: post
 title:  "Refúgio Seguro"
 date:   2016-11-11
 source: Manual Básico.217
-tags: [level4, bardo, feiticeiro, mago, invocacao]
+tags: [level4, bardo, feiticeiro, mago, invocacao, minuto, metros, outro, dia, nenhum]
 ---
 
 **Invocação de Nível 4**

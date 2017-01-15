@@ -3,7 +3,7 @@ layout: post
 title:  "Símbolo da Dor"
 date:   2016-11-13
 source: Manual Básico.211
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+tags: [level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, necromancia, minuto, toque, outro, permanente, descarregar, fortitude, anula, componente]
 ---
 
 **Necromancia de Nível 5**

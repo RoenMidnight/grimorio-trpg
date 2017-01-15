@@ -3,7 +3,7 @@ layout: post
 title:  "Salva-Vidas"
 date:   2016-11-10
 source: Mundo dos Deuses. 149
-tags: [level2, bardo, clerigo, druida, paladino, ranger, transmutacao]
+tags: [level2, bardo, clerigo, abencoado, druida, paladino, ranger, transmutacao, reacao, metros, criatura, rodadas]
 ---
 
 **Transmutação de Nível 1**

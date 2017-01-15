@@ -3,7 +3,7 @@ layout: post
 title:  "Invocar Monstro III"
 date:   2016-11-08
 source: Manual Básico.188
-tags: [level3, bardo, clerigo, druida, paladino, ranger, feiticeiro, mago, invocacao]
+tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, invocacao, completa, metros, outro, concentracao, rodada, minuto, nenhum]
 ---
 
 **Invocação de Nível 3**

@@ -3,7 +3,7 @@ layout: post
 title:  "Raio de Ácido Maior"
 date:   2016-11-07
 source: Manual Básico.205
-tags: [level2, bardo, feiticeiro, mago, acido]
+tags: [level2, bardo, feiticeiro, mago, acido, padrao, metros, raio, rodada, reflexo, dano]
 ---
 
 **Ácido de Nível 2**

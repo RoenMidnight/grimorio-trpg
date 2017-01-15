@@ -3,7 +3,7 @@ layout: post
 title:  "Hipnotismo"
 date:   2016-11-08
 source: Manual Básico.185
-tags: [level1, bardo, feiticeiro, mago, encantamento]
+tags: [level1, bardo, feiticeiro, mago, encantamento, padrao, metros, alvo, minuto, vontade, anula]
 ---
 
 **Encantamento de Nível 1**

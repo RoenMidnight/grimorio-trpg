@@ -3,7 +3,7 @@ layout: post
 title:  "Mão Interposta de Talude"
 date:   2016-11-08
 source: Manual Básico.192
-tags: [level5, bardo, feiticeiro, mago, essencia]
+tags: [level5, bardo, feiticeiro, mago, essencia, padrao, metros, outro, minuto, nenhum]
 ---
 
 **Essência de Nível 5**

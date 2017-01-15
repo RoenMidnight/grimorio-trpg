@@ -3,7 +3,7 @@ layout: post
 title:  "Curar Ferimentos Críticos em Massa"
 date:   2016-11-15
 source: Manual Básico.174
-tags: [level8, clerigo, druida, Cura]
+tags: [level8, clerigo, abencoado, druida, Cura, padrao, metros, criatura, instantanea, nenhum]
 ---
 
 **Cura de Nível 8**

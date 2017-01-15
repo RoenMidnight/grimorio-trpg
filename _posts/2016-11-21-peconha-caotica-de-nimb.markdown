@@ -3,7 +3,7 @@ layout: post
 title:  "Peçonha Caótica de Nimb"
 date:   2016-11-17
 source: Manual do Arcano. 85
-tags: [level5, bardo, clerigo, druida, feiticeiro, mago, caos]
+tags: [level5, bardo, clerigo, abencoado, druida, feiticeiro, mago, caos, padrao, metros, criatura, rodadas, nenhum]
 ---
 
 **Caos de nível 5**

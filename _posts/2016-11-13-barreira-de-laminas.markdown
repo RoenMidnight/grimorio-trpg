@@ -3,7 +3,7 @@ layout: post
 title:  "Barreira de Lâminas"
 date:   2016-11-13
 source: Manual Básico.166
-tags: [level6, bardo, clerigo, druida]
+tags: [level6, bardo, clerigo, abencoado, druida,  padrao, metros, outro, minutos, reflexo, metade]
 ---
 
 **Divina de Nível 6**

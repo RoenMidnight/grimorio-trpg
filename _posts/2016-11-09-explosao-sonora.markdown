@@ -3,7 +3,7 @@ layout: post
 title:  "Explosão Sonora"
 date:   2016-11-09
 source: Manual Básico.183
-tags: [level2, bardo, clerigo, druida, ranger, paladino, sonica]
+tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, sonica, padrao, metros, dispersao, instantanea, fortitude, parcial]
 ---
 
 **Sônica de Nível 2**

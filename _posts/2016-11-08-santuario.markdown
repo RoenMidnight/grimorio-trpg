@@ -3,7 +3,7 @@ layout: post
 title:  "Santuário"
 date:   2016-11-08
 source: Manual Básico.210
-tags: [level1, bardo, clerigo, druida, paladino, ranger, abjuracao]
+tags: [level1, bardo, clerigo, abencoado, druida, paladino, ranger, abjuracao, padrao, toque, alvo, minuto, vontade, anula]
 ---
 
 **Abjuração de Nível 1**

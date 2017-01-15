@@ -3,7 +3,7 @@ layout: post
 title:  "Palavra de Poder: Atordoar"
 date:   2016-11-15
 source: Manual Básico.199
-tags: [level8, feiticeiro, mago, encantamento]
+tags: [level8, feiticeiro, mago, encantamento, padrao, metros, criatura, nenhum]
 ---
 
 **Encantament de Nível 8**

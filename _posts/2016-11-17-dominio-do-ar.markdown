@@ -3,7 +3,7 @@ layout: post
 title:  "Domínio do Ar"
 date:   2016-11-17
 source: Manual do Arcano. 73
-tags: [level9, feiticeiro, mago, ar]
+tags: [level9, feiticeiro, mago, ar, semana, quilometro, circulo, ano, componente]
 ---
 
 **Fogo de nível 9 **

@@ -3,7 +3,7 @@ layout: post
 title:  "Reverter Magia Menor"
 date:   2016-11-17
 source: Manual do Arcano. 84
-tags: [level4, bardo, feiticeiro, mago, abjuracao]
+tags: [level4, bardo, feiticeiro, mago, abjuracao, padrao, pessoal, voce, hora, descarregada]
 ---
 
 **Abjuração de nível 4**

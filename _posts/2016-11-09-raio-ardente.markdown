@@ -3,7 +3,7 @@ layout: post
 title:  "Raio Ardente"
 date:   2016-11-09
 source: Manual Básico.205
-tags: [level2, bardo,  feiticeiro, mago, fogo]
+tags: [level2, bardo,  feiticeiro, mago, fogo, padrao, metros, raio, instantanea, nenhum, dano]
 ---
 
 **Fogo de Nível 2**

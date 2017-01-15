@@ -3,7 +3,7 @@ layout: post
 title:  "Muralha de Pedra"
 date:   2016-11-08
 source: Manual Básico.196
-tags: [level5, bardo,  clerigo, druida, feiticeiro, mago, terra]
+tags: [level5, bardo,  clerigo, abencoado, druida, feiticeiro, mago, terra, padrao, metros, outro, instantanea, nenhum]
 ---
 
 **Terra de Nível 5**

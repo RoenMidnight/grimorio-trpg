@@ -3,7 +3,7 @@ layout: post
 title:  "Drenar Energia"
 date:   2016-11-16
 source: Manual Básico.179
-tags: [level9, clerigo, druida, feiticeiro, mago, necromancia]
+tags: [level9, clerigo, abencoado, druida, feiticeiro, mago, necromancia,  padrao, metros, raio, dia, nenhum]
 ---
 
 **Necromancia de Nível 9**

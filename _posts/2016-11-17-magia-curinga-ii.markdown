@@ -3,7 +3,7 @@ layout: post
 title:  "Magia Curinga II"
 date:   2016-11-17
 source: Manual do Devoto.88
-tags: [level2, clerigo, druida,  wynna]
+tags: [level2, clerigo, abencoado, druida,  wynna]
 ---
 
 ** Descritor igual a magia imitada de nível 2 **

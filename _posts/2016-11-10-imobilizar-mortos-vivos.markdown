@@ -3,7 +3,7 @@ layout: post
 title:  "Imobilizar Mortos-Vivos"
 date:   2016-11-10
 source: Manual Básico.164
-tags: [level3, bardo, feiticeiro, mago, necromancia]
+tags: [level3, bardo, feiticeiro, mago, necromancia, padrao, metros, alvo, minuto, vontade, anula]
 ---
 
 **Necromancia de Nível 3**

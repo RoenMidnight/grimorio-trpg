@@ -3,7 +3,7 @@ layout: post
 title:  "Raio de Ácido Supremo"
 date:   2016-11-17
 source: Manual do Arcano. 82
-tags: [level4, bardo, feiticeiro, mago, acido]
+tags: [level4, bardo, feiticeiro, mago, acido, padrao, metros, raio, rodada, reflexos, dano]
 ---
 
 **Ácido de nível 4**

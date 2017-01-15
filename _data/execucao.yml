@@ -1,0 +1,14 @@
+- name: Ação Padrão
+  tag: padrao
+- name: Ação Completa
+  tag: completa
+- name: Ação Livre
+  tag: livre
+- name: Ação Movimento
+  tag: movimento
+- name: Rodadas
+  tag: rodadas
+- name: Reação
+  tag: reacao
+ 
+ 

@@ -3,7 +3,7 @@ layout: post
 title:  "Ideia"
 date:   2016-11-17
 source: Manual do Arcano. 79
-tags: [level4, bardo, feiticeiro, mago, adivinhacao]
+tags: [level4, bardo, feiticeiro, mago, adivinhacao, padrao, pessoal, voce, instantanea, nenhum]
 ---
 
 **Adivinhação de nível 4**

@@ -3,7 +3,7 @@ layout: post
 title:  "Luz Cegante"
 date:   2016-11-10
 source: Manual Básico.191
-tags: [level3, bardo, clerigo, druida, paladino, ranger, luz]
+tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, luz, padrao, metros, raio, instantanea, nenhum]
 ---
 
 **Luz de Nível 3**

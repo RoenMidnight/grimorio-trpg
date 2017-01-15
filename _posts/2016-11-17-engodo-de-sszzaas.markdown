@@ -3,7 +3,7 @@ layout: post
 title:  "Engodo de Sszzaas(Absoluta)"
 date:   2016-11-17
 source: Manual do Devoto. 94
-tags: [level9, clerigo, druida, encantamento, mal, sszzas]
+tags: [level9, clerigo, abencoado, druida, encantamento, mal, sszzas, livre, metros, criatura, instantanea, vontade, absoluta]
 ---
 
 **Encantamento/Mal de 9 (Absoluta)**

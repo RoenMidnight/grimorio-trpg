@@ -3,7 +3,7 @@ layout: post
 title:  "Símbolo do Atordoamento"
 date:   2016-11-15
 source: Manual Básico.212
-tags: [level7, clerigo, druida, feiticeiro, mago, encantamento]
+tags: [level7, clerigo, abencoado, druida, feiticeiro, mago, encantamento, minuto, toque, permanente, descarregar, hora, fortitude, anula, componente]
 ---
 
 **Encantamento de Nível 7**

@@ -3,7 +3,7 @@ layout: post
 title:  "Nevoa Obscurecente"
 date:   2016-11-08
 source: Manual Básico.198
-tags: [level1, bardo, clerigo, druida, paladino,  ranger,feiticeiro, mago,  ar]
+tags: [level1, bardo, clerigo, abencoado, druida, paladino,  ranger,feiticeiro, mago, ar, padrao, metros, outro, cilindro, nenhum]
 ---
 
 **Ar de Nível 1**

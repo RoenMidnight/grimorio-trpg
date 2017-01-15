@@ -3,7 +3,7 @@ layout: post
 title:  "Armadura Arcana"
 date:   2016-11-08
 source: Manual Básico.164
-tags: [level1, bardo, feiticeiro, mago, abjuracao]
+tags: [level1, bardo, feiticeiro, mago, abjuracao, padrao, toque, criatura, hora, nenhum]
 ---
 
 **Abjuracao de Nível 1**

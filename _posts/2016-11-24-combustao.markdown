@@ -3,7 +3,7 @@ layout: post
 title:  "Combustão"
 date:   2016-11-17
 source: Manual do Arcano. 71
-tags: [level2, bardo, feiticeiro, mago, fogo]
+tags: [level2, bardo, feiticeiro, mago, fogo, livre, metros, criatura, objeto, permanente, nenhum]
 ---
 
 **Fogo de nível 2**

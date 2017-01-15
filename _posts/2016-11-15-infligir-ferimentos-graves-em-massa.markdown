@@ -3,7 +3,7 @@ layout: post
 title:  "Infligir Ferimentos Graves em Massa"
 date:   2016-11-15
 source: Manual Básico.187
-tags: [level7, clerigo, druida, necromancia]
+tags: [level7, clerigo, abencoado, druida, necromancia, padrao, metros, criatura, instantanea, nenhum, dano]
 ---
 
 **Necromancia de Nível 7**

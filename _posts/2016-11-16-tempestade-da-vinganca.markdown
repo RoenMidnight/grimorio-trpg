@@ -3,7 +3,7 @@ layout: post
 title:  "Tempestade da Vingança"
 date:   2016-11-16
 source: Manual Básico.215
-tags: [level9, clerigo, druida, acido, ar, eletricidade, frio]
+tags: [level9, clerigo, abencoado, druida, acido, ar, eletricidade, frio,  completa, metros, outro, concentracao, minuto]
 ---
 
 **Ácido/Ar/Eletricidade/Frio de Nível 9**

@@ -3,7 +3,7 @@ layout: post
 title:  "Mover Terra"
 date:   2016-11-13
 source: Manual Básico. 195
-tags: [level6, bardo, clerigo, druida, transmutacao]
+tags: [level6, bardo, clerigo, abencoado, druida, transmutacao,  minuto, metros, quadrado, instantanea, nenhum]
 ---
 
 **Trasmutação de Nível 6**

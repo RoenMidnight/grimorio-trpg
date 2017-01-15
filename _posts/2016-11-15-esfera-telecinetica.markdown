@@ -3,7 +3,7 @@ layout: post
 title:  "Esfera Telecinética"
 date:   2016-11-15
 source: Manual Básico.181
-tags: [level8, feiticeiro, mago, essencia]
+tags: [level8, feiticeiro, mago, essencia, padrao, metros, esfera, minuto, reflexo, anula]
 ---
 
 **Essência de Nível 8**

@@ -3,7 +3,7 @@ layout: post
 title:  "Detectar Pensamentos"
 date:   2016-11-09
 source: Manual Básico.177
-tags: [level2, bardo, clerigo, druida, ranger, paladino, adivinhacao]
+tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, adivinhacao, padrao, metros, emanacao, concentracao, rodadas, vontade, anula]
 ---
 
 **Adivinhação de Nível 2**

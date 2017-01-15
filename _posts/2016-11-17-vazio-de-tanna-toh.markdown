@@ -3,7 +3,7 @@ layout: post
 title:  "Vaziode Tanna-Toh (Absoluta)"
 date:   2016-11-17
 source: Manual do Devoto. 94
-tags: [level9, clerigo, druida, tempo, tannatoh]
+tags: [level9, clerigo, abencoado, druida, tempo, tannatoh, padrao, toque, criatura, instantanea, nenhum, absoluta]
 ---
 
 **Água/Frio de Nível 9 (Absoluta)**

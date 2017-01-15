@@ -3,7 +3,7 @@ layout: post
 title:  "Imagem Maior"
 date:   2016-11-10
 source: Manual Básico.186
-tags: [level3, bardo, feiticeiro, mago, ilusao]
+tags: [level3, bardo, feiticeiro, mago, ilusao, padrao, metros, outro, concentracao, vontade, anula]
 ---
 
 **Ilusão de Nível 3**

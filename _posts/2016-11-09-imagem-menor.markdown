@@ -3,7 +3,7 @@ layout: post
 title:  "Imagem Menor"
 date:   2016-11-09
 source: Manual Básico.186
-tags: [level2, bardo, feiticeiro, mago, ilusao]
+tags: [level2, bardo, feiticeiro, mago, ilusao, padrao, metros, outro, cubo, concentracao, vontade, anula]
 ---
 
 **Ilusão de Nível 2**

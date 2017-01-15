@@ -3,7 +3,7 @@ layout: post
 title:  "Área Escorregadia"
 date:   2016-11-08
 source: Manual Básico.163
-tags: [level1, bardo, feiticeiro, mago, agua]
+tags: [level1, bardo, feiticeiro, mago, agua, padrao, metros, objeto, quadrado, minuto, reflexos]
 ---
 
 **Água de Nível 1**

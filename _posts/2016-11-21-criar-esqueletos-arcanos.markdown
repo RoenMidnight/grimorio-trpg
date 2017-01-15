@@ -3,7 +3,7 @@ layout: post
 title:  "Criar Esqueletos Arcanos"
 date:   2016-11-17
 source: Manual do Arcano. 71
-tags: [level5, bardo, feiticeiro, mago, necromancia]
+tags: [level5, bardo, feiticeiro, mago, necromancia, hora, toque, alvo, instantanea, nenhum, componente]
 ---
 
 **Necromancia de nível 5**

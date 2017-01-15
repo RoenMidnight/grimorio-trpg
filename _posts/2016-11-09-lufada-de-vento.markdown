@@ -3,7 +3,7 @@ layout: post
 title:  "Lufada de Vento"
 date:   2016-11-09
 source: Manual Básico.191
-tags: [level2, bardo, feiticeiro, mago, ar]
+tags: [level2, bardo, feiticeiro, mago, ar, padrao, metros, cone, instantanea, fortitude, anula]
 ---
 
 **Ar de Nível 2**

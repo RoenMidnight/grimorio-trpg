@@ -3,7 +3,7 @@ layout: post
 title:  "Roupa Encantada"
 date:   2016-11-10
 source: Manual Básico.210
-tags: [level3, bardo, clerigo, druida, paladino, ranger, abjuracao]
+tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, abjuracao, padrao, toque, objeto, dia, nenhum]
 ---
 
 **Transmutação de Nível 3**

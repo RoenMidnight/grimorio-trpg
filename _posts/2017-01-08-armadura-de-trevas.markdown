@@ -3,7 +3,7 @@ layout: post
 title:  "Armadura de Trevas"
 date:   2016-11-17
 source: Manual do Devoto. 83
-tags: [level5, bardo, clerigo, druida, escuridao]
+tags: [level5, bardo, clerigo, abencoado, druida, escuridao, padrao, pessoal, dia, nenhum, componente]
 ---
 
 **Escuridão de nível 5**

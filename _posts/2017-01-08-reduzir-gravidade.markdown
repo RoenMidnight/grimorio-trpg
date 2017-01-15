@@ -3,7 +3,7 @@ layout: post
 title:  "Reduzir Gravidade"
 date:   2016-11-10
 source: Mundo dos Deuses. 149
-tags: [level2, bardo, mago, feiticeiro, essencia]
+tags: [level2, bardo, mago, feiticeiro, essencia, padrao, metros, criatura, minuto]
 ---
 
 **Cura de Nível 2**

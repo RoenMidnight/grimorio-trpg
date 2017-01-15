@@ -3,7 +3,7 @@ layout: post
 title:  "Visão no Escuro em Massa"
 date:   2016-11-17
 source: Manual do Arcano. 85
-tags: [level5, bardo, feiticeiro, mago, transmutacao]
+tags: [level5, bardo, feiticeiro, mago, transmutacao, padrao, toque, criatura, hora]
 ---
 
 **Transmutação de nível 5**

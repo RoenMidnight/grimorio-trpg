@@ -3,7 +3,7 @@ layout: post
 title:  "Consertar"
 date:   2016-11-07
 source: Manual Básico.171
-tags: [level0, bardo, clerigo, druida, feiticeiro, mago, transmutacao]
+tags: [level0, bardo, clerigo, abencoado, druida, feiticeiro, mago, transmutacao, padrao, toque, objeto, instantanea, nenhum]
 ---
 
 **Transmutação de Nível 0**

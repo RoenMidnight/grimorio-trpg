@@ -3,7 +3,7 @@ layout: post
 title:  "Armadilha de Fogo"
 date:   2016-11-09
 source: Manual Básico.164
-tags: [level4, level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, fogo]
+tags: [level4, level2, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, fogo, minuto, toque, objeto, permanente, descarregar, nenhum, reflexo, metade, dano]
 ---
 
 **Arcana 4/Divina 2**

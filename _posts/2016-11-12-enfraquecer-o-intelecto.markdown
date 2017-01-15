@@ -3,7 +3,7 @@ layout: post
 title:  "Enfraquecer o Intelecto"
 date:   2016-11-08
 source: Manual Básico.180
-tags: [level5, bardo, feiticeiro, mago, encantamento]
+tags: [level5, bardo, feiticeiro, mago, encantamento, padrao, metros, criatura, instantanea, vontade, anula, dano]
 ---
 
 **Encantamento de Nível 5**

@@ -3,7 +3,7 @@ layout: post
 title:  "Servo Invisível"
 date:   2016-11-08
 source: Manual Básico.211
-tags: [level1, bardo, feiticeiro, mago, invocacao]
+tags: [level1, bardo, feiticeiro, mago, invocacao, padrao, metros, outro, hora, nenhum]
 ---
 
 **Invocação de Nível 1**

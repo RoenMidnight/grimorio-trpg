@@ -3,7 +3,7 @@ layout: post
 title:  "Teletransportar Objeto"
 date:   2016-11-15
 source: Manual Básico.214
-tags: [level7, feiticeiro, mago, invocacao]
+tags: [level7, feiticeiro, mago, invocacao,  padrao, toque, objeto, instantanea, nenhum]
 ---
 
 **Invocação de Nível 7**

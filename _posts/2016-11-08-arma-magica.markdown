@@ -3,7 +3,7 @@ layout: post
 title:  "Arma mágica"
 date:   2016-11-08
 source: Manual Básico.164
-tags: [level1, bardo, clerigo, druida, ranger,paladino, feiticeiro, mago, transmutacao]
+tags: [level1, bardo, clerigo, abencoado, druida, ranger,paladino, feiticeiro, mago, transmutacao, padrao, toque, alvo, minuto, nenhum]
 ---
 
 **Transmutação de Nível 1**

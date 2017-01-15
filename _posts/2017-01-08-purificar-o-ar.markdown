@@ -3,7 +3,7 @@ layout: post
 title:  "Purificar o Ar"
 date:   2016-11-10
 source: Mundo dos Deuses. 149
-tags: [level4, bardo, clerigo, druida, ranger, paladino, mago, feiticeiro, ar]
+tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, mago, feiticeiro, ar, padrao, metros, objeto, instantanea]
 ---
 
 **Ar de Nível 4**

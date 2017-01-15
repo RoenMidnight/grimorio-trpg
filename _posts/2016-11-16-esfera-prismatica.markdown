@@ -3,7 +3,7 @@ layout: post
 title:  "Esfera Prismatica"
 date:   2016-11-16
 source: Manual Básico.182
-tags: [level9, bardo, feiticeiro, mago, abjuracao]
+tags: [level9, bardo, feiticeiro, mago, abjuracao,  padrao, pessoal, esfera, hora]
 ---
 
 **Abjuração de Nível 9**

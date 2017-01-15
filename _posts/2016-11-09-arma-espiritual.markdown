@@ -3,7 +3,7 @@ layout: post
 title:  "Arma Espiritual"
 date:   2016-11-09
 source: Manual Básico.163
-tags: [level2, bardo, clerigo, druida, ranger, paladino,  essencia]
+tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino,  essencia, padrao, metros, outro, minuto, nenhum]
 ---
 
 **Essência de Nível 2**

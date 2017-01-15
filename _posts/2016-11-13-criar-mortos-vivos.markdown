@@ -3,7 +3,7 @@ layout: post
 title:  "Criar Mortos-Vivos"
 date:   2016-11-13
 source: Manual Básico.174
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+tags: [level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, necromancia,  padrao, toque, criatura, instantanea, hora]
 ---
 
 **Necromancia de Nível 6**

@@ -3,7 +3,7 @@ layout: post
 title:  "Invocar Aspecto Divino"
 date:   2016-11-17
 source: Manual do Devoto. 86
-tags: [level5, bardo, clerigo, druida, invocacao]
+tags: [level5, bardo, clerigo, abencoado, druida, invocacao, completa, metros, criatura, dia, minuto, nenhum, experiencia]
 ---
 
 **Invocação de nível 5**

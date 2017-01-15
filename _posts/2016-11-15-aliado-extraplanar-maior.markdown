@@ -3,7 +3,7 @@ layout: post
 title:  "Aliado Extraplanar Maior"
 date:   2016-11-13
 source: Manual Básico.160
-tags: [level8, clerigo, druida, invocacao]
+tags: [level8, clerigo, abencoado, druida, invocacao, padrao, metros, espirito, instantanea, nenhum, experiencia]
 ---
 
 **Invocação de Nível 8**

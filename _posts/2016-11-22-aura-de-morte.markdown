@@ -3,7 +3,7 @@ layout: post
 title:  "Aura de Morte"
 date:   2016-11-17
 source: Manual do Arcano. 69
-tags: [level4, bardo, feiticeiro, mago, necromancia]
+tags: [level4, bardo, feiticeiro, mago, necromancia, padrao, pessoal, emanacao, minuto]
 ---
 
 **Necromancia de nível 4**

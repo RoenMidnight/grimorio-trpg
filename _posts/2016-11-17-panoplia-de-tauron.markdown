@@ -3,7 +3,7 @@ layout: post
 title:  "Panóplia de Tauron (Absoluta)"
 date:   2016-11-17
 source: Manual do Devoto. 95
-tags: [level9, clerigo, druida, ordem, tauron]
+tags: [level9, clerigo, abencoado, druida, ordem, tauron, livre, pessoal, outro, minutos, nenhum, absoluta]
 ---
 
 **Ordem de Nível 9 (Absoluta)**

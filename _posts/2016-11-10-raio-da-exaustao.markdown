@@ -3,7 +3,7 @@ layout: post
 title:  "Raio da Exaustão"
 date:   2016-11-10
 source: Manual Básico.205
-tags: [level3, bardo, feiticeiro, mago, transmutacao]
+tags: [level3, bardo, feiticeiro, mago, transmutacao, padrao, metros, raio, minuto, fortitude, parcial]
 ---
 
 **Transmutação de Nível 3**

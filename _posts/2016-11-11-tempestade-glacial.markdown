@@ -3,7 +3,7 @@ layout: post
 title:  "Tempestade Glacial"
 date:   2016-11-11
 source: Manual Básico.215
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, frio]
+tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, frio, padrao, metros, cilindro, rodada, nenhum, dano]
 ---
 
 **Frio de Nível 4**

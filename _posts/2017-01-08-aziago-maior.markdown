@@ -3,7 +3,7 @@ layout: post
 title:  "Aziago Maior"
 date:   2016-11-10
 source: Mundo dos Deuses. 148
-tags: [level6, bardo, mago, feiticeiro, clerigo, druida, caos]
+tags: [level6, bardo, mago, feiticeiro, clerigo, abencoado, druida, caos, padrao, metros, emanacao, minuto, vontade, anula]
 ---
 
 **Caos de Nível 3**

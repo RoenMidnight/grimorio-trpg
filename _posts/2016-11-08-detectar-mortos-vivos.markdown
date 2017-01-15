@@ -3,7 +3,7 @@ layout: post
 title:  "Detectar Mortos-Vivos"
 date:   2016-11-08
 source: Manual Básico.177
-tags: [level1, bardo, clerigo, druida, ranger, paladino,feiticeiro, mago, adivinhacao]
+tags: [level1, bardo, clerigo, abencoado, druida, ranger, paladino,feiticeiro, mago, adivinhacao, padrao, metros, emanacao, concentracao, rodadas, nenhum]
 ---
 
 **Adivinhação de Nível 1**

@@ -3,7 +3,7 @@ layout: post
 title:  "Explosão Solar"
 date:   2016-11-15
 source: Manual Básico.183
-tags: [level8, clerigo, druida, luz]
+tags: [level8, clerigo, abencoado, druida, luz, padrao, metros, explosao, instantanea, reflexo, parcial, dano]
 ---
 
 **Luz de Nível 8**

@@ -3,7 +3,7 @@ layout: post
 title:  "Metamorfosear Objetos"
 date:   2016-11-15
 source: Manual Básico.194
-tags: [level8, feiticeiro, mago, transmutacao]
+tags: [level8, feiticeiro, mago, transmutacao, padrao, metros, criatura, objeto]
 ---
 
 **Transmutação de Nível 8**

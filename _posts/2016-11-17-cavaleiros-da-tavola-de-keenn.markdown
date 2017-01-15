@@ -3,7 +3,7 @@ layout: post
 title:  "Cavaleiros da Tavola de Keenn(Absoluta)"
 date:   2016-11-17
 source: Manual do Devoto. 92
-tags: [level9, clerigo, druida, ordem, mal, keenn]
+tags: [level9, clerigo, abencoado, druida, ordem, mal, keenn, padrao, metros, quadrado, instantanea, reflexo]
 ---
 
 **Caos/Mal de 9 (Absoluta)**

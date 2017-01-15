@@ -3,7 +3,7 @@ layout: post
 title:  "Encontrar o Caminho"
 date:   2016-11-13
 source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, adivinhacao]
+tags: [level6, bardo, clerigo, abencoado, druida, adivinhacao,  completa, toque, criatura, hora, nenhum]
 ---
 
 **Adivinhação de nível 6**

@@ -3,7 +3,7 @@ layout: post
 title:  "Convocação Instantânea"
 date:   2016-11-15
 source: Manual Básico.173
-tags: [level7, feiticeiro, mago, invocacao]
+tags: [level7, feiticeiro, mago, invocacao, padrao, objeto, componente]
 ---
 
 **Invocação de Nível 7**

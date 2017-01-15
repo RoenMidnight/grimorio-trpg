@@ -1,9 +1,9 @@
----
+--
 layout: post
 title:  "Abençoar Água"
 date:   2016-11-08
 source: Manual Básico.160
-tags: [level1, bardo, clerigo, druida, ranger,paladino, cura]
+tags: [level1, bardo, clerigo, abencoado, druida, ranger,paladino, cura, rodadas, toque, objeto, instantanea, componente, nenhum]
 ---
 
 **Cura de Nível 1**

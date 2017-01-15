@@ -3,7 +3,7 @@ layout: post
 title:  "Corpo de Ferro"
 date:   2016-11-15
 source: Manual Básico.173
-tags: [level8, feiticeiro, mago, transmutacao]
+tags: [level8, feiticeiro, mago, transmutacao, padrao, pessoal, voce, minuto]
 ---
 
 **Transmutação de Nível 8**

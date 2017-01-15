@@ -3,7 +3,7 @@ layout: post
 title:  "Inseto Gigante"
 date:   2016-11-11
 source: Manual Básico. 187
-tags: [level4, bardo, clerigo, druida, ranger, paladino, transmutacao]
+tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, transmutacao, padrao, metros, alvo, minuto, nenhum]
 ---
 
 **Transmutação de Nível 4**

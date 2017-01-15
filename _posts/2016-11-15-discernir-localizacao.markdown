@@ -3,7 +3,7 @@ layout: post
 title:  "Discenir Localização"
 date:   2016-11-15
 source: Manual Básico.178
-tags: [level8, clerigo, druida, feiticeiro, mago, adivinhacao]
+tags: [level8, clerigo, abencoado, druida, feiticeiro, mago, adivinhacao, minuto, ilimitado, criatura, objeto, instantanea, nenhum]
 ---
 
 **Adivinhação de Nível 8**

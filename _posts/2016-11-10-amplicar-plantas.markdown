@@ -3,7 +3,7 @@ layout: post
 title:  "Ampliar Plantas"
 date:   2016-11-10
 source: Manual Básico.161
-tags: [level3, bardo, ranger, paladino, clerigo, druida, transmutacao]
+tags: [level3, bardo, ranger, paladino, clerigo, abencoado, druida, transmutacao, padrao, metros, dispersao, instantanea, nenhum]
 ---
 
 **Transmutação de Nível 3**

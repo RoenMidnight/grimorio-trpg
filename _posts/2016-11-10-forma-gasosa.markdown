@@ -3,7 +3,7 @@ layout: post
 title:  "Forma Gasosa"
 date:   2016-11-10
 source: Manual Básico.184
-tags: [level3, bardo, feiticeiro, mago, transmutacao]
+tags: [level3, bardo, feiticeiro, mago, transmutacao, padrao, toque, alvo, minuto, nenhum]
 ---
 
 **Transmutação de Nível 3**

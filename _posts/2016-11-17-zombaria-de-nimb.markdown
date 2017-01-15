@@ -3,7 +3,7 @@ layout: post
 title:  "Zombaria de Nimb(Absoluta)"
 date:   2016-11-17
 source: Manual do Devoto. 93
-tags: [level9, clerigo, druida, caos, nimb]
+tags: [level9, clerigo, abencoado, druida, caos, nimb, padrao, metros, circulo, hora, nenhum, absoluta]
 ---
 
 **MUITO Caos de 9 (Absoluta)**

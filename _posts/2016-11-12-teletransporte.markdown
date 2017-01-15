@@ -3,7 +3,7 @@ layout: post
 title:  "Teletransporte"
 date:   2016-11-08
 source: Manual Básico.160
-tags: [level5, bardo, feiticeiro, mago, invocacao]
+tags: [level5, bardo, feiticeiro, mago, invocacao, padrao, toque, criaturas, instantanea, nenhum]
 ---
 
 **Invocação de Nível 5**

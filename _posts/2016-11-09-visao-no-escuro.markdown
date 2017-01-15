@@ -3,7 +3,7 @@ layout: post
 title:  "Visão no Escuro"
 date:   2016-11-09
 source: Manual Básico.218
-tags: [level2, bardo, feiticeiro, mago, transmutacao]
+tags: [level2, bardo, feiticeiro, mago, transmutacao, padrao, toque, criatura, hora, nenhum]
 ---
 
 **Transmutação de Nível 2**

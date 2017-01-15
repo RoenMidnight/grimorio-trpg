@@ -3,7 +3,7 @@ layout: post
 title:  "Enfeitiçar Monstro"
 date:   2016-11-11
 source: Manual Básico. 180
-tags: [level4, bardo, clerigo, druida, ranger, paladino, encantamento]
+tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, encantamento, padrao, metros, criatura, semana, vontade, anula]
 ---
 
 **Encantamento de Nível 4**

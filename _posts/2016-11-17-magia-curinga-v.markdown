@@ -3,7 +3,7 @@ layout: post
 title:  "Magia Curinga V"
 date:   2016-11-17
 source: Manual do Devoto.88
-tags: [level5, clerigo, druida,  wynna]
+tags: [level5, clerigo, abencoado, druida,  wynna]
 ---
 
 ** Descritor igual a magia imitada de nível 5**

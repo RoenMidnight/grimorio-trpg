@@ -3,7 +3,7 @@ layout: post
 title:  "Destruir Mortos-Vivos"
 date:   2016-11-13
 source: Manual Básico.176
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, necromancia]
+tags: [level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, necromancia, padrao, metros, explosao, instantanea, fortitude, parcial, componente]
 ---
 
 **Necromancia de Nível 6**

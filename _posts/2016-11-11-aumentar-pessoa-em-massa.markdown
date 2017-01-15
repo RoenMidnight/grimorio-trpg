@@ -3,7 +3,7 @@ layout: post
 title:  "Aumentar Pessoa em Massa"
 date:   2016-11-11
 source: Manual Básico. 165
-tags: [level4, bardo, feiticeiro, mago, transmutacao]
+tags: [level4, bardo, feiticeiro, mago, transmutacao, padrao, metros, humanoide, minuto, nenhum]
 ---
 
 **Transmutação de Nível 4**

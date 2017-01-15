@@ -3,7 +3,7 @@ layout: post
 title:  "Esfera Resiliente"
 date:   2016-11-11
 source: Manual Básico. 182
-tags: [level4, bardo, feiticeiro, mago, essencia]
+tags: [level4, bardo, feiticeiro, mago, essencia, padrao, metros, criatura, minuto, reflexo, anula]
 ---
 
 **Essência de Nível 4**

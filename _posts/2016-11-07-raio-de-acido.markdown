@@ -3,7 +3,7 @@ layout: post
 title:  "Raio de Ácido"
 date:   2016-11-07
 source: Manual Básico.205
-tags: [level0, bardo, feiticeiro, mago, acido]
+tags: [level0, bardo, feiticeiro, mago, acido, padrao, metros, raio, instantanea, reflexos, dano]
 ---
 
 **Ácido de Nível 0**

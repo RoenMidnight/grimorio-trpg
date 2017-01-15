@@ -3,7 +3,7 @@ layout: post
 title:  "Força dos Justos"
 date:   2016-11-08
 source: Manual Básico.184
-tags: [level5, bardo, clerigo, druida, transmutacao]
+tags: [level5, bardo, clerigo, abencoado, druida, transmutacao, padrao, pessoal, voce, minuto]
 ---
 
 **Transmutação de Nível 5**

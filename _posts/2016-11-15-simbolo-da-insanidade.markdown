@@ -3,7 +3,7 @@ layout: post
 title:  "Símbolo da Insanidade"
 date:   2016-11-15
 source: Manual Básico.212
-tags: [level8, clerigo, druida, feiticeiro, mago, encantamento]
+tags: [level8, clerigo, abencoado, druida, feiticeiro, mago, encantamento, minuto, toque, permanente, descarregar, hora, fortitude, anula, componente]
 ---
 
 **Encantamento de Nível 8**

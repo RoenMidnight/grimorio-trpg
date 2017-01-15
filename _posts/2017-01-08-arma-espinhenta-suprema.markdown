@@ -3,7 +3,7 @@ layout: post
 title:  "Arma Espinhenta Suprema"
 date:   2016-11-17
 source: Manual do Devoto. 83
-tags: [level5, bardo, clerigo, druida, transmutacao, allihana, megalokk, oceano]
+tags: [level5, bardo, clerigo, abencoado, druida, transmutacao, allihana, megalokk, oceano, padrao, toque, objeto, hora, nenhum]
 ---
 
 **Transmutação de nível 5**

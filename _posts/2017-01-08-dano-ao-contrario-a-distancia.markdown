@@ -3,7 +3,7 @@ layout: post
 title:  "Dano ao Contrário à Distancia"
 date:   2016-11-17
 source: Manual do Devoto. 84
-tags: [level6, bardo, clerigo, druida]
+tags: [level6, bardo, clerigo, abencoado, druida, padrao, metros, criatura, hora, descarregar, vontade, anula]
 ---
 
 **Divina de nível 5**

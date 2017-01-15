@@ -3,7 +3,7 @@ layout: post
 title:  "Chama contínua"
 date:   2016-11-09
 source: Manual Básico.168
-tags: [level2, level3, bardo, clerigo, druida, paladino, ranger, feiticeiro, mago, luz]
+tags: [level2, level3, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, luz, padrao, toque, objeto, permanente, nenhum, componente]
 ---
 
 **Arcano 2/Divino 3**

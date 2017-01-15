@@ -3,7 +3,7 @@ layout: post
 title:  "Encarnação Fantasmagórica"
 date:   2016-11-16
 source: Manual Básico.180
-tags: [level9, feiticeiro, mago, ilusao, medo]
+tags: [level9, feiticeiro, mago, ilusao, medo,  padrao, metros, criatura, instantanea, vontade, anula, fortitude, parcial]
 ---
 
 **Ilusão/Medo de Nível 9**

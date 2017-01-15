@@ -3,7 +3,7 @@ layout: post
 title:  "Disco Voador"
 date:   2016-11-17
 source: Manual do Arcano. 73
-tags: [level5, bardo, feiticeiro, mago, invocacao, essencia]
+tags: [level5, bardo, feiticeiro, mago, invocacao, essencia, padrao, metros, outro, dia, nenhum]
 ---
 
 **Invocação/Essência de nível 5**

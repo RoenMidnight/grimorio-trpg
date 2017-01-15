@@ -3,7 +3,7 @@ layout: post
 title:  "Patas de Aranha"
 date:   2016-11-09
 source: Manual Básico.201
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, transmutacao]
+tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, transmutacao, padrao, toque, criatura, hora, nenhum]
 ---
 
 **Transmutação de Nível 2**

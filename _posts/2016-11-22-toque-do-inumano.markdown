@@ -3,7 +3,7 @@ layout: post
 title:  "Toque do Inumano"
 date:   2016-11-17
 source: Manual do Arcano. 85
-tags: [level4, bardo, feiticeiro, mago, necromancia]
+tags: [level4, bardo, feiticeiro, mago, necromancia, padrao, toque, minuto, nenhum]
 ---
 
 **Necromancia de nível 4**

@@ -3,7 +3,7 @@ layout: post
 title:  "Domínio do Gelo"
 date:   2016-11-17
 source: Manual do Arcano. 74
-tags: [level9, feiticeiro, mago, frio]
+tags: [level9, feiticeiro, mago, frio, semana, quilometro, circulo, ano, fortitude, parcial, componente]
 ---
 
 **Frio de nível 9 **

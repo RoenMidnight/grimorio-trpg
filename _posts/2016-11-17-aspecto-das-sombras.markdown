@@ -3,7 +3,7 @@ layout: post
 title:  "Aspecto das Sombras"
 date:   2016-11-17
 source: Manual do Devoto. 69
-tags: [level6,  feiticeiro, mago, escuridao, ilusao]
+tags: [level6,  feiticeiro, mago, escuridao, ilusao, padrao, pessoal, voce, dia, nenhum, componente]
 ---
 
 **Escuridão/Ilusão de nível 6**

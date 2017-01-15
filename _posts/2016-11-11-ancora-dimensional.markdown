@@ -3,7 +3,7 @@ layout: post
 title:  "Âncora Dimensional"
 date:   2016-11-11
 source: Manual Básico.161
-tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, abjuracao]
+tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, abjuracao, padrao, metros, raio, minutos, vontade, anula]
 ---
 
 **Abjuração de Nível 4**
@@ -12,7 +12,7 @@ tags: [level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, abjur
 
 **Alcance**: 30 metros
 
-**Efeito**: raio
+**Efeito**: Raio
 
 **Duração**: 10 minutos
 

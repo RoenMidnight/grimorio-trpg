@@ -3,7 +3,7 @@ layout: post
 title:  "Dissipar o Mal/Bem/Caos/Ordem"
 date:   2016-11-08
 source: Manual Básico.179
-tags: [level5, bardo, clerigo, druida, bem, mal, ordem, caos]
+tags: [level5, bardo, clerigo, abencoado, druida, bem, mal, ordem, caos, padrao, toque, criatura, minuto, descarregar]
 ---
 
 **Bem/Mal/Ordem/Caos de Nível 5**

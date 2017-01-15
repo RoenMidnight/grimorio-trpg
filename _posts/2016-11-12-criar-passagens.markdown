@@ -3,7 +3,7 @@ layout: post
 title:  "Criar Passagens"
 date:   2016-11-08
 source: Manual Básico.174
-tags: [level5, bardo, feiticeiro, mago, transmutacao]
+tags: [level5, bardo, feiticeiro, mago, transmutacao, padrao, metros, outro, dia, nenhum]
 ---
 
 **Transmutação de Nível 5**

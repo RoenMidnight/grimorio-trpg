@@ -3,7 +3,7 @@ layout: post
 title:  "Teletransporte por Árvores"
 date:   2016-11-13
 source: Manual Básico.214
-tags: [level6, bardo, clerigo, druida, invocacao]
+tags: [level6, bardo, clerigo, abencoado, druida, invocacao, padrao, toque, criatura, rodada, nenhum]
 ---
 
 **Invocação de Nível 6**

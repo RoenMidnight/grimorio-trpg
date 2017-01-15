@@ -3,7 +3,7 @@ layout: post
 title:  "Vitalidade Ilusória"
 date:   2016-11-09
 source: Manual Básico.219
-tags: [level2, bardo, feiticeiro, mago, necromancia]
+tags: [level2, bardo, feiticeiro, mago, necromancia, padrao, pessoal, voce, hora, nenhum]
 ---
 
 **Necromancia de Nível 2**

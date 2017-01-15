@@ -3,7 +3,7 @@ layout: post
 title:  "Proibição"
 date:   2016-11-13
 source: Manual Básico.219
-tags: [level6, bardo, clerigo, druida, abjuracao]
+tags: [level6, bardo, clerigo, abencoado, druida, abjuracao,  minuto, metros, cubo, permanente, nenhum, componente]
 ---
 
 **Abjuração de Nível 6**

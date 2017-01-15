@@ -3,10 +3,10 @@ layout: post
 title:  "Sugestão"
 date:   2016-11-10
 source: Manual Básico.213
-tags: [level3, bardo, feiticeiro, mago, transmutacao]
+tags: [level3, bardo, feiticeiro, mago, encantamento, padrao, metros, criatura, dia, vontade, anula]
 ---
 
-**Transmutação de Nível 3**
+**Encantamento de Nível 3**
 
 **Tempo de Execução**: Ação padrão
 

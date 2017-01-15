@@ -3,7 +3,7 @@ layout: post
 title:  "Invisibilidade em Massa"
 date:   2016-11-15
 source: Manual Básico.188
-tags: [level7, mago, feiticeiro, ilusao]
+tags: [level7, mago, feiticeiro, ilusao, padrao, metros, criatura, minuto, nenhum]
 ---
 
 **Ilusão de Nível 7**

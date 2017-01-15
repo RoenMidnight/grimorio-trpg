@@ -3,7 +3,7 @@ layout: post
 title:  "Controlar Água"
 date:   2016-11-13
 source: Manual Básico.219
-tags: [level4, level6, bardo, clerigo, druida, feiticeiro, mago, transmutacao]
+tags: [level4, level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, transmutacao,  padrao, metros, quadrado, hora, nenhum]
 ---
 
 **Divina 4/ Arcana 6**

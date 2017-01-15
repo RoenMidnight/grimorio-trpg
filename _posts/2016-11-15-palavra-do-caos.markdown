@@ -3,7 +3,7 @@ layout: post
 title:  "Palavra do Caos"
 date:   2016-11-15
 source: Manual Básico.199
-tags: [level7, clerigo, druida, caos, sonico]
+tags: [level7, clerigo, abencoado, druida, caos, sonico, padrao, metros, dispersao, instantanea, vontade, anula]
 ---
 
 **Encantamento de Nível 7**

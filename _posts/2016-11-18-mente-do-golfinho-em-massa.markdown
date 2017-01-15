@@ -3,7 +3,7 @@ layout: post
 title:  "Mente do Golfinho em Massa"
 date:   2016-11-17
 source: Manual do Devoto. 80
-tags: [level8, clerigo, druida, feiticeiro, mago, transmutacao]
+tags: [level8, clerigo, abencoado, druida, feiticeiro, mago, transmutacao, padrao, metros, criatura, minuto, nenhum]
 ---
 
 **Transmutacao de nível 8**

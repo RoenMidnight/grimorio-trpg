@@ -3,7 +3,7 @@ layout: post
 title:  "Sangria Mística"
 date:   2016-11-10
 source: Manual do Devoto.89
-tags: [level3, bardo, clerigo, druida, ranger, paladino, essencia, transmutacao]
+tags: [level3, bardo, clerigo, abencoado, druida, ranger, paladino, essencia, transmutacao, padrao, pessoal, instantanea, componente, dano]
 ---
 
 **Essência/Transmutação de Nível 3**

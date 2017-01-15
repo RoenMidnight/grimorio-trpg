@@ -3,7 +3,7 @@ layout: post
 title:  "Dominar Pessoa"
 date:   2016-11-08
 source: Manual Básico.179
-tags: [level5, bardo,  feiticeiro, mago, encantamento]
+tags: [level5, bardo,  feiticeiro, mago, encantamento, padrao, metros, humanoide, semana, vontade, anula]
 ---
 
 **Encantamento de Nível 5**

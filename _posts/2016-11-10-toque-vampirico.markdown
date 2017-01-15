@@ -3,7 +3,7 @@ layout: post
 title:  "Toque Vampírico"
 date:   2016-11-10
 source: Manual Básico.216
-tags: [level3, bardo, feiticeiro, mago, necromancia]
+tags: [level3, bardo, feiticeiro, mago, necromancia, padrao, toque, criatura, instantanea, hora, nenhum]
 ---
 
 **Necromancia de Nível 3**

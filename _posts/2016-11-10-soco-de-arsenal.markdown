@@ -3,7 +3,7 @@ layout: post
 title:  "Soco de Arsenal"
 date:   2016-11-10
 source: Manual Básico.213
-tags: [level3, bardo, clerigo, druida, paladino, ranger, feiticeiro, mago, ar]
+tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, ar, padrao, metros, criatura, instantanea, fortitude, parcial]
 ---
 
 **Ar de Nível 3**

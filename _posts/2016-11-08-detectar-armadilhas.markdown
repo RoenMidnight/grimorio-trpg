@@ -3,7 +3,7 @@ layout: post
 title:  "Detectar Armadilhas"
 date:   2016-11-08
 source: Manual Básico.177
-tags: [level1, bardo, clerigo, druida, ranger,paladino, adivinhacao]
+tags: [level1, bardo, clerigo, abencoado, druida, ranger,paladino, adivinhacao, padrao, metros, dispersao, instantanea, nenhum]
 ---
 
 **Adivinhação de Nível 1**

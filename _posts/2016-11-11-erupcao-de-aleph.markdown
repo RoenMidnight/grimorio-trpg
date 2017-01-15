@@ -3,7 +3,7 @@ layout: post
 title:  "Erupção de Aleph"
 date:   2016-11-11
 source: Manual Básico.181
-tags: [level4, bardo, feiticeiro, mago, fogo]
+tags: [level4, bardo, feiticeiro, mago, fogo, padrao, explosao, instantanea, reflexo, parcial, dano]
 ---
 
 **Fogo de Nível 4**

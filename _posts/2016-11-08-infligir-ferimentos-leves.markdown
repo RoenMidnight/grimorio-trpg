@@ -3,7 +3,7 @@ layout: post
 title:  "Infligir Ferimentos Leves"
 date:   2016-11-08
 source: Manual Básico.186
-tags: [level1, bardo, clerigo, druida, ranger, paladino, necromancia]
+tags: [level1, bardo, clerigo, abencoado, druida, ranger, paladino, necromancia, padrao, toque, criatura, instantanea, nenhum, dano]
 ---
 
 **Necromancia de Nível 1**

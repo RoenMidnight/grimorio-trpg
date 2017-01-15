@@ -3,7 +3,7 @@ layout: post
 title:  "Constrição"
 date:   2016-11-08
 source: Manual Básico.172
-tags: [level1, bardo, clerigo, druida, ranger,paladino, transmutacao]
+tags: [level1, bardo, clerigo, abencoado, druida, ranger,paladino, transmutacao, padrao, metros, quadrado, minuto, reflexos, parcial]
 ---
 
 **Transmutação de Nível 1**

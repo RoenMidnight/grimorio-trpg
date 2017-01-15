@@ -3,7 +3,7 @@ layout: post
 title:  "Intuir Direção"
 date:   2016-11-07
 source: Manual Básico.187
-tags: [level0, bardo, clerigo, druida,  feiticeiro, mago, adivinhacao]
+tags: [level0, bardo, clerigo, abencoado, druida,  feiticeiro, mago, adivinhacao, padrao, pessoal, voce, instantanea, nenhum]
 ---
 
 **Adivinhação de Nível 0**

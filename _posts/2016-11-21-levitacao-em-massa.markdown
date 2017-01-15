@@ -3,7 +3,7 @@ layout: post
 title:  "Levitação em Massa"
 date:   2016-11-09
 source: Manual do Arcano.80
-tags: [level5, bardo, feiticeiro, mago, transmutacao]
+tags: [level5, bardo, feiticeiro, mago, transmutacao, padrao, metros, criatura, objeto, minuto, nenhum]
 ---
 
 **Transmutacao de Nível 5**

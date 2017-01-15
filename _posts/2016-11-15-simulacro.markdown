@@ -3,7 +3,7 @@ layout: post
 title:  "Simulacro"
 date:   2016-11-15
 source: Manual Básico.213
-tags: [level7, feiticeiro, mago, ilusao]
+tags: [level7, feiticeiro, mago, ilusao, horas, metros, outro, instantanea, nenhum, componente]
 ---
 
 **Ilusão de Nível 7**

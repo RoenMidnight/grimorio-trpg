@@ -3,7 +3,7 @@ layout: post
 title:  "Físico do Leão"
 date:   2016-11-17
 source: Manual do Arcano. 78
-tags: [level4, bardo, clerigo, druida, feiticeiro, mago, transmutacao]
+tags: [level4, bardo, clerigo, abencoado, druida, feiticeiro, mago, transmutacao, padrao, toque, criatura, minuto, nenhum]
 ---
 
 **Transmutação de nível 4**

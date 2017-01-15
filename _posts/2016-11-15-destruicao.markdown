@@ -3,7 +3,7 @@ layout: post
 title:  "Destruição"
 date:   2016-11-15
 source: Manual Básico.176
-tags: [level7, clerigo, divina, necromancia]
+tags: [level7, clerigo, abencoado, divina, necromancia, padrao, toque, criatura, instantanea, fortitude, parcial]
 ---
 
 **Necromancia de Nível 7**

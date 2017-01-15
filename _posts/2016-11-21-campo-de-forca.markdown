@@ -3,7 +3,7 @@ layout: post
 title:  "Campo de Força"
 date:   2016-11-17
 source: Manual do Arcano. 70
-tags: [level5, bardo, feiticeiro, mago, abjuracao, essencia]
+tags: [level5, bardo, feiticeiro, mago, abjuracao, essencia, livro, pessoal, voce, minuto, nenhum]
 ---
 
 **Abjuração/Essência de nível 5**

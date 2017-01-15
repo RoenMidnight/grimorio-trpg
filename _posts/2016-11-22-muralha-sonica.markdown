@@ -3,7 +3,7 @@ layout: post
 title:  "Muralha Sônica"
 date:   2016-11-17
 source: Manual do Arcano. 68
-tags: [level4, bardo, feiticeiro, mago, abjuracao, essencia]
+tags: [level4, bardo, feiticeiro, mago, abjuracao, essencia, padrao, metros, outro, concentracao, minuto, hora, fortitude, parcial, dano]
 ---
 
 **Abjuração/Essência de nível 4**

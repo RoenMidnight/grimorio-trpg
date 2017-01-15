@@ -3,7 +3,7 @@ layout: post
 title:  "Remover da Realidade"
 date:   2016-11-17
 source: Manual do Devoto. 83
-tags: [level9, feiticeiro, mago, tempo]
+tags: [level9, feiticeiro, mago, tempo, livre, metros, criatura, rodadas, nenhum, componente]
 ---
 
 **Tempo de nível 9**

@@ -3,7 +3,7 @@ layout: post
 title:  "Moldar Rocha"
 date:   2016-11-11
 source: Manual Básico. 195
-tags: [level3, level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, transmutacao]
+tags: [level3, level4, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, transmutacao, padrao, toque, objeto, instantanea, nenhum]
 ---
 
 **Arcana 4/ Divina 3**

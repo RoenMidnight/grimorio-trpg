@@ -3,7 +3,7 @@ layout: post
 title:  "Convocar Relâmpagos"
 date:   2016-11-10
 source: Manual Básico.173
-tags: [level3, bardo, clerigo, druida, paladino, ranger, eletricidade]
+tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, eletricidade, completa, metros, outro, minuto, reflexo, metade, dano]
 ---
 
 **Eletricidade de Nível 3**

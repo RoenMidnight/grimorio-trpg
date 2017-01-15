@@ -3,7 +3,7 @@ layout: post
 title:  "Arma Elemental"
 date:   2016-11-17
 source: Manual do Arcano. 68
-tags: [level1, bardo, feiticeiro, mago, eletricidade, fogo, frio]
+tags: [level1, bardo, feiticeiro, mago, eletricidade, fogo, frio, padrao, metros, objeto, minuto, nenhum]
 ---
 
 **Eletrícidade/Fogo/Frio de nível 1**

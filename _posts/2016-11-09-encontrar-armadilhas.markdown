@@ -3,7 +3,7 @@ layout: post
 title:  "Encontrar Armadilhas"
 date:   2016-11-09
 source: Manual Básico.180
-tags: [level2, bardo, clerigo, druida, ranger, paladino, adivinhacao]
+tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, adivinhacao, padrao, pessoal, voce, hora, nenhum]
 ---
 
 **Adivinhação de Nível 2**

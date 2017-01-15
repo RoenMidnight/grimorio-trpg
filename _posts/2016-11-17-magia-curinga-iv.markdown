@@ -3,7 +3,7 @@ layout: post
 title:  "Magia Curinga IV"
 date:   2016-11-17
 source: Manual do Devoto.88
-tags: [level4, clerigo, druida,  wynna]
+tags: [level4, clerigo, abencoado, druida,  wynna]
 ---
 
 ** Descritor igual a magia imitada de nível 4 **

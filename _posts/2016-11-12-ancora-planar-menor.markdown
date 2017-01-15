@@ -3,7 +3,7 @@ layout: post
 title:  "Âncora Planar Menor"
 date:   2016-11-08
 source: Manual Básico.162
-tags: [level5, bardo, feiticeiro, mago, invocacao]
+tags: [level5, bardo, feiticeiro, mago, invocacao, minutos, metros, espirito, instantanea, vontade, anula]
 ---
 
 **Invocação de Nível 5**

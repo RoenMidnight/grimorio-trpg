@@ -3,7 +3,7 @@ layout: post
 title:  "Proteção contra o Mal/Bem/Caos/Ordem"
 date:   2016-11-08
 source: Manual Básico.204
-tags: [level1, bardo, clerigo, druida, paladino, ranger, feiticeiro, mago,  abjuracao]
+tags: [level1, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago,  abjuracao, padrao, toque, criatura, minuto, nenhum]
 ---
 
 **Abjuração de Nível 1**

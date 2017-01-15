@@ -3,7 +3,7 @@ layout: post
 title:  "Palavra de Poder: Cegar"
 date:   2016-11-15
 source: Manual Básico.199
-tags: [level7, feiticeiro, mago, encantamento]
+tags: [level7, feiticeiro, mago, encantamento, padrao, metros, criatura]
 ---
 
 **Encantamento de Nível 7**

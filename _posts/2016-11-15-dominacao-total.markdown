@@ -3,7 +3,7 @@ layout: post
 title:  "Dominação Total"
 date:   2016-11-15
 source: Manual Básico.179
-tags: [level7, mago, feiticeiro, encantamento]
+tags: [level7, mago, feiticeiro, encantamento, minuto, metros, humanoide, semana, vontade, anula, componente]
 ---
 
 **Ordem/Sônico de Nível 7**

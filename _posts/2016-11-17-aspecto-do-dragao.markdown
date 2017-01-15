@@ -3,7 +3,7 @@ layout: post
 title:  "Aspecto do Dragão"
 date:   2016-11-17
 source: Manual do Devoto. 69
-tags: [level5,  feiticeiro, mago, transmutacao]
+tags: [level5,  feiticeiro, mago, transmutacao, padrao, pessoal, dia, voce, nenhum, componente]
 ---
 
 **Transmutação de nível 5**

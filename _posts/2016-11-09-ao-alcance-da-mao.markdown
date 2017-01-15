@@ -3,7 +3,7 @@ layout: post
 title:  "Ao alcance da Mão"
 date:   2016-11-09
 source: Manual Básico.162
-tags: [level2, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, terra]
+tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, terra, padrao, toque, criatura, minuto, nenhum]
 ---
 
 **Terra de Nível 2**

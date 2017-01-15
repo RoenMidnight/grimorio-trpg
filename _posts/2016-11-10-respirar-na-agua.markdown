@@ -3,7 +3,7 @@ layout: post
 title:  "Respirar na Água"
 date:   2016-11-10
 source: Manual Básico.209
-tags: [level3, bardo, clerigo, druida, paladino, ranger, feiticeiro, mago, transmutacao]
+tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, transmutacao, padrao, toque, criatura, dia, nenhum]
 ---
 
 **Transmutação de Nível 3**

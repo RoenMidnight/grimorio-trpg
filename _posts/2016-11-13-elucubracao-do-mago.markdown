@@ -3,7 +3,7 @@ layout: post
 title:  "Elucubração do Mago"
 date:   2016-11-13
 source: Manual Básico.180
-tags: [level6, bardo, feiticeiro, mago, transmutacao]
+tags: [level6, bardo, feiticeiro, mago, transmutacao, padrao, pessoal, voce, instantanea]
 ---
 
 **Transmutação de Nível 6**

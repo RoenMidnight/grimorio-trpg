@@ -3,7 +3,7 @@ layout: post
 title:  "Objeto Aleatório"
 date:   2016-11-10
 source: Mundo dos Deuses. 149
-tags: [level1, bardo, mago, feiticeiro, clerigo, druida, paladino, ranger, caos, invocacao]
+tags: [level1, bardo, mago, feiticeiro, clerigo, abencoado, druida, paladino, ranger, caos, invocacao, padrao, metros, objeto, minuto, nenhum]
 ---
 
 **Caos/Invocação de Nível 1**

@@ -3,7 +3,7 @@ layout: post
 title:  "Escudo Arcano"
 date:   2016-11-08
 source: Manual Básico.181
-tags: [level1, bardo, mago, feiticeiro, abjuracao]
+tags: [level1, bardo, mago, feiticeiro, abjuracao, padrao, toque, voce, minuto]
 ---
 
 **Abjuração de Nível 1**

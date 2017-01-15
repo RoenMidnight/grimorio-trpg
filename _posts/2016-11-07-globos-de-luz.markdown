@@ -3,7 +3,7 @@ layout: post
 title:  "Globos de Luz"
 date:   2016-11-07
 source: Manual Básico.185
-tags: [level0, bardo, clerigo, druida, feiticeiro, mago, luz]
+tags: [level0, bardo, clerigo, abencoado, druida, feiticeiro, mago, luz, padrao, metros, outro, minuto, nenhum]
 ---
 
 **Luz de Nível 0**

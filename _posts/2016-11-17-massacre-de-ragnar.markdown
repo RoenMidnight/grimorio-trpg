@@ -3,7 +3,7 @@ layout: post
 title:  "Massacre de Ragnar (Absoluta)"
 date:   2016-11-17
 source: Manual do Devoto. 91
-tags: [level9, clerigo, druida, necromancia, mal, ragnar]
+tags: [level9, clerigo, abencoado, druida, necromancia, mal, ragnar, hora, pessoal, voce, dia, nenhum, absoluta]
 ---
 
 **Necromancia/Mal de Nível 9 (Absoluta)**

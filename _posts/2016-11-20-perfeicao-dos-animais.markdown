@@ -3,7 +3,7 @@ layout: post
 title:  "Perfeição dos Animais"
 date:   2016-11-17
 source: Manual do Arcano. 83
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, transmutacao]
+tags: [level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, transmutacao, padrao, toque, criatura, minuto, nenhum]
 ---
 
 **Transmutação de nível 6**

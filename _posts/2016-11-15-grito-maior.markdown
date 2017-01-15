@@ -3,7 +3,7 @@ layout: post
 title:  "Grito Maior"
 date:   2016-11-15
 source: Manual Básico.185
-tags: [level8, feiticeiro, mago, sonico]
+tags: [level8, feiticeiro, mago, sonico, padrao, metros, cone, instantanea, fortitude, parcial]
 ---
 
 **Sônico de Nível 8**
@@ -14,7 +14,7 @@ tags: [level8, feiticeiro, mago, sonico]
 
 **Área**: explosão em cone
 
-**Duração**: nstantânea
+**Duração**: Instantânea
 
 **Teste de Resistência**: Fortitude Parcial;
 

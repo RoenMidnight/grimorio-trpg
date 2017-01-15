@@ -3,7 +3,7 @@ layout: post
 title:  "Luz Cegante Maior"
 date:   2016-11-17
 source: Manual do Devoto. 86
-tags: [level4, bardo, clerigo, druida, luz]
+tags: [level4, bardo, clerigo, abencoado, druida, luz, padrao, metros, raio, instantanea, nenhum]
 ---
 
 **Luz de nível 4**

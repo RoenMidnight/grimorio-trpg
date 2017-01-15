@@ -3,7 +3,7 @@ layout: post
 title:  "Aprisionamento"
 date:   2016-11-16
 source: Manual Básico.219
-tags: [level9, feiticeiro, mago, abjuracao]
+tags: [level9, feiticeiro, mago, abjuracao,  padrao, toque, criatura, instantanea, vontade, anula]
 ---
 
 **Abjuração de Nível 9**

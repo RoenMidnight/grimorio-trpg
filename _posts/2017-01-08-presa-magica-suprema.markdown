@@ -3,7 +3,7 @@ layout: post
 title:  "Presa Mágica Suprema"
 date:   2016-11-10
 source: Manual do Devoto.89
-tags: [level3, bardo, clerigo, druida, paladino, ranger, transmutacao]
+tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, transmutacao, padrao, toque, criatura, hora, nenhum]
 ---
 
 **Transmutação de Nível 3**

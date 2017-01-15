@@ -3,7 +3,7 @@ layout: post
 title:  "Abrir/Fechar"
 date:   2016-11-07
 source: Manual Básico.211
-tags: [level0, feiticeiro, mago, transmutacao]
+tags: [level0, feiticeiro, mago, transmutacao, movimento, metros, objeto, instantanea, nenhum]
 ---
 
 **Transmutação de Nível 0**

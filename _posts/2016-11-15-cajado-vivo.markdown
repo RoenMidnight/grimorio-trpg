@@ -3,7 +3,7 @@ layout: post
 title:  "Cajado Vivo"
 date:   2016-11-15
 source: Manual Básico.167
-tags: [level7, clerigo, druida, transmutacao]
+tags: [level7, clerigo, abencoado, druida, transmutacao, completa, toque, cajado, dia, nenhum, componente]
 ---
 
 **Transmutação de Nível 7**

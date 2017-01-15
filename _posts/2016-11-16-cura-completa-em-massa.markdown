@@ -3,7 +3,7 @@ layout: post
 title:  "Cura Completa em Massa"
 date:   2016-11-16
 source: Manual Básico.174
-tags: [level9, clerigo, druida, cura]
+tags: [level9, clerigo, abencoado, druida, cura,  padrao, metros, criatura, instantanea, nenhum]
 ---
 
 **Cura de Nível 9**

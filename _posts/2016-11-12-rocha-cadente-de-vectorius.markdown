@@ -3,7 +3,7 @@ layout: post
 title:  "Rocha Cadente de Vectorius"
 date:   2016-11-08
 source: Manual Básico.209
-tags: [level5, bardo,  feiticeiro, mago, terra]
+tags: [level5, bardo,  feiticeiro, mago, terra, padrao, metros, outro, instantanea, reflexo, parcial]
 ---
 
 **Terra de Nível 5**

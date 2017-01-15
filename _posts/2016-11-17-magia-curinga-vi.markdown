@@ -3,7 +3,7 @@ layout: post
 title:  "Magia Curinga VI"
 date:   2016-11-17
 source: Manual do Devoto.88
-tags: [level6, clerigo, druida,  wynna]
+tags: [level6, clerigo, abencoado, druida,  wynna]
 ---
 
 ** Descritor igual a magia imitada de nível 6 **

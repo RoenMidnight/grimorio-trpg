@@ -3,7 +3,7 @@ layout: post
 title:  "Imobilizar Pessoa em Massa"
 date:   2016-11-15
 source: Manual Básico.186
-tags: [level7, mago, feiticeiro, encantamento]
+tags: [level7, mago, feiticeiro, encantamento, padrao, metros, humanoide, minuto, vontade, anula]
 ---
 
 **Encantamento de Nível 7**

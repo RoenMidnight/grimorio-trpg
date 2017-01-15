@@ -3,7 +3,7 @@ layout: post
 title:  "Destruição"
 date:   2016-11-15
 source: Manual Básico.176
-tags: [level7, clerigo, divina, invocacao]
+tags: [level7, clerigo, abencoado, divina, invocacao, completa, outro, minuto, nenhum]
 ---
 
 **Invocaçaõ de Nível 7**

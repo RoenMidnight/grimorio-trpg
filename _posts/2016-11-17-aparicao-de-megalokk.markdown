@@ -3,7 +3,7 @@ layout: post
 title:  "Aparição de Megalokk(Absoluta)"
 date:   2016-11-17
 source: Manual do Devoto. 93
-tags: [level9, clerigo, druida, caos, mal, megalokk]
+tags: [level9, clerigo, abencoado, druida, caos, mal, megalokk, completa, metros, outro, rodadas, absoluta]
 ---
 
 **Caos/Mal de 9 (Absoluta)**

@@ -3,7 +3,7 @@ layout: post
 title:  "Chuva Restauradora de Allihanna(Absoluta)"
 date:   2016-11-17
 source: Manual do Devoto. 91
-tags: [level9, clerigo, druida, agua, bem, cura, allihanna]
+tags: [level9, clerigo, abencoado, druida, agua, bem, cura, allihanna,  padrao, pessoal, outro, hora, nenhum, absoluta]
 ---
 
 **Água/Bem/Cura de 9 (Absoluta)**

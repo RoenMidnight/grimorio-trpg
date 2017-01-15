@@ -3,7 +3,7 @@ layout: post
 title:  "Curar Ferimentos Leves em Massa"
 date:   2016-11-08
 source: Manual Básico.175
-tags: [level5, bardo, clerigo, druida, cura]
+tags: [level5, bardo, clerigo, abencoado, druida, cura, padrao, metros, criatura, instantanea, nenhum]
 ---
 
 **Cura de Nível 5**

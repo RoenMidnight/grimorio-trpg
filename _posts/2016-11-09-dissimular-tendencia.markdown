@@ -3,7 +3,7 @@ layout: post
 title:  "Dissimular Tendencia"
 date:   2016-11-09
 source: Manual Básico.178
-tags: [level2, bardo, clerigo, druida, ranger, paladino, abjuracao]
+tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, abjuracao, padrao, metros, alvo, objeto, nenhum]
 ---
 
 **Abjuração de Nível 2**

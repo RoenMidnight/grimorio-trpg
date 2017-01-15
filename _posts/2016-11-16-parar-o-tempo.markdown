@@ -3,7 +3,7 @@ layout: post
 title:  "Parar o Tempo"
 date:   2016-11-16
 source: Manual Básico.200
-tags: [level9,  feiticeiro, mago, tempo]
+tags: [level9,  feiticeiro, mago, tempo,  padrao, pessoal, voce, rodadas]
 ---
 
 **Arcana de Nível 9**

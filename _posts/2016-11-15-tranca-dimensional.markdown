@@ -3,7 +3,7 @@ layout: post
 title:  "Tranca Dimensional"
 date:   2016-11-15
 source: Manual Básico.216
-tags: [level8, clerigo, druida, feiticeiro, mago, abjuracao]
+tags: [level8, clerigo, abencoado, druida, feiticeiro, mago, abjuracao,  padrao, metros, emanacao, raio, semana, nenhum]
 ---
 
 **Abjuração de Nível 9**

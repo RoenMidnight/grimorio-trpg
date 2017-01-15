@@ -3,7 +3,7 @@ layout: post
 title:  "Globo de Invulnerabilidade"
 date:   2016-11-13
 source: Manual Básico.185
-tags: [level6, bardo, feiticeiro, mago, abjuracao]
+tags: [level6, bardo, feiticeiro, mago, abjuracao,  padrao, pessoal, voce, minuto]
 ---
 
 **Abjuração de Nível 6**

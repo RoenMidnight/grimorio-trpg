@@ -3,7 +3,7 @@ layout: post
 title:  "Feldspato Fogoso"
 date:   2016-11-17
 source: Manual do Arcano. 78
-tags: [level5, bardo, feiticeiro, mago, fogo, terra]
+tags: [level5, bardo, feiticeiro, mago, fogo, terra, padrao, toque, objeto, minuto, reflexos, metade]
 ---
 
 **Fogo/Terra de nível 5**

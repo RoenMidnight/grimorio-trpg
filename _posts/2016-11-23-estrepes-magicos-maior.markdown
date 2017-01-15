@@ -3,7 +3,7 @@ layout: post
 title:  "Estrepes Mágicos Maior"
 date:   2016-11-17
 source: Manual do Arcano. 77
-tags: [level3, bardo, feiticeiro, mago, essencia]
+tags: [level3, bardo, feiticeiro, mago, essencia, padrao, metros, outro, minuto, nenhum]
 ---
 
 **Essência de nível 1**

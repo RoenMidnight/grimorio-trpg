@@ -3,7 +3,7 @@ layout: post
 title:  "Destruição Sagrada"
 date:   2016-11-11
 source: Manual Básico. 176
-tags: [level4, bardo, clerigo, druida, ranger, paladino, bem]
+tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, bem, padrao, metros, explosao, instantanea, fortitude, parcial, dano]
 ---
 
 **Bem de Nível 4**

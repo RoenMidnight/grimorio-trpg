@@ -3,7 +3,7 @@ layout: post
 title:  "Símbolo da Morte"
 date:   2016-11-15
 source: Manual Básico.212
-tags: [level8, clerigo, druida, feiticeiro, mago, necromancia]
+tags: [level8, clerigo, abencoado, druida, feiticeiro, mago, necromancia, minuto, toque, permanente, descarregar, hora, fortitude, anula, componente]
 ---
 
 **Necromancia de Nível 8**

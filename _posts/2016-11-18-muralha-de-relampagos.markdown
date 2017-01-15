@@ -3,7 +3,7 @@ layout: post
 title:  "Muralha de Relampagos"
 date:   2016-11-17
 source: Manual do Devoto. 81
-tags: [level8, feiticeiro, mago, abjuracao, eletricidade]
+tags: [level8, feiticeiro, mago, abjuracao, eletricidade, padrao, metros, outro, concentracao, minuto, hora, reflexo, metade, dano]
 ---
 
 **Abjuração/Eletrícidade de nível 8**

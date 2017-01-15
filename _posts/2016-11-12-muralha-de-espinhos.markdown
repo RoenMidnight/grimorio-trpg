@@ -3,7 +3,7 @@ layout: post
 title:  "Muralha de Espinhos"
 date:   2016-11-08
 source: Manual Básico.196
-tags: [level5, bardo, clerigo, druida, terra]
+tags: [level5, bardo, clerigo, abencoado, druida, terra, padrao, metros, objeto, hora, nenhum]
 ---
 
 **Terra de Nível 5**

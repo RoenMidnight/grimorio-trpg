@@ -3,7 +3,7 @@ layout: post
 title:  "Lâmina Invisível Menor"
 date:   2016-11-17
 source: Manual do Arcano. 81
-tags: [level2, bardo, feiticeiro, mago, ar]
+tags: [level2, bardo, feiticeiro, mago, ar, padrao, metros, outro, minuto, nenhum]
 ---
 
 **Ar de nível 2**

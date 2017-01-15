@@ -3,7 +3,7 @@ layout: post
 title:  "Misseis Mágicos Maior"
 date:   2016-11-17
 source: Manual do Arcano. 81
-tags: [level3, bardo, feiticeiro, mago, essencia]
+tags: [level3, bardo, feiticeiro, mago, essencia, padrao, metros, criatura, instantanea, nenhum]
 ---
 
 **Essência de nível 5**

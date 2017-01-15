@@ -3,7 +3,7 @@ layout: post
 title:  "Riso Histérico"
 date:   2016-11-09
 source: Manual Básico.209
-tags: [level2, bardo, feiticeiro, mago, encantamento]
+tags: [level2, bardo, feiticeiro, mago, encantamento, padrao, metros, criatura, minuto, vontade, anula]
 ---
 
 **Encantamento de Nível 2**

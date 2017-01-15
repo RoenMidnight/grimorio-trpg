@@ -3,7 +3,7 @@ layout: post
 title:  "Padrão Prismático"
 date:   2016-11-11
 source: Manual Básico.199
-tags: [level4, bardo, feiticeiro, mago, ilusao]
+tags: [level4, bardo, feiticeiro, mago, ilusao, padrao, metros, emanacao, concentracao, minuto, vontade, anula]
 ---
 
 **Ilusão de Nível 4**

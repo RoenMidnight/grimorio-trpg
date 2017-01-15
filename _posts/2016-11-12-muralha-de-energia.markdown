@@ -3,7 +3,7 @@ layout: post
 title:  "Muralha de Energia"
 date:   2016-11-08
 source: Manual Básico.196
-tags: [level5, bardo, feiticeiro, mago, essencia]
+tags: [level5, bardo, feiticeiro, mago, essencia, padrao, metros, outro, minuto, nenhum]
 ---
 
 **Essência de Nível 5**

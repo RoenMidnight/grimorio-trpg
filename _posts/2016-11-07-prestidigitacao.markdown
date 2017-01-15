@@ -3,7 +3,7 @@ layout: post
 title:  "Prestidigitação"
 date:   2016-11-07
 source: Manual Básico.203
-tags: [level0, bardo, feiticeiro, mago, transmutacao]
+tags: [level0, bardo, feiticeiro, mago, transmutacao, padrao, metros, outro, minuto, nenhum]
 ---
 
 **Transmutação de Nível 0**

@@ -3,7 +3,7 @@ layout: post
 title:  "Cura Arcana"
 date:   2016-11-17
 source: Manual do Arcano. 72
-tags: [level2, bardo, feiticeiro, mago, tempo]
+tags: [level2, bardo, feiticeiro, mago, tempo, padrao, toque, criatura, instantanea, fortitude, anula]
 ---
 
 **Tempo de nível 2**

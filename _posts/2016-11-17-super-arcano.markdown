@@ -3,7 +3,7 @@ layout: post
 title:  "Super-Arcano"
 date:   2016-11-17
 source: Manual do Devoto. 84
-tags: [level9, feiticeiro, mago, transmutacao]
+tags: [level9, feiticeiro, mago, transmutacao, minuto, pessoal, voce, hora, componente]
 ---
 
 **Transmutação de nível 9**

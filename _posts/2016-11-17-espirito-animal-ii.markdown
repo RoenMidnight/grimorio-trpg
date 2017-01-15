@@ -3,7 +3,7 @@ layout: post
 title:  "Espírito Animal II"
 date:   2016-11-17
 source: Manual do Devoto.85
-tags: [level3, clerigo, druida]
+tags: [level3, clerigo, abencoado, druida, padrao, metros, outro, instantanea, nenhum, dano]
 ---
 
 **Tempo de Execução**: Ação Padrão

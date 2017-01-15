@@ -3,7 +3,7 @@ layout: post
 title:  "Relâmpago"
 date:   2016-11-10
 source: Manual Básico.207
-tags: [level3, bardo, feiticeiro, mago, eletricidade]
+tags: [level3, bardo, feiticeiro, mago, eletricidade, padrao, metros, linha, instantanea, reflexo, metade, dano]
 ---
 
 **Eletricidade de Nível 3**

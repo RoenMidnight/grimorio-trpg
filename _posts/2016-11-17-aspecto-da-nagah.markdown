@@ -3,14 +3,14 @@ layout: post
 title:  "Aspecto da Nagah"
 date:   2016-11-17
 source: Manual do Devoto. 69
-tags: [level7, feiticeiro, mago, transmutacao]
+tags: [level7, feiticeiro, mago, transmutacao, padrao, pessoal, voce, dia, nenhum, componente]
 ---
 
 **Transmutacao de nível 7**
 
 **Tempo de Execução**: Ação Padrão
 
-**Alcance**: pessoas
+**Alcance**: pessoal
 
 **Alvo**: você;
 

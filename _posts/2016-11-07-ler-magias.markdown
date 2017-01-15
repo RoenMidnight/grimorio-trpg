@@ -3,7 +3,7 @@ layout: post
 title:  "Ler Magias"
 date:   2016-11-07
 source: Manual Básico.190
-tags: [level0, bardo, clerigo, druida,  feiticeiro, mago, adivinhacao]
+tags: [level0, bardo, clerigo, abencoado, druida,  feiticeiro, mago, adivinhacao, padrao, pessoal, voce, minuto]
 ---
 
 **Adivinhação de Nível 0**

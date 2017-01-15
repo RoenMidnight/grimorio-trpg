@@ -3,7 +3,7 @@ layout: post
 title:  "Nuvem Incendiária"
 date:   2016-11-15
 source: Manual Básico.198
-tags: [level8, feiticeiro, mago, fogo]
+tags: [level8, feiticeiro, mago, fogo, padrao, metros, outro, minuto, nenhum, dano]
 ---
 
 **Fogo de Nível 8**

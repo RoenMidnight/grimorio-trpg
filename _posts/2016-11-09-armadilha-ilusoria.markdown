@@ -3,7 +3,7 @@ layout: post
 title:  "Armadilha Ilusória"
 date:   2016-11-09
 source: Manual Básico.164
-tags: [level2, bardo, feiticeiro, mago, ilusao]
+tags: [level2, bardo, feiticeiro, mago, ilusao, padrao, toque, objeto, permanente, nenhum]
 ---
 
 **Ilusão de Nível 2**

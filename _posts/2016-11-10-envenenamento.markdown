@@ -3,7 +3,7 @@ layout: post
 title:  "Envenenamento"
 date:   2016-11-10
 source: Manual Básico.181
-tags: [level3, bardo, clerigo, druida, paladino, ranger, necromancia]
+tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, necromancia, padrao, toque, alvo, instantanea, fortitude, anula, dano]
 ---
 
 **Necromancia de Nível 3**

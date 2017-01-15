@@ -3,7 +3,7 @@ layout: post
 title:  "Amaldiçoar Água"
 date:   2016-11-08
 source: Manual Básico.160
-tags: [level1, bardo, clerigo, druida, ranger,paladino, necromancia]
+tags: [level1, bardo, clerigo, abencoado, druida, ranger,paladino, necromancia, rodadas, toque, objeto, instantanea, componente, nenhum]
 ---
 
 **Necromancia de Nível 1**

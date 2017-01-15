@@ -3,7 +3,7 @@ layout: post
 title:  "Falar com Plantas"
 date:   2016-11-10
 source: Manual Básico.183
-tags: [level3, bardo, clerigo, druida, paladino, ranger, adivinhacao]
+tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, adivinhacao, padrao, pessoal, voce, minuto]
 ---
 
 **Transmutação de Nível 3**

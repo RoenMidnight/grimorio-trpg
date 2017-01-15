@@ -3,7 +3,7 @@ layout: post
 title:  "Espada de Energia"
 date:   2016-11-15
 source: Manual Básico.182
-tags: [level7, mago, feiticeiro, essencia]
+tags: [level7, mago, feiticeiro, essencia, completa, metros, outro, minuto, vontade, anula]
 ---
 
 **Essência de Nível 7**

@@ -3,7 +3,7 @@ layout: post
 title:  "Padrão Cintilante"
 date:   2016-11-15
 source: Manual Básico.199
-tags: [level8, feiticeiro, mago, ilusao]
+tags: [level8, feiticeiro, mago, ilusao, padrao, metros, dispersao, concentracao, rodada,  nenhum]
 ---
 
 **Ilusão de Nível 8**

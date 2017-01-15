@@ -3,7 +3,7 @@ layout: post
 title:  "Cone Glacial"
 date:   2016-11-08
 source: Manual Básico.171
-tags: [level5, bardo, feiticeiro, mago, frio]
+tags: [level5, bardo, feiticeiro, mago, frio, padrao, metros, cone, instantanea, reflexo, metade, dano]
 ---
 
 **Frio de Nível 5**

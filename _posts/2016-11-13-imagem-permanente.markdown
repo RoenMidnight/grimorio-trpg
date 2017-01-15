@@ -3,7 +3,7 @@ layout: post
 title:  "Imagem Permamente"
 date:   2016-11-13
 source: Manual Básico. 186
-tags: [level6, bardo, feiticeiro, mago, ilusao]
+tags: [level6, bardo, feiticeiro, mago, ilusao,  padrao, metros, cubo, permanente, vontade, anula, componente]
 ---
 
 **Ilusão de Nível 6**

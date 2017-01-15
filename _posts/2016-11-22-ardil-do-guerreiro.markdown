@@ -3,7 +3,7 @@ layout: post
 title:  "Ardil do Guerreiro"
 date:   2016-11-17
 source: Manual do Arcano. 68
-tags: [level4, bardo, feiticeiro, mago, abjuracao, essencia]
+tags: [level4, bardo, feiticeiro, mago, abjuracao, essencia, padrao, pessoal, voce, minuto, vontade, anula]
 ---
 
 **Abjuração/Essência de nível 4**

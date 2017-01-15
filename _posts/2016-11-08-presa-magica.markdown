@@ -3,7 +3,7 @@ layout: post
 title:  "Presa Mágica"
 date:   2016-11-08
 source: Manual Básico.203
-tags: [level1, bardo, clerigo, druida, paladino, ranger,  transmutacao]
+tags: [level1, bardo, clerigo, abencoado, druida, paladino, ranger,  transmutacao, padrao, toque, alvo, minuto, nenhum]
 ---
 
 **Transmutação de Nível 1**

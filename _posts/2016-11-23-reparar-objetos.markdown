@@ -3,7 +3,7 @@ layout: post
 title:  "Reparar Objetos"
 date:   2016-11-17
 source: Manual do Arcano. 83
-tags: [level3, bardo, feiticeiro, mago, transmutacao]
+tags: [level3, bardo, feiticeiro, mago, transmutacao, padrao, toque, objeto, instantanea, nenhum]
 ---
 
 **Transmutação de nível 3**

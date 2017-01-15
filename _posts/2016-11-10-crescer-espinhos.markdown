@@ -3,7 +3,7 @@ layout: post
 title:  "Crescer Espinhos"
 date:   2016-11-10
 source: Manual Básico.173
-tags: [level3, bardo, clerigo, druida, paladino, ranger, transmutacao]
+tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, transmutacao, padrao, metros, quadrado, hora, reflexos, parcial, dano]
 ---
 
 **Transmutação de Nível 3**

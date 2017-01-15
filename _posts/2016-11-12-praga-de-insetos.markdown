@@ -3,7 +3,7 @@ layout: post
 title:  "Praga de Insetos"
 date:   2016-11-08
 source: Manual Básico.203
-tags: [level5, bardo, clerigo, druida, invocacao]
+tags: [level5, bardo, clerigo, abencoado, druida, invocacao, completa, metros, outro, minuto, nenhum]
 ---
 
 **Invocação de Nível 5**

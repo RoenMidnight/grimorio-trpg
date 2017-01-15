@@ -3,7 +3,7 @@ layout: post
 title:  "Nuvem Profana"
 date:   2016-11-11
 source: Manual Básico.198
-tags: [level4, bardo, clerigo, druida, ranger, paladino, mal]
+tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, mal, padrao, metros, explosao, instantanea, fortitude, parcial]
 ---
 
 **Mal de Nível 4**

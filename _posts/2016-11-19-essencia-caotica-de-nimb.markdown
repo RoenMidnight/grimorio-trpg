@@ -3,7 +3,7 @@ layout: post
 title:  "Essência Caótica de Nimb"
 date:   2016-11-17
 source: Manual do Arcano. 76
-tags: [level7,  clerigo, druida, feiticeiro, mago, eletricidade, caos, essencia]
+tags: [level7,  clerigo, abencoado, druida, feiticeiro, mago, eletricidade, caos, essencia, padrao, metros, criatura, rodadas, nenhum]
 ---
 
 **Caos/Essência de nível 7**

@@ -3,7 +3,7 @@ layout: post
 title:  "Doutrinação de Khalmyr(Absoluta)"
 date:   2016-11-17
 source: Manual do Devoto. 92
-tags: [level9, clerigo, druida, bem, ordem, khalmyr]
+tags: [level9, clerigo, abencoado, druida, bem, ordem, khalmyr, padrao, pessoal, voce, minuto, nenhum, absoluta]
 ---
 
 **Bem/Ordem de 9 (Absoluta)**

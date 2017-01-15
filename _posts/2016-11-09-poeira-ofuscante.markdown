@@ -3,7 +3,7 @@ layout: post
 title:  "Poeira Ofuscante"
 date:   2016-11-09
 source: Manual Básico.202
-tags: [level2, bardo, feiticeiro, mago, luz]
+tags: [level2, bardo, feiticeiro, mago, luz, padrao, metros, dispersao, minuto, vontade, anula]
 ---
 
 **Luz de Nível 2**

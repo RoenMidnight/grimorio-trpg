@@ -3,7 +3,7 @@ layout: post
 title:  "Raio Polar"
 date:   2016-11-15
 source: Manual Básico.206
-tags: [level8, feiticeiro, mago, frio]
+tags: [level8, feiticeiro, mago, frio, padrao, metros, raio, instantanea, nenhum]
 ---
 
 **Frio de Nível 8**
@@ -14,7 +14,7 @@ tags: [level8, feiticeiro, mago, frio]
 
 **Efeito**: Raio
 
-**Duração**: Istantânea
+**Duração**: Instantânea
 
 **Teste de Resistência**: Nenhum
 

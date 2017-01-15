@@ -3,7 +3,7 @@ layout: post
 title:  "Elmo Glorioso"
 date:   2016-11-17
 source: Manual do Devoto. 84
-tags: [level3, paladino, encantamento, bem]
+tags: [level3, paladino, encantamento, bem, padrao, pessoal, dia, nenhum]
 ---
 
 **Bem/Encantamento de nível 2**

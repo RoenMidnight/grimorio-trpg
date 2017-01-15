@@ -3,7 +3,7 @@ layout: post
 title:  "Névoa Mortal"
 date:   2016-11-08
 source: Manual Básico.197
-tags: [level5, bardo, feiticeiro, mago, necromancia]
+tags: [level5, bardo, feiticeiro, mago, necromancia, padrao, metros, outro, minuto, fortitude, parcial]
 ---
 
 **Ar de Nível 5**

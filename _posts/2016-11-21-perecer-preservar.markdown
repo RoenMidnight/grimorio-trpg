@@ -3,7 +3,7 @@ layout: post
 title:  "Perecer/Preservar"
 date:   2016-11-17
 source: Manual do Arcano. 81
-tags: [level5, bardo, feiticeiro, mago, tempo]
+tags: [level5, bardo, feiticeiro, mago, tempo, minuto, toque, objeto, instantanea, ano, nenhum]
 ---
 
 **Tempo de nível 5**

@@ -3,7 +3,7 @@ layout: post
 title:  "Passeio Etéreo"
 date:   2016-11-15
 source: Manual Básico.200
-tags: [level7, clerigo, druida, feiticeiro, mago, transmutacao]
+tags: [level7, clerigo, abencoado, druida, feiticeiro, mago, transmutacao, padrao, pessoal, voce, minuto]
 ---
 
 **Transmutação de Nível 7**

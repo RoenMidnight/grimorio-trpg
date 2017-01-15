@@ -3,7 +3,7 @@ layout: post
 title:  "Lâmina Invisível Maior"
 date:   2016-11-17
 source: Manual do Arcano. 81
-tags: [level6, bardo, feiticeiro, mago, ar]
+tags: [level6, bardo, feiticeiro, mago, ar, padrao, metros, outro, minuto, nenhum, dano]
 ---
 
 **Ar de nível 6**

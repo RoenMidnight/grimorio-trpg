@@ -3,7 +3,7 @@ layout: post
 title:  "Comunhão com a Natureza"
 date:   2016-11-08
 source: Manual Básico.170
-tags: [level5, bardo, clerigo, druida, feiticeiro, mago, adivinhacao]
+tags: [level5, bardo, clerigo, abencoado, druida, feiticeiro, mago, adivinhacao, minuto, pessoal, voce, instantanea]
 ---
 
 **Adivinhação de Nível 5**

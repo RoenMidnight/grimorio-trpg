@@ -3,7 +3,7 @@ layout: post
 title:  "Clarão do Esquecimento"
 date:   2016-11-17
 source: Manual do Arcano. 71
-tags: [level3, bardo, feiticeiro, mago, encantamento luz]
+tags: [level3, bardo, feiticeiro, mago, encantamento luz, padrao, metros, cone, instantanea, vontade, anula]
 ---
 
 **Encantamento/Luz de nível 3**

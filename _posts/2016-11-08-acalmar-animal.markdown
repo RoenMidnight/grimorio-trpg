@@ -3,7 +3,7 @@ layout: post
 title:  "Acalmar Animal"
 date:   2016-11-08
 source: Manual Básico.160
-tags: [level1, bardo, clerigo, druida, ranger,paladino, encantamento]
+tags: [level1, bardo, clerigo, abencoado, druida, ranger,paladino, encantamento, padrao, metros, alvo, minuto, vontade, anula]
 ---
 
 **Encantamento de Nível 1**

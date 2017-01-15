@@ -3,7 +3,7 @@ layout: post
 title:  "Névoa Mental"
 date:   2016-11-08
 source: Manual Básico.197
-tags: [level5, bardo, feiticeiro, mago, ar]
+tags: [level5, bardo, feiticeiro, mago, ar, padrao, metros, outro, hora, rodada, nenhum]
 ---
 
 **Ar de Nível 5**

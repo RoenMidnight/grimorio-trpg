@@ -3,7 +3,7 @@ layout: post
 title:  "Deslocamento"
 date:   2016-11-10
 source: Manual Básico.176
-tags: [level3, bardo, feiticeiro, mago, ilusao]
+tags: [level3, bardo, feiticeiro, mago, ilusao, padrao, toque, criatura, minuto, nenhum]
 ---
 
 **Ilusão de Nível 3**

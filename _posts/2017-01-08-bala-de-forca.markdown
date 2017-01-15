@@ -3,7 +3,7 @@ layout: post
 title:  "Bala de Força"
 date:   2016-11-10
 source: Mundo dos Deuses. 148
-tags: [level0, bardo, mago, feiticeiro, essencia]
+tags: [level0, bardo, mago, feiticeiro, essencia, padrao, metros, criatura, instantanea, nenhum]
 ---
 
 **Essência de Nível 0**

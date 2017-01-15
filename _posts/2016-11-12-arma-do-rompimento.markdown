@@ -3,7 +3,7 @@ layout: post
 title:  "Arma do Rompimento"
 date:   2016-11-08
 source: Manual Básico.164
-tags: [level5, bardo, clerigo, druida,  transmutacao]
+tags: [level5, bardo, clerigo, abencoado, druida,  transmutacao, padrao, toque, objeto, minuto, nenhum]
 ---
 
 **Transmutação de Nível 5**

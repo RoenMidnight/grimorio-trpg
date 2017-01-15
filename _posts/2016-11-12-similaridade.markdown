@@ -3,7 +3,7 @@ layout: post
 title:  "Similaridade"
 date:   2016-11-08
 source: Manual Básico.213
-tags: [level5, bardo, feiticeiro, mago, ilusao]
+tags: [level5, bardo, feiticeiro, mago, ilusao, padrao, metros, criaturas, dia, nenhum, vontade, anula]
 ---
 
 **Ilusão de Nível 5**

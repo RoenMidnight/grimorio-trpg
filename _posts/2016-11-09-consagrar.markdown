@@ -3,7 +3,7 @@ layout: post
 title:  "Consagrar"
 date:   2016-11-09
 source: Manual Básico.171
-tags: [level2, bardo, clerigo, druida, ranger, paladino, bem]
+tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, bem, completa, metros, emanacao, dia, nenhum]
 ---
 
 **Bem de Nível 2**

@@ -3,7 +3,7 @@ layout: post
 title:  "Vento Sussurrante"
 date:   2016-11-09
 source: Manual Básico.217
-tags: [level2, bardo, feiticeiro, mago, ar]
+tags: [level2, bardo, feiticeiro, mago, ar, padrao, quilometros, outro, instantanea, nenhum]
 ---
 
 **Ar de Nível 2**

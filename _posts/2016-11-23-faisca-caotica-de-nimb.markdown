@@ -3,7 +3,7 @@ layout: post
 title:  "Faísca Caótica de Nimb"
 date:   2016-11-17
 source: Manual do Arcano. 76
-tags: [level3, bardo, clerigo, druida, paladino, ranger, feiticeiro, mago, caos, eletricidade]
+tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, caos, eletricidade, movimento, metros, criatura, rodadas]
 ---
 
 **Caos/Eletricidade de nível 3**

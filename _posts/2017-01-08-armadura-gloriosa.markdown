@@ -3,7 +3,7 @@ layout: post
 title:  "Armadura Gloriosa"
 date:   2016-11-17
 source: Manual do Devoto. 84
-tags: [level2, paladino, encantamento, bem]
+tags: [level2, paladino, encantamento, bem, padrao, toque, objeto, minuto, nenhum]
 ---
 
 **Bem/Encantamento de nível 2**

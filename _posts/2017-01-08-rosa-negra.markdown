@@ -3,7 +3,7 @@ layout: post
 title:  "Rosa Negra"
 date:   2016-11-10
 source: Manual do Devoto.89
-tags: [level3, bardo, clerigo, druida, paladino, ranger, escuridao, invocacao]
+tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, escuridao, invocacao, padrao, metros, instantanea, nenhum]
 ---
 
 **Escuridão/Invocação de Nível 3**

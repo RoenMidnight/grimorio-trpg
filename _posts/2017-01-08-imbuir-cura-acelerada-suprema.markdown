@@ -3,7 +3,7 @@ layout: post
 title:  "Imbuir Cura Acelerada Suprema"
 date:   2016-11-17
 source: Manual do Devoto. 86
-tags: [level8, clerigo, druida, cura]
+tags: [level8, clerigo, abencoado, druida, cura, padrao, metros, criatura, minuto, nenhum]
 ---
 
 **Cura de nível 8**

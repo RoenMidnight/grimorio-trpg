@@ -3,7 +3,7 @@ layout: post
 title:  "Choque Estático"
 date:   2016-11-07
 source: Manual Básico.70
-tags: [level2, bardo, feiticeiro, mago, eletricidade]
+tags: [level2, bardo, feiticeiro, mago, eletricidade, padrao, metros, minuto, fortitude, parcial, componente]
 ---
 
 **Eletrícidade de Nível 2**

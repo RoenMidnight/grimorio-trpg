@@ -3,7 +3,7 @@ layout: post
 title:  "Vitória de Valkaria(Absoluta)"
 date:   2016-11-17
 source: Manual do Devoto. 95
-tags: [level9, clerigo, druida, encantamento, valkaria]
+tags: [level9, clerigo, abencoado, druida, encantamento, valkaria, padrao, metros, alvo, dia, nenhum, absoluta]
 ---
 
 **Encantamento de 9 (Absoluta)**

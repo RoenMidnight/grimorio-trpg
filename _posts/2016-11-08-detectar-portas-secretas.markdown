@@ -3,7 +3,7 @@ layout: post
 title:  "Detectar Portas Secretas"
 date:   2016-11-08
 source: Manual Básico.177
-tags: [level1, bardo, feiticeiro, mago, adivinhacao]
+tags: [level1, bardo, feiticeiro, mago, adivinhacao, padrao, pessoal, dispersao, instantanea]
 ---
 
 **Adivinhação de Nível 1**

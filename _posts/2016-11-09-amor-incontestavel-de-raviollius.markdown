@@ -3,7 +3,7 @@ layout: post
 title:  "Amor Incontestável de Raviollius"
 date:   2016-11-09
 source: Manual Básico.161
-tags: [level2, bardo, clerigo, druida, ranger, paladino, encantamento]
+tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, encantamento, padrao, toque, alvo, dia, vontade, anula]
 ---
 
 **Encantamento de Nível 2**

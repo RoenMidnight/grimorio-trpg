@@ -3,7 +3,7 @@ layout: post
 title:  "Toque Macabro"
 date:   2016-11-08
 source: Manual Básico.216
-tags: [level1, bardo, feiticeiro, mago, necromancia]
+tags: [level1, bardo, feiticeiro, mago, necromancia, padrao, pessoal, voce, minuto]
 ---
 
 **Necromancia de Nível 1**

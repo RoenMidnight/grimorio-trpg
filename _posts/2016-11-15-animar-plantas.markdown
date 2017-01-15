@@ -3,7 +3,7 @@ layout: post
 title:  "Animar Plantas"
 date:   2016-11-15
 source: Manual Básico.162
-tags: [level7, clerigo, druida, transmutacao]
+tags: [level7, clerigo, abencoado, druida, transmutacao, padrao, metros, objeto, minuto, nenhum]
 ---
 
 **Transmutação de Nível 7**

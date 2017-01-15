@@ -3,7 +3,7 @@ layout: post
 title:  "Passos sem Pegadas"
 date:   2016-11-08
 source: Manual Básico.200
-tags: [level1, bardo, clerigo, druida, ranger, paladino,  transmutacao]
+tags: [level1, bardo, clerigo, abencoado, druida, ranger, paladino,  transmutacao, padrao, toque, criatura, hora, nenhum]
 ---
 
 **Transmutação de Nível 1**

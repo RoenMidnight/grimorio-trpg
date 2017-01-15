@@ -3,7 +3,7 @@ layout: post
 title:  "Lágrimas de Wynna"
 date:   2016-11-16
 source: Manual Básico.189
-tags: [level9, clerigo, druida, feiticeiro, mago, abjuracao]
+tags: [level9, clerigo, abencoado, druida, feiticeiro, mago, abjuracao,  minuto, toque, alvo, permanente, vontade, anula, experiencia]
 ---
 
 **Abjuração de Nível 9**

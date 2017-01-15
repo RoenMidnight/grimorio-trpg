@@ -3,7 +3,7 @@ layout: post
 title:  "Esplendor da Águia em Massa"
 date:   2016-11-13
 source: Manual Básico.182
-tags: [level6, bardo, clerigo, druida, feiticeiro, mago, transmutacao]
+tags: [level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, transmutacao,  padrao, metros, criatura, minuto, nenhum]
 ---
 
 **Transmutação de Nível 6**

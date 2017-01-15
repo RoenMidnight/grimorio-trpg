@@ -3,7 +3,7 @@ layout: post
 title:  "Lâmina Flamejante"
 date:   2016-11-09
 source: Manual Básico. 190
-tags: [level2, bardo, clerigo, druida, ranger, paladino, fogo]
+tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, fogo, padrao, pessoal, voce, minuto, nenhum, dano]
 ---
 
 **Fogo de Nível 2**

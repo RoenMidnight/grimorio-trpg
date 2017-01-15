@@ -3,7 +3,7 @@ layout: post
 title:  "Muralha de Ferro"
 date:   2016-11-08
 source: Manual Básico.196
-tags: [level5, bardo,  feiticeiro, mago, terra]
+tags: [level5, bardo,  feiticeiro, mago, terra, padrao, metros, outro, dia, nenhum, reflexo, anula]
 ---
 
 **Terra de Nível 5**

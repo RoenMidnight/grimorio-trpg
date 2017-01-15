@@ -3,7 +3,7 @@ layout: post
 title:  "Projeção Astral"
 date:   2016-11-16
 source: Manual Básico.204
-tags: [level9, clerigo, druida, feiticeiro, mago, necromancia]
+tags: [level9, clerigo, abencoado, druida, feiticeiro, mago, necromancia,  minutos, toque, voce, criatura, nenhum]
 ---
 
 **Necromancia de Nível 9**

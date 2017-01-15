@@ -3,7 +3,7 @@ layout: post
 title:  "Momento Glorioso"
 date:   2016-11-17
 source: Manual do Devoto. 88
-tags: [level4, paladino, encantamento, bem]
+tags: [level4, paladino, encantamento, bem, padrao, pessoal, instantanea, nenhum]
 ---
 
 **Bem/Encantamento de nível 4**

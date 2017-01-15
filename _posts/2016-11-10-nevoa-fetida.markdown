@@ -3,7 +3,7 @@ layout: post
 title:  "Névoa Fetida"
 date:   2016-11-10
 source: Manual Básico.197
-tags: [level3, bardo, feiticeiro, mago, ar]
+tags: [level3, bardo, feiticeiro, mago, ar, padrao, metros, cilindro, minuto, fortitude, anula]
 ---
 
 **Ar de Nível 3**

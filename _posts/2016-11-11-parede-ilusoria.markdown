@@ -3,7 +3,7 @@ layout: post
 title:  "Parede Ilusória"
 date:   2016-11-11
 source: Manual Básico.200
-tags: [level4, bardo, feiticeiro, mago, ilusao]
+tags: [level4, bardo, feiticeiro, mago, ilusao, padrao, metros, outro, permanente, vontade, anula, componente]
 ---
 
 **Ilusão de Nível 4**

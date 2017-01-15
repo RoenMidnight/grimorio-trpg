@@ -3,7 +3,7 @@ layout: post
 title:  "Tempestade de Fogo"
 date:   2016-11-15
 source: Manual Básico.215
-tags: [level8, clerigo, druida, fogo]
+tags: [level8, clerigo, abencoado, druida, fogo,  padrao, metros, cubo, instantanea, reflexo, metade]
 ---
 
 **Fogo de Nível 8**

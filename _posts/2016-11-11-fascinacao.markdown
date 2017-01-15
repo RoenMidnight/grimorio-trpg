@@ -3,7 +3,7 @@ layout: post
 title:  "Fascinação"
 date:   2016-11-11
 source: Manual Básico. 183
-tags: [level4,  feiticeiro, mago, encantamento]
+tags: [level4,  feiticeiro, mago, encantamento, minuto, toque, objeto, permanente, vontade, anula]
 ---
 
 **Encantamento de Nível 4**

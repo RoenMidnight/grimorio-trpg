@@ -3,7 +3,7 @@ layout: post
 title:  "Abraço Gélido"
 date:   2016-11-17
 source: Manual do Arcano. 63
-tags: [level2, bardo, feiticeiro, mago, frio]
+tags: [level2, bardo, feiticeiro, mago, frio, padrao, pessoal, criatura, minuto, fortitude, parcial]
 ---
 
 **Frio de nível 2**

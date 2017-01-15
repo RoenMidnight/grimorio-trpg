@@ -3,7 +3,7 @@ layout: post
 title:  "Drenar Temporário"
 date:   2016-11-11
 source: Manual Básico. 179
-tags: [level4, bardo, feiticeiro, mago, necromancia]
+tags: [level4, bardo, feiticeiro, mago, necromancia, padrao, metros, raio, hora, nenhum]
 ---
 
 **Necromancia de Nível 4**

@@ -29,7 +29,7 @@
 			{% if tag == page.tag %}
 			<ul class="post-list jetsContent">
 				<li data-tags="{{ post.tags | join: ',' }}">
-					<a class="post-link" href="/grimorio-trpg{{ post.url | prepend: site.baseurl}}">{{ post.title }}</a>
+					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 				</li>
 			</ul>
 			{% endif %}

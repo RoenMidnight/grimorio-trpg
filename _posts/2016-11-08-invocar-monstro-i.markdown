@@ -3,7 +3,7 @@ layout: post
 title:  "Invocar Monstro I"
 date:   2016-11-08
 source: Manual Básico.188
-tags: [level1, bardo, clerigo, druida, paladino, ranger, feiticeiro, mago, invocacao]
+tags: [level1, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, invocacao, completa, metros, outro, concentracao, rodadas, minuto, nenhum]
 ---
 
 **Invocação de Nível 1**

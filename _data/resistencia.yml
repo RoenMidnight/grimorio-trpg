@@ -1,0 +1,15 @@
+- name: Anula
+  tag: anula
+- name: Parcial
+  tag: parcial
+- name: Metade
+  tag: metade
+- name: Nenhum
+  tag: nenhum
+- name: Fortitude
+  tag: fortitude
+- name: Reflexo
+  tag: reflexo
+- name: Vontade
+  tag: Vontade
+

@@ -3,7 +3,7 @@ layout: post
 title:  "Sacrifício Traiçoeiro"
 date:   2016-11-10
 source: Manual do Devoto.89
-tags: [level5, bardo, clerigo, druida, mal]
+tags: [level5, bardo, clerigo, abencoado, druida, mal, livre, metros, instantanea, vontade, parcial]
 ---
 
 **Mal de Nível 4**

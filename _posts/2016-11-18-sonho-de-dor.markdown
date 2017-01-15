@@ -3,7 +3,7 @@ layout: post
 title:  "Sonho de Dor"
 date:   2016-11-17
 source: Guia da Trilogia .49
-tags: [level8, feiticeiro, mago, ilusao]
+tags: [level8, feiticeiro, mago, ilusao, padrao, metros, emanacao, minuto, vontade, parcial]
 ---
 
 **Ilusão de nível 8**

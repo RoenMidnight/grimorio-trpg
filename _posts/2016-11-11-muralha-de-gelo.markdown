@@ -3,7 +3,7 @@ layout: post
 title:  "Muralha de Gelo"
 date:   2016-11-11
 source: Manual Básico.196
-tags: [level4, bardo, feiticeiro, mago, frio]
+tags: [level4, bardo, feiticeiro, mago, frio, padrao, metros, outro, minuto]
 ---
 
 **Frio de Nível 4**

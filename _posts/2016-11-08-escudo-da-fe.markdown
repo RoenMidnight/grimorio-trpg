@@ -3,7 +3,7 @@ layout: post
 title:  "Escudo da Fé"
 date:   2016-11-08
 source: Manual Básico.181
-tags: [level1, bardo, clerigo, druida, ranger,paladino, abjuracao]
+tags: [level1, bardo, clerigo, abencoado, druida, ranger,paladino, abjuracao, padrao, toque, alvo, minuto, nenhum]
 ---
 
 **Abjuração de Nível 1**

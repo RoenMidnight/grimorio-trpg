@@ -3,7 +3,7 @@ layout: post
 title:  "Chuva de Sangue"
 date:   2016-11-17
 source: Manual do Arcano. 70
-tags: [level2, bardo, feiticeiro, mago, necromancia]
+tags: [level2, bardo, feiticeiro, mago, necromancia, completa, emanacao, minuto, nenhum, componente]
 ---
 
 **Necromancia de nível 2**

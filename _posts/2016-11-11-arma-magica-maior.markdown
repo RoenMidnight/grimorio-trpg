@@ -3,7 +3,7 @@ layout: post
 title:  "Arma Mágica Maior"
 date:   2016-11-11
 source: Manual Básico.164
-tags: [level3, level4, bardo, clerigo, druida, ranger, paladino, feiticeiro, mago, transmutacao]
+tags: [level3, level4, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, transmutacao, padrao, toque, arma, hora, nenhum]
 ---
 
 **Arcana 3/ Divina 4**

@@ -3,7 +3,7 @@ layout: post
 title:  "Viagem no Tempo"
 date:   2016-11-17
 source: Manual do Devoto. 86
-tags: [level9, feiticeiro, mago, tempo]
+tags: [level9, feiticeiro, mago, tempo, completa, toque, criatura, instantanea, nenhum, experiencia]
 ---
 
 **Tempo de nível 9**

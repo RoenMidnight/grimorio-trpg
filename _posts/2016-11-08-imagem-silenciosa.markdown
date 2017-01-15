@@ -3,7 +3,7 @@ layout: post
 title:  "Imagem Silenciosa"
 date:   2016-11-08
 source: Manual Básico.186
-tags: [level1, bardo, feiticeiro, mago,  ilusao]
+tags: [level1, bardo, feiticeiro, mago,  ilusao, padrao, metros, outro, cubo, concentracao, vontade, anula]
 ---
 
 **Ilusão de Nível 1**

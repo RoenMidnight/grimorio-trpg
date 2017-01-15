@@ -3,7 +3,7 @@ layout: post
 title:  "Ataque Certeiro"
 date:   2016-11-08
 source: Manual Básico.211
-tags: [level1, bardo, feiticeiro, mago, adivinhacao]
+tags: [level1, bardo, feiticeiro, mago, adivinhacao, padrao, pessoal, voce, descarregar, nenhum]
 ---
 
 **Adivinhação de Nível 1**
