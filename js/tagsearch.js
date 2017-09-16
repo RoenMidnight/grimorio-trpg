@@ -24,7 +24,7 @@ function parseURLParams(url) {
 }
 
 function getTagSearchFromURL(url){
-	return parseURLParams(url).tagSearch[0];
+	//return parseURLParams(url).tagSearch[0];
 }
 
 function doesTagListMatchTag(tag, tagList){

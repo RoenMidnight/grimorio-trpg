@@ -5,9 +5,9 @@
     <description>Uma lista de fácil acesso de magias para TRPG baseado no grimoire do thebombzen para 5e</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 15 Jan 2017 15:59:04 -0200</pubDate>
-    <lastBuildDate>Sun, 15 Jan 2017 15:59:04 -0200</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <pubDate>Sat, 16 Sep 2017 02:05:24 -0300</pubDate>
+    <lastBuildDate>Sat, 16 Sep 2017 02:05:24 -0300</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
     
       <item>
         <title>Estase Parcia</title>
@@ -16,27 +16,35 @@
 title:  “Estase Parcial”
 date:   2016-11-17
 source: Manual do Arcano. 77
+escola: Tempo/Necromancia de Nível 3
 tags: [level3, bardo, feiticeiro, mago, tempo, necromancia, minuto, toque, criatura, mes, vontade, anula]
 —&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tempo/Necromancia de nível 3&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&quot;float: left;max-width: 45%; padding: 7px; background-color: #f1f0e6;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: 1 minuto&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: 1 minuto;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: toque&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: toque;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura em repouso ou você &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura em repouso ou você;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 mês ou até ser despertada (veja o texto) &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 mês ou até ser despertada (veja o texto);&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teste de Resistencia&lt;/strong&gt;: Vontade Anula &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Teste de Resistencia&lt;/strong&gt;: Vontade Anula;&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Tags:&lt;/strong&gt;
+    
+&lt;/p&gt;
+&lt;/div&gt;
 
+&lt;div style=&quot;float: right;max-width: 45%; padding: 7px;&quot;&gt;
 &lt;p&gt;Esta magia desacelera drasticamente 
 o metabolismo do alvo. A criatura entra 
 em um estado de torpor, no qual irá dormir um mês. Contudo, seus ferimentos 
 se curam como se ela houvesse dormido 
 apenas um dia. A criatura pode ser acordada por meios normais. Se isso ocorrer, 
 a magia termina.&lt;/p&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Wed, 23 Nov 2016 00:00:00 -0200</pubDate>
         <link>http://localhost:4000/spells/estase-parcia</link>
@@ -49,18 +57,108 @@ a magia termina.&lt;/p&gt;
     
       <item>
         <title>Pedra Encantada Maior</title>
-        <description>&lt;p&gt;&lt;strong&gt;Luz/Terra de nível 4&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;div style=&quot;float: left;max-width: 45%; padding: 7px; background-color: #f1f0e6;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Tempo de Execução:&lt;/strong&gt; Ação Padrão&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: toque&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: toque;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alvos&lt;/strong&gt;: até 3 pedras &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alvos&lt;/strong&gt;: até 3 pedras;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duração:&lt;/strong&gt; 1 hora&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 hora;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt; nenhum &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum;&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Tags:&lt;/strong&gt;
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/#level4&quot;&gt;level4&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/bardo.html&quot;&gt;bardo&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/paladino.html&quot;&gt;paladino&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/ranger.html&quot;&gt;ranger&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/clerigo.html&quot;&gt;clerigo&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/abencoado.html&quot;&gt;abencoado&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/druida.html&quot;&gt;druida&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/luz.html&quot;&gt;luz&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/terra.html&quot;&gt;terra&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/padrao.html&quot;&gt;padrao&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/toque.html&quot;&gt;toque&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/objeto.html&quot;&gt;objeto&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/hora.html&quot;&gt;hora&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/nenhum.html&quot;&gt;nenhum&lt;/a&gt;
+        
+    
+    
+&lt;/p&gt;
+&lt;/div&gt;
 
+&lt;div style=&quot;float: right;max-width: 45%; padding: 7px;&quot;&gt;
 &lt;p&gt;Você encanta até três pedras pequenas 
 para atingirem com grande força quando 
 arremessadas. Cada pedra pode ser usada 
@@ -73,8 +171,10 @@ dano dobrado contra mortos-vivos. Como
 alternativa, você pode encantar até 20 
 pedras, mas o seu encantamento será mais 
 fraco: utilize a versão comum de pedra 
-encantadapara estas.&lt;/p&gt;
+encantadapara estas.
 
+&lt;/p&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
         <link>http://localhost:4000/spells/pedra-encantada-maior</link>
@@ -115,16 +215,69 @@ encantadapara estas.&lt;/p&gt;
     
       <item>
         <title>Momento Glorioso</title>
-        <description>&lt;p&gt;&lt;strong&gt;Bem/Encantamento de nível 4&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;div style=&quot;float: left;max-width: 45%; padding: 7px; background-color: #f1f0e6;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Tempo de Execução:&lt;/strong&gt; Ação Padrão&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: pessoal&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;:   instantânea&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: pessoal;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt; nenhum &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;:  instantânea;&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Tags:&lt;/strong&gt;
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/#level4&quot;&gt;level4&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/paladino.html&quot;&gt;paladino&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/encantamento.html&quot;&gt;encantamento&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/bem.html&quot;&gt;bem&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/padrao.html&quot;&gt;padrao&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/pessoal.html&quot;&gt;pessoal&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/instantanea.html&quot;&gt;instantanea&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/nenhum.html&quot;&gt;nenhum&lt;/a&gt;
+        
+    
+    
+&lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum;&lt;/p&gt;
-
+&lt;div style=&quot;float: right;max-width: 45%; padding: 7px;&quot;&gt;
 &lt;p&gt;Ao lançar esta magia, você se transporta para qualquer posição a até 30m 
 que esteja enxergando, desde que acabe 
 o movimento adjacente a um inimigo. 
@@ -139,6 +292,7 @@ glorioso), sem nenhuma penalidade por
 ataques múltiplos. Esta magia só pode 
 ser lançada uma vez por dia e só pode ser 
 aprendida e lançada por paladinos.&lt;/p&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
         <link>http://localhost:4000/spells/momento-glorioso-supremo</link>
@@ -167,25 +321,99 @@ aprendida e lançada por paladinos.&lt;/p&gt;
     
       <item>
         <title>Luz Cegante Maior</title>
-        <description>&lt;p&gt;&lt;strong&gt;Luz de nível 4&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;div style=&quot;float: left;max-width: 45%; padding: 7px; background-color: #f1f0e6;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Tempo de Execução:&lt;/strong&gt; Ação Padrão&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;:30 metros&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 30 metros;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Efeito&lt;/strong&gt;: raio;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Efeito&lt;/strong&gt;: Raio&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: instantânea&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt; nenhum &lt;/p&gt;
 
+&lt;p&gt;
+&lt;strong&gt;Tags:&lt;/strong&gt;
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/#level4&quot;&gt;level4&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/bardo.html&quot;&gt;bardo&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/clerigo.html&quot;&gt;clerigo&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/abencoado.html&quot;&gt;abencoado&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/druida.html&quot;&gt;druida&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/luz.html&quot;&gt;luz&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/padrao.html&quot;&gt;padrao&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/metros.html&quot;&gt;metros&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/raio.html&quot;&gt;raio&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/instantanea.html&quot;&gt;instantanea&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/nenhum.html&quot;&gt;nenhum&lt;/a&gt;
+        
+    
+    
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;float: right;max-width: 45%; padding: 7px;&quot;&gt;
 &lt;p&gt;Você dispara um raio de sol pela 
 palma da mão. Faça um ataque de toque 
 à distância. Se você acertar, o alvo sofre 
 4d8 pontos de dano (8d6 contra mortos-vivos). Paladinos que lancem esta 
 magia causam mais 1 ponto de dano 
-para cada 2 níveis de classe.&lt;/p&gt;
+para cada 2 níveis de classe.
 
+&lt;/p&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
         <link>http://localhost:4000/spells/luz-cegante-maior</link>
@@ -220,21 +448,104 @@ para cada 2 níveis de classe.&lt;/p&gt;
     
       <item>
         <title>Invocar Aspecto Divino</title>
-        <description>&lt;p&gt;&lt;strong&gt;Invocação de nível 5&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;div style=&quot;float: left;max-width: 45%; padding: 7px; background-color: #f1f0e6;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: Ação Completa&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Completa;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;:9 metros&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 9 metros;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Efeito:&lt;/strong&gt; 1 criatura invocada&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Efeito&lt;/strong&gt;: 1 criatura invocada;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duração:&lt;/strong&gt; 1 dia ou 1 minuto&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 dia ou 1 minuto;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt; nenhum &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Custo de XP:&lt;/strong&gt; 100&lt;/p&gt; &lt;p&gt;
+&lt;strong&gt;Tags:&lt;/strong&gt;
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/#level5&quot;&gt;level5&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/bardo.html&quot;&gt;bardo&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/clerigo.html&quot;&gt;clerigo&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/abencoado.html&quot;&gt;abencoado&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/druida.html&quot;&gt;druida&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/invocacao.html&quot;&gt;invocacao&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/completa.html&quot;&gt;completa&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/metros.html&quot;&gt;metros&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/criatura.html&quot;&gt;criatura&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/dia.html&quot;&gt;dia&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/minuto.html&quot;&gt;minuto&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/nenhum.html&quot;&gt;nenhum&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/experiencia.html&quot;&gt;experiencia&lt;/a&gt;
+        
+    
+    
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&quot;float: right;max-width: 45%; padding: 7px;&quot;&gt;
+&lt;p&gt;
 
-&lt;p&gt;&lt;strong&gt;Custo de XP&lt;/strong&gt;:100&lt;/p&gt;
-
-&lt;p&gt;Esta magia invoca uma criatura que 
+Esta magia invoca uma criatura que 
 surge em um ponto qualquer dentro de 
 9m, à sua escolha. A criatura acompanha 
 o conjurador por 1 dia — ou, se entrar 
@@ -265,9 +576,9 @@ a seguir. Os demais (assim como as
 outras facetas de aspectos de cada deus) 
 ficam a cargo do mestre. Para mais 
 informações sobre aspectos divinos, 
-consulte o Capítulo 5.&lt;/p&gt;
+consulte o Capítulo 5.
 
-&lt;p&gt;Aspecto Divino:espírito 7, tamanho varia (veja a caixa na página a 
+Aspecto Divino:espírito 7, tamanho varia (veja a caixa na página a 
 seguir), tendência igual à do deus; desl. 
 9m; PV 70; CA 20; corpo-a-corpo: 
 pancada +12 (1d8+7) ou 2 pancadas 
@@ -281,7 +592,9 @@ Perícias &amp;amp; Talentos:Conhecimento
 (religião) +11, Iniciativa +12, Percepção 
 +12, mais duas perícias à escolha do 
 mestre; Armadura Natural Aprimorada, 
-Ataques Múltiplos, Foco em Arma (pancada), Vitalidade, Vontade de Ferro&lt;/p&gt;
+Ataques Múltiplos, Foco em Arma (pancada), Vitalidade, Vontade de Ferro
+&lt;/p&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
         <link>http://localhost:4000/spells/invocar-aspecto-divino</link>
@@ -320,24 +633,110 @@ Ataques Múltiplos, Foco em Arma (pancada), Vitalidade, Vontade de Ferro&lt;/p&g
     
       <item>
         <title>Imbuir Cura Acelerada</title>
-        <description>&lt;p&gt;&lt;strong&gt;Cura de nível 2&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;div style=&quot;float: left;max-width: 45%; padding: 7px; background-color: #f1f0e6;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Tempo de Execução:&lt;/strong&gt; Ação Padrão&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;:9 metros&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 9 metros;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura viva&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura viva;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duração:&lt;/strong&gt; 1 minuto&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 minuto;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt; nenhum &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum;&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Tags:&lt;/strong&gt;
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/#level2&quot;&gt;level2&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/bardo.html&quot;&gt;bardo&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/clerigo.html&quot;&gt;clerigo&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/abencoado.html&quot;&gt;abencoado&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/druida.html&quot;&gt;druida&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/paladino.html&quot;&gt;paladino&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/ranger.html&quot;&gt;ranger&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/cura.html&quot;&gt;cura&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/padrao.html&quot;&gt;padrao&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/metros.html&quot;&gt;metros&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/criatura.html&quot;&gt;criatura&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/minuto.html&quot;&gt;minuto&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/nenhum.html&quot;&gt;nenhum&lt;/a&gt;
+        
+    
+    
+&lt;/p&gt;
+&lt;/div&gt;
 
+&lt;div style=&quot;float: right;max-width: 45%; padding: 7px;&quot;&gt;
 &lt;p&gt;O alvo desta magia recebe cura 
 acelerada 3: no início de cada um de 
 seus turnos, recupera 3 PV. Cura acelerada não recupera PV perdidos por inanição, desidratação ou asfixia.  Apenas 
 criaturas vivas (com um valor não nulo 
 de Constituição) podem se beneficiar 
-desta magia.&lt;/p&gt;
+desta magia.
+&lt;/p&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
         <link>http://localhost:4000/spells/imbuir-cura-acelerada</link>
@@ -376,24 +775,92 @@ desta magia.&lt;/p&gt;
     
       <item>
         <title>Imbuir Cura Acelerada Suprema</title>
-        <description>&lt;p&gt;&lt;strong&gt;Cura de nível 8&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;div style=&quot;float: left;max-width: 45%; padding: 7px; background-color: #f1f0e6;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Tempo de Execução:&lt;/strong&gt; Ação Padrão&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;:9 metros&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 9 metros;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura viva &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura viva;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duração:&lt;/strong&gt; 1 minuto&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 minuto;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt; nenhum &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum;&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Tags:&lt;/strong&gt;
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/#level8&quot;&gt;level8&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/clerigo.html&quot;&gt;clerigo&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/abencoado.html&quot;&gt;abencoado&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/druida.html&quot;&gt;druida&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/cura.html&quot;&gt;cura&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/padrao.html&quot;&gt;padrao&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/metros.html&quot;&gt;metros&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/criatura.html&quot;&gt;criatura&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/minuto.html&quot;&gt;minuto&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/nenhum.html&quot;&gt;nenhum&lt;/a&gt;
+        
+    
+    
+&lt;/p&gt;
+&lt;/div&gt;
 
+&lt;div style=&quot;float: right;max-width: 45%; padding: 7px;&quot;&gt;
 &lt;p&gt;O alvo desta magia recebe cura 
 acelerada 12: no início de cada um de 
 seus turnos, recupera 12 PV. Cura acelerada não recupera PV perdidos por inanição, desidratação ou asfixia.  Apenas 
 criaturas vivas (com um valor não nulo 
 de Constituição) podem se beneficiar 
-desta magia.&lt;/p&gt;
+desta magia.
+&lt;/p&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
         <link>http://localhost:4000/spells/imbuir-cura-acelerada-suprema</link>
@@ -426,24 +893,98 @@ desta magia.&lt;/p&gt;
     
       <item>
         <title>Imbuir Cura Acelerada Maior</title>
-        <description>&lt;p&gt;&lt;strong&gt;Cura de nível 5&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;div style=&quot;float: left;max-width: 45%; padding: 7px; background-color: #f1f0e6;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Tempo de Execução:&lt;/strong&gt; Ação Padrão&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;:9 metros&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 9 metros;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura viva &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura viva;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duração:&lt;/strong&gt; 1 minuto&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: 1 minuto;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt; nenhum &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: nenhum;&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Tags:&lt;/strong&gt;
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/#level5&quot;&gt;level5&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/bardo.html&quot;&gt;bardo&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/clerigo.html&quot;&gt;clerigo&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/abencoado.html&quot;&gt;abencoado&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/druida.html&quot;&gt;druida&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/cura.html&quot;&gt;cura&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/padrao.html&quot;&gt;padrao&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/metros.html&quot;&gt;metros&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/criatura.html&quot;&gt;criatura&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/minuto.html&quot;&gt;minuto&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/nenhum.html&quot;&gt;nenhum&lt;/a&gt;
+        
+    
+    
+&lt;/p&gt;
+&lt;/div&gt;
 
+&lt;div style=&quot;float: right;max-width: 45%; padding: 7px;&quot;&gt;
 &lt;p&gt;O alvo desta magia recebe cura 
 acelerada 7: no início de cada um de 
 seus turnos, recupera 7 PV. Cura acelerada não recupera PV perdidos por inanição, desidratação ou asfixia.  Apenas 
 criaturas vivas (com um valor não nulo 
 de Constituição) podem se beneficiar 
-desta magia.&lt;/p&gt;
+desta magia.
+&lt;/p&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
         <link>http://localhost:4000/spells/imbuir-cura-acelerada-maior</link>
@@ -478,19 +1019,115 @@ desta magia.&lt;/p&gt;
     
       <item>
         <title>Gêiser</title>
-        <description>&lt;p&gt;&lt;strong&gt;Água/Fogo de nível 4&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;div style=&quot;float: left;max-width: 45%; padding: 7px; background-color: #f1f0e6;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Tempo de Execução:&lt;/strong&gt; Ação Padrão&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 15 metros&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: 15 metros;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Efeito&lt;/strong&gt;:  um jorro; &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Efeito&lt;/strong&gt;: um jorro;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt; instantânea &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: instantânea;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;Reflexos Anula&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Tags:&lt;/strong&gt;
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/#level4&quot;&gt;level4&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/bardo.html&quot;&gt;bardo&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/clerigo.html&quot;&gt;clerigo&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/abencoado.html&quot;&gt;abencoado&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/druida.html&quot;&gt;druida&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/paladino.html&quot;&gt;paladino&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/ranger.html&quot;&gt;ranger&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/agua.html&quot;&gt;agua&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/fogo.html&quot;&gt;fogo&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/padrao.html&quot;&gt;padrao&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/metros.html&quot;&gt;metros&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/outro.html&quot;&gt;outro&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/instantanea.html&quot;&gt;instantanea&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/reflexo.html&quot;&gt;reflexo&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/anula.html&quot;&gt;anula&lt;/a&gt;
+        
+    
+    
+&lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: Reflexos anula;&lt;/p&gt;
-
-&lt;p&gt;Esta magia só pode ser lançada 
+&lt;div style=&quot;float: right;max-width: 45%; padding: 7px;&quot;&gt;
+&lt;p&gt;
+Esta magia só pode ser lançada 
 sobre um solo de pedra ou de terra — 
 não funciona em pântanos, desertos ou 
 oceanos, por exemplo, mas funciona em 
@@ -503,7 +1140,9 @@ da área afetada sofre 6d8 pontos de
 dano de fogo e fica caída. Um teste de 
 Reflexos reduz o dano à metade e evita a 
 queda. Esta magia só pode ser aprendida 
-e lançada por druidas.&lt;/p&gt;
+e lançada por druidas.
+&lt;/p&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
         <link>http://localhost:4000/spells/geiser</link>
@@ -546,24 +1185,104 @@ e lançada por druidas.&lt;/p&gt;
     
       <item>
         <title>Envenenamento em Massa</title>
-        <description>&lt;p&gt;&lt;strong&gt;Necromancia de nível 6&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;div style=&quot;float: left;max-width: 45%; padding: 7px; background-color: #f1f0e6;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Tempo de Execução:&lt;/strong&gt; Ação Padrão&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tempo de Execução&lt;/strong&gt;: Ação Padrão;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: toque&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alcance&lt;/strong&gt;: toque;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura&lt;/p&gt; viva;
 
-&lt;p&gt;&lt;strong&gt;Alvo&lt;/strong&gt;: 1 criatura viva;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt; instantânea &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Duração&lt;/strong&gt;: instantânea;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: Fortitude anula&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Tags:&lt;/strong&gt;
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/#level6&quot;&gt;level6&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/bardo.html&quot;&gt;bardo&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/clerigo.html&quot;&gt;clerigo&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/abencoado.html&quot;&gt;abencoado&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/druida.html&quot;&gt;druida&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/necromancia.html&quot;&gt;necromancia&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/padrao.html&quot;&gt;padrao&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/toque.html&quot;&gt;toque&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/criatura.html&quot;&gt;criatura&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/instantanea.html&quot;&gt;instantanea&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/fortitude.html&quot;&gt;fortitude&lt;/a&gt;
+        
+    
+    
+   
+        
+          &lt;a href=&quot;/grimorio-trpg/tags/anula.html&quot;&gt;anula&lt;/a&gt;
+        
+    
+    
+&lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;Teste de Resistência&lt;/strong&gt;: Fortitude anula;&lt;/p&gt;
+&lt;div style=&quot;float: right;max-width: 45%; padding: 7px;&quot;&gt;
+&lt;p&gt;
 
-&lt;p&gt;Como envenenamento(causa 1d10 
+Como envenenamento(causa 1d10 
 pontos de dano em Constituição), mas 
 afeta a criatura tocada e até 6 criaturas 
 que você escolher e que estejam a até 
 12m da criatura tocada. Cada alvo tem 
-direito a um teste de Fortitude.&lt;/p&gt;
+direito a um teste de Fortitude.
+&lt;/p&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Thu, 17 Nov 2016 00:00:00 -0200</pubDate>
         <link>http://localhost:4000/spells/envenenamento-em-massa</link>
