@@ -257,6 +257,39 @@
       </div>
       </dt>
       </dl>
+	  
+<!----- Deuses ----->
+	   <dl>
+      <dt>
+    <div class="table-like">Deuses</div>
+      <div class="table-like">
+        <select id="deuses" class="jetsSearch">
+          <option>Todas</option>
+          <option value="megalokk">Megalokk</option>
+		<option value="keenn">Keenn</option>
+		<option value="marah">Marah</option>
+		<option value="allihanna">Allihanna</option>
+		<option value="wynna">Wynna</option>
+		<option value="khalmyr">Khalmyr</option>
+		<option value="sszzas">Sszzas</option>
+		<option value="azgher">Azgher</option>
+		<option value="linwu">Lin Wu</option>
+		<option value="kallyandranoch">Kallyandranoch</option>
+		<option value="tenebra">Tenebra</option>
+		<option value="hyninn">Hyninn</option>
+		<option value="ragnar">Ragnar</option>
+		<option value="tauron">Tauron</option>
+		<option value="lena">Lena</option>
+		<option value="thyatis">Thyatis</option>
+		<option value="oceano">Oceano</option>
+		<option value="tannatoh">tannatoh</option>
+		<option value="nimb">nimb</option>
+		<option value="valkaria">Valkaria</option>
+         
+        </select>
+      </div>
+      </dt>
+      </dl>
 
   </div>
 
@@ -3945,6 +3978,10 @@ $("body").on("change", ".jetsSearch", function() {
   if($("#ingrediente").val() != "Todas"){
     getClass = getClass + "."+$("#ingrediente").val();
   }
+	      
+  if($("#deuses").val() != "Todas"){
+    getClass = getClass + "."+$("#deuses").val();
+  }	      
 
   $(".spell-item").removeAttr("style"); 
   
