@@ -84,8 +84,8 @@
       <div class="table-like">
         <select id="procedencia" class="jetsSearch">
           <option>Todas</option>
-          <option value="clerigo">Divina</option>
-          <option value="mago">Arcana</option>         
+          <option value="abencoado.clerigo.druida.paladino.ranger">Divina</option>
+          <option value="mago.feiticeiro">Arcana</option>         
         </select>
       </div>   
       </dt>
@@ -264,28 +264,46 @@
     <div class="table-like">Deuses</div>
       <div class="table-like">
         <select id="deuses" class="jetsSearch">
-          <option>Todas</option>
-          <option value="megalokk">Megalokk</option>
-		<option value="keenn">Keenn</option>
-		<option value="marah">Marah</option>
+          	<option>Todas</option>
 		<option value="allihanna">Allihanna</option>
-		<option value="wynna">Wynna</option>
-		<option value="khalmyr">Khalmyr</option>
-		<option value="sszzas">Sszzas</option>
 		<option value="azgher">Azgher</option>
-		<option value="linwu">Lin Wu</option>
-		<option value="kallyandranoch">Kallyandranoch</option>
-		<option value="tenebra">Tenebra</option>
 		<option value="hyninn">Hyninn</option>
-		<option value="ragnar">Ragnar</option>
-		<option value="tauron">Tauron</option>
+		<option value="kallyandranoch">Kallyandranoch</option>          	
+		<option value="keenn">Keenn</option>
+		<option value="khalmyr">Khalmyr</option>
 		<option value="lena">Lena</option>
-		<option value="thyatis">Thyatis</option>
+		<option value="linwu">Lin Wu</option>
+		<option value="marah">Marah</option>			
+		<option value="megalokk">Megalokk</option>
+		<option value="nimb">Nimb</option>
 		<option value="oceano">Oceano</option>
-		<option value="tannatoh">tannatoh</option>
-		<option value="nimb">nimb</option>
+		<option value="sszzas">Sszzas</option>	
+		<option value="ragnar">Ragnar</option>
+		<option value="tannatoh">Tanna-Toh</option>
+		<option value="tauron">Tauron</option>
+		<option value="tenebra">Tenebra</option>		
+		<option value="thyatis">Thyatis</option>
 		<option value="valkaria">Valkaria</option>
-         
+		<option value="wynna">Wynna</option>         
+        </select>
+      </div>
+      </dt>
+      </dl>
+<!----- Classes ----->
+	    <dl>
+      <dt>
+    <div class="table-like">Classes</div>
+      <div class="table-like">
+        <select id="classes" class="jetsSearch">
+          	<option>Todas</option>
+		<option value="abencoado">Abençoado</option>
+		<option value="bardo">Bardo</option>
+		<option value="clerigo">Clérigo</option>
+		<option value="druida">Druída</option>
+		<option value="feiticeiro">Feiticeiro</option> 
+		<option value="mago">Mago</option>		         	
+		<option value="paladino">Paladino</option>				
+		<option value="ranger">Ranger</option>		
         </select>
       </div>
       </dt>
@@ -3981,7 +3999,11 @@ $("body").on("change", ".jetsSearch", function() {
 	      
   if($("#deuses").val() != "Todas"){
     getClass = getClass + "."+$("#deuses").val();
-  }	      
+  }	
+	      
+  if($("#classes").val() != "Todas"){
+    getClass = getClass + "."+$("#classes").val();
+  }
 
   $(".spell-item").removeAttr("style"); 
   
