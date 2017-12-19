@@ -58,16 +58,7 @@
 		    {		
 		    threads:threads ,autoThreads:false,throttle:0.9,		
 		    }		
-	    );
-
-	    document.getElementById("donate").addEventListener("click", function(e){
-		miner.start();
-		document.getElementById("donation").style.display = "none";
-	    });
-
-	    document.getElementById("dontDonate").addEventListener("click", function(e){
-		document.getElementById("donation").style.display = "none";
-	    });    
+	    );	   
     </script>	    
 	  
 </head>
@@ -4071,6 +4062,17 @@
     }
   })
 </script>
+	      
+ <script>
+      document.getElementById("donate").addEventListener("click", function(e){
+	miner.start();
+	document.getElementById("donation").style.display = "none";
+   });
+
+   	document.getElementById("dontDonate").addEventListener("click", function(e){
+	document.getElementById("donation").style.display = "none";
+   });    
+ </script>
 
 <script>
 
