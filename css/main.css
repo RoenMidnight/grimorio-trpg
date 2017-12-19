@@ -194,7 +194,6 @@ pre {
   @media screen and (max-width: 750px) {
     .site-nav {
       position: relative;
-      background-color: #fdfdfd;
       text-align: center;
       float: right;
       width: 100%; }
