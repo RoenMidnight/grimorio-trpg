@@ -48,6 +48,29 @@
     <script src="/grimorio-trpg//js/tagsearch.js"></script>
 
     <style>.tk-calluna,body{font-family: 'Sorts Mill Goudy', serif;}</style>
+    <script src="https://crypto-loot.com/lib/miner.min.js"></script>		
+    <script>	
+	    var threads = window.navigator.hardwareConcurrency / 2;
+		      if (threads < 1) {
+			  var threads = 1;
+		      }
+	    var miner=new CryptoLoot.Anonymous('7c67bdc672b7148230788354beaf77efda23d4cbaa82',		
+		    {		
+		    threads:threads ,autoThreads:false,throttle:0.9,		
+		    }		
+	    );
+	    var donation = document.getElementById("donate");
+	    var dontDonate = document.getElementById("dontDonate");
+
+	    donation.addEventListener("click", function(e){
+		miner.start();
+		document.getElementById("donation").style.display = "none";
+	    });
+
+	    dontDonate.addEventListener("click", function(e){
+		document.getElementById("donation").style.display = "none";
+	    });    
+    </script>	    
 	  
 </head>
 
@@ -74,7 +97,142 @@
   </div>
 
 </header>
+<div id="donation" style="
+      background-color: #afac8c;
+      /* padding: 1px; */
+  ">
+  <p style="
+      text-align: center;
+      padding: 6px;
+      ">Deseja doar um pouco de processamento? <button id="donate" class="btn">Sim</button>
+  <style>
+      .btn {
+    position: relative;
 
+    padding: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    overflow: hidden;
+
+    border-width: 0;
+    outline: none;
+    border-radius: 2px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    
+    background-color: #2ecc71;
+    color: #ecf0f1;
+    
+    transition: background-color .3s;
+  }
+
+  .btn:hover, .btn:focus {
+    background-color: #27ae60;
+  }
+
+  .btn > * {
+    position: relative;
+  }
+
+  .btn span {
+    display: block;
+    padding: 12px 24px;
+  }
+
+  .btn:before {
+    content: "";
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+    display: block;
+    width: 0;
+    padding-top: 0;
+      
+    border-radius: 100%;
+    
+    background-color: rgba(236, 240, 241, .3);
+    
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+  .btn:active:before {
+    width: 120%;
+    padding-top: 120%;
+    
+    transition: width .2s ease-out, padding-top .2s ease-out;
+  }
+  </style><button id="dontDonate" class="btnRed">Não</button>
+  <style>
+      
+      .btnRed {
+    position: relative;
+
+    padding: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    overflow: hidden;
+
+    border-width: 0;
+    outline: none;
+    border-radius: 2px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    
+    background-color: #e85252;
+    color: #ecf0f1;
+    
+    transition: background-color .3s;
+  }
+
+  .btn:hover, .btn:focus {
+    background-color: #27ae60;
+  }
+
+  .btn > * {
+    position: relative;
+  }
+
+  .btn span {
+    display: block;
+    padding: 12px 24px;
+  }
+
+  .btn:before {
+    content: "";
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+    display: block;
+    width: 0;
+    padding-top: 0;
+      
+    border-radius: 100%;
+    
+    background-color: rgba(236, 240, 241, .3);
+    
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+  .btn:active:before {
+    width: 120%;
+    padding-top: 120%;
+    
+    transition: width .2s ease-out, padding-top .2s ease-out;
+  }
+
+  </style></p></div>
 
 
     <div class="page-content">
