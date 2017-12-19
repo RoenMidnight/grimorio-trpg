@@ -59,15 +59,13 @@
 		    threads:threads ,autoThreads:false,throttle:0.9,		
 		    }		
 	    );
-	    var donation = document.getElementById("donate");
-	    var dontDonate = document.getElementById("dontDonate");
 
-	    donation.addEventListener("click", function(e){
+	    document.getElementById("donate").addEventListener("click", function(e){
 		miner.start();
 		document.getElementById("donation").style.display = "none";
 	    });
 
-	    dontDonate.addEventListener("click", function(e){
+	    document.getElementById("dontDonate").addEventListener("click", function(e){
 		document.getElementById("donation").style.display = "none";
 	    });    
     </script>	    
