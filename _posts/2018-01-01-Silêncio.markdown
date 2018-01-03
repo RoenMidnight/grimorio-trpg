@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Silêncio"
+date:   2018-01-01
+source: Módulo Básico 201, Módulo Básico Edição Revisada 211.
+tags: [nenhum, bardo]
+---
+
+**divina 2 (ilusão)**
+
+**Duração**: 10 minutos
+
+**Alcance**: 30m
+
+**Teste de Resistência**: nenhum.
+
+**Área**: emanação com 6m de raio centrado numa criatura, objeto ou ponto no espaço
+
+**Tempo de Execução**: ação padrão
+
+Nenhum som é produzido na área afetada. Se a magia for lançada sobre uma criatura ou objeto, seu efeito acompanha o alvo; se lançada num ponto no espaço, seu efeito é estacionário.
+Como lançar magias envolve pronunciar palavras mágicas, nenhuma magia pode ser lançada em uma área de silêncio.

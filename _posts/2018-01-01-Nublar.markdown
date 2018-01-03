@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Nublar"
+date:   2018-01-01
+source: Módulo Básico 188, Módulo Básico Edição Revisada 198.
+tags: [nenhum, bardo]
+---
+
+**arcana 2 (ilusão)**
+
+**Alcance**: toque
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: 1 minuto
+
+**Alvo**: 1 criatura
+
+**Tempo de Execução**: ação padrão
+
+O alvo não pode ser visto com clareza, ficando com contornos borrados e ondulantes. Isso fornece os mesmo benefícios de camuflagem (20% de chance de falha).

@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Bom Fruto"
+date:   2018-01-01
+source: Módulo Básico 156, Módulo Básico Edição Revisada 166.
+tags: [nenhum, bardo]
+---
+
+**divina 1 (transmutação)**
+
+**Alcance**: toque
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: 1 dia
+
+**Alvo**: até 4 frutos
+
+**Tempo de Execução**: ação padrão
+
+Você transforma até quatro frutos frescos, recém colhidos, em itens mágicos.
+Cada fruto alimenta uma criatura de tamanho Médio como se fosse uma refeição completa, e recupera 1d4 pontos de vida.

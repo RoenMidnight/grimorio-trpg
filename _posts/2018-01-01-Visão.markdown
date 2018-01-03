@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Visão"
+date:   2018-01-01
+source: Módulo Básico 208, Módulo Básico Edição Revisada 218.
+tags: [nenhum, bardo]
+---
+
+**arcana 7 (adivinhação)**
+
+**Tempo de Execução**: ação padrão.
+
+Como lendas e histórias, mas funciona mais rapidamente, embora deixe o conjurador cansado.
+Você faz uma pergunta sobre uma pessoa, objeto ou lugar, lança esta magia e faz um teste de Identificar Magia. A dificuldade é CD 20 se você estiver tocando o alvo; CD 25 se não está tocando o alvo, mas já possui informações sobre ele; e CD 30 se não está tocando o alvo e ainda não possui informações sobre ele.
+Se você for bem-sucedido, recebe informações sobre o alvo, como em lendas e histórias. Você fica exausto por 10 minutos após lançar esta magia.
+Custo de XP: 100 XP.

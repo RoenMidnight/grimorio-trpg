@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Luz"
+date:   2018-01-01
+source: Módulo Básico 181, Módulo Básico Edição Revisada 191.
+tags: [nenhum, bardo]
+---
+
+**arcana 0, divina 0 (luz)**
+
+**Alcance**: toque
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: 1 hora
+
+**Alvo**: 1 objeto
+
+**Tempo de Execução**: ação padrão
+
+Esta magia faz um objeto brilhar como uma tocha, iluminando de forma equivalente, mas sem calor.

@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Teia"
+date:   2018-01-01
+source: Módulo Básico 204, Módulo Básico Edição Revisada 214.
+tags: [nenhum, bardo]
+---
+
+**arcana 2 (terra)**
+
+**Alcance**: 30m
+
+**Teste de Resistência**: Reflexos anula.
+
+**Duração**: 1 hora
+
+**Efeito**: teias em uma dispersão com 6m de raio
+
+**Tempo de Execução**: ação padrão
+
+Teia cria várias camadas de fibras entrelaçadas e pegajosas. Qualquer criatura na área deve fazer um teste de Reflexos; se falhar, ficará enredada e não poderá se mover. A vítima pode se libertar com uma ação completa e um teste de Força (CD 20) ou Acrobacia (CD 25).
+Um quadrado ocupado por teia é considerado terreno difícil, e qualquer criatura que termine seu turno ali deve fazer um teste de Reflexos ou ficará enredada.
+A teia é inflamável. Qualquer fogo vai queimar um quadrado por rodada, causando 2d6 pontos de dano em qualquer criatura enredada (além do dano causado pelo fogo em si).

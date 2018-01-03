@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Alarme"
+date:   2018-01-01
+source: Módulo Básico 150, Módulo Básico Edição Revisada 160.
+tags: [nenhum, bardo]
+---
+
+**arcana 1 (abjuração)**
+
+**Duração**: 1 dia
+
+**Alcance**: 9m
+
+**Teste de Resistência**: nenhum.
+
+**Área**: emanação de 6m de raio centrada em um ponto no espaço
+
+**Tempo de Execução**: ação padrão
+
+Alarme emite um aviso telepático ou sonoro (decidido quando a magia é lançada) sempre que uma criatura Diminuta ou maior invadir ou tocar a área protegida.
+Um aviso telepático alerta apenas o conjurador, inclusive acordando-o se ele estiver dormindo, mas apenas se ele estiver a até 1km da área. Um aviso sonoro alerta todos num raio de 30m da área.
+Uma criatura que diga a senha (decidida quando a magia é lançada) não dispara o alarme.

@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Medo"
+date:   2018-01-01
+source: Módulo Básico 183, Módulo Básico Edição Revisada 193.
+tags: [nenhum, bardo]
+---
+
+**arcana 4 (medo, necromancia)**
+
+**Duração**: 1 minuto ou 1 rodada (veja texto)
+
+**Alcance**: 9m
+
+**Teste de Resistência**: Vontade parcial.
+
+**Área**: explosão em cone
+
+**Tempo de Execução**: ação padrão
+
+As criaturas afetadas ficam apavoradas por um minuto. Uma criatura bem-sucedida no teste de Vontade, em vez disso, fica abalada por uma rodada.

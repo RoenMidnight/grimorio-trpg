@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Perdição"
+date:   2018-01-01
+source: Módulo Básico 191, Módulo Básico Edição Revisada 201.
+tags: [nenhum, bardo]
+---
+
+**divina 1 (encantamento)**
+
+**Alcance**: 9m
+
+**Teste de Resistência**: Vontade anula.
+
+**Duração**: 1 minuto
+
+**Alvo**: todos os inimigos dentro de 9m
+
+**Tempo de Execução**: ação padrão
+
+Seus inimigos sofrem uma penalidade de –1 nas jogadas de ataque e testes de resistência contra medo.
+Perdição anula bênção.

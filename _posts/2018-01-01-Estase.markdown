@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Estase"
+date:   2018-01-01
+source: Manual do Arcano 76.
+tags: [nenhum, bardo]
+---
+
+**arcana 7 (tempo)**
+
+**Alcance**: toque
+
+**Teste de Resistência**: Vontade anula.
+
+**Duração**: permanente ou até uma condição específica (veja o texto)
+
+**Alvo**: 1 criatura em repouso ou você
+
+**Tempo de Execução**: 1 minuto
+
+Esta magia desacelera o metabolismo do alvo, chegando muito perto de “desativar” seu corpo. A criatura entra em um estado de torpor, no qual irá dormir para sempre, sem envelhecer ou curar-se de ferimentos. Ela pode ser acordada apenas pelas magias remover encantamento, desejo ou desejo restrito. O conjurador também pode definir uma condição especial para que a criatura desperte do seu sono eterno. Por exemplo, quando o último dragão de Arton morrer, ou ao receber um beijo de um príncipe.

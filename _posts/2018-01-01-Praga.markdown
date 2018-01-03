@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Praga"
+date:   2018-01-01
+source: Módulo Básico 193, Módulo Básico Edição Revisada 203.
+tags: [nenhum, bardo]
+---
+
+**arcana 4, divina 3 (necromancia)**
+
+**Alcance**: toque
+
+**Teste de Resistência**: Fortitude anula.
+
+**Duração**: instantânea
+
+**Alvo**: 1 criatura
+
+**Tempo de Execução**: ação padrão
+
+O alvo contrai uma doença à sua escolha, que o afeta imediatamente (sem período de incubação). Veja o Capítulo 10: O Mestre, para a descrição das doenças.

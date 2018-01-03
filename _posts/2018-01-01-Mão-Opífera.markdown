@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Mão Opífera"
+date:   2018-01-01
+source: Módulo Básico 182, Módulo Básico Edição Revisada 192.
+tags: [nenhum, bardo]
+---
+
+**divina 3 (adivinhação)**
+
+**Alcance**: 10km
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: 1 hora
+
+**Efeito**: mão incorpórea
+
+**Tempo de Execução**: ação padrão
+
+Esta magia cria uma mão fantasmagórica, que voa até alcançar alguém à sua escolha. Quando a mão encontra essa criatura, retorna guiando-a até você.
+A mão tem deslocamento de 18m, mas espera pela criatura que estiver guiando. Se a criatura escolhida não está dentro do alcance da magia, a mão apenas mostra sua palma para você, indicando que não encontrou o alvo, e então desaparece.

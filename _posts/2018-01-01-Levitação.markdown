@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Levitação"
+date:   2018-01-01
+source: Módulo Básico 180, Módulo Básico Edição Revisada 190.
+tags: [nenhum, bardo]
+---
+
+**arcana 2 (transmutação)**
+
+**Alcance**: 9m
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: 1 minuto (D)
+
+**Alvo**: você, uma criatura voluntária ou um objeto com até 100kg
+
+**Tempo de Execução**: ação padrão
+
+Levitação permite que você, uma criatura voluntária ou um objeto livre com até 100kg flutue para cima e para baixo conforme sua vontade.
+Você pode gastar uma ação de movimento para subir ou descer até 6m por rodada. Você não pode mover o alvo horizontalmente — mas o alvo pode, por exemplo, escalar uma colina ou se apoiar no teto para mover-se lateralmente (com metade de seu deslocamento normal).
+Uma criatura levitando fica instável, sofrendo –2 nas jogadas de ataque.

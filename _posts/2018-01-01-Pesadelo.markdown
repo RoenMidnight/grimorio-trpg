@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Pesadelo"
+date:   2018-01-01
+source: Módulo Básico 192, Módulo Básico Edição Revisada 202.
+tags: [nenhum, bardo]
+---
+
+**arcana 5 (ilusão)**
+
+**Alcance**: ilimitado
+
+**Teste de Resistência**: Vontade anula.
+
+**Duração**: instantânea
+
+**Alvo**: 1 criatura viva
+
+**Tempo de Execução**: 10 minutos
+
+O alvo tem pesadelos terríveis na próxima vez que dormir, impedindo qualquer recuperação normalmente oferecida por um sono tranquilo (como pontos de vida e de magia). Além disso, causa 1d10 pontos de dano e faz o alvo acordar fatigado.
+A vítima recebe bônus ou penalidades em seu teste de resistência, dependendo do conhecimento que você tiver dela. Use os mesmos modificadores da magia vidência.

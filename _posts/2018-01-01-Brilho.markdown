@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Brilho"
+date:   2018-01-01
+source: Módulo Básico 157, Módulo Básico Edição Revisada 167.
+tags: [nenhum, bardo]
+---
+
+**arcana 0, divina 0 (luz)**
+
+**Alcance**: 9m
+
+**Teste de Resistência**: Fortitude anula.
+
+**Duração**: 1 minuto
+
+**Alvo**: 1 criatura
+
+**Tempo de Execução**: ação padrão
+
+Este truque cria uma explosão de luz brilhante perto do rosto do alvo, que fica ofuscado (–1 nas jogadas de ataque). Esta magia não afeta criaturas cegas.

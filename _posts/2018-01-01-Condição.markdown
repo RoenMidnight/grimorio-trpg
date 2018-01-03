@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Condição"
+date:   2018-01-01
+source: Módulo Básico 161, Módulo Básico Edição Revisada 171.
+tags: [nenhum, bardo]
+---
+
+**divina 2 (adivinhação)**
+
+**Alcance**: toque
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: 1 dia
+
+**Alvo**: até 5 criaturas tocadas
+
+**Tempo de Execução**: ação padrão
+
+Pela duração da magia, você sabe mentalmente a posição e condição (quantos PV tem, se ela está sob efeito de magia...) das criaturas tocadas. Depois de conjurada, a distância entre o conjurador e os alvos não importa — a magia só deixa de detectar um alvo se ele morrer ou viajar para outro plano de existência.

@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Oração"
+date:   2018-01-01
+source: Módulo Básico 189, Módulo Básico Edição Revisada 199.
+tags: [nenhum, bardo]
+---
+
+**divina 3 (encantamento)**
+
+**Duração**: 1 minuto
+
+**Alvos**: todos os aliados e inimigos a até 9m
+
+**Teste de Resistência**: nenhum.
+
+**Alcance**: 9m
+
+**Tempo de Execução**: ação padrão
+
+Seus aliados recebem +1 em todas as jogadas e testes, enquanto que seus inimigos sofrem uma penalidade de –1.

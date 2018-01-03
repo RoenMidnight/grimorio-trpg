@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Proibição"
+date:   2018-01-01
+source: Módulo Básico 194, Módulo Básico Edição Revisada 204.
+tags: [nenhum, bardo]
+---
+
+**divina 6 (abjuração)**
+
+**Duração**: permanente
+
+**Alcance**: 9m
+
+**Teste de Resistência**: nenhum.
+
+**Área**: cubo com 9m de lado
+
+**Tempo de Execução**: 1 minuto
+
+Esta magia impede todas as viagens planares para a área, e a partir dela. Isso inclui todas as magias de invocação (como porta dimensional, teletransporte e viagem planar), além de viagens astrais, etéreas ou pelo Plano das Sombras.
+Além disso, a proibição causa dano em criaturas com tendência diferente da sua. Criaturas com tendência a um passo da sua sofrem 6d6 pontos de dano quando entram na área. Criaturas com tendência a dois ou mais passos da sua sofrem 12d6 pontos de dano.
+Componentes materiais: água benta e incensos raros no valor total de 1.000 TO.

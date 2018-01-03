@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Confusão"
+date:   2018-01-01
+source: Módulo Básico 161, Módulo Básico Edição Revisada 171.
+tags: [nenhum, bardo]
+---
+
+**arcana 4 (encantamento)**
+
+**Duração**: 1 minuto
+
+**Alcance**: 30m
+
+**Teste de Resistência**: Vontade anula.
+
+**Área**: explosão com 6m de raio
+
+**Tempo de Execução**: ação padrão
+
+As criaturas na área se comportam de modo aleatório. Role 1d6 no início de cada turno de cada criatura afetada para descobrir sua ação:
+1) Foge do conjurador.
+2-3) Não faz nada (fica balbuciando incoerentemente).
+4-5) Ataca a criatura mais próxima.
+6) Age normalmente.

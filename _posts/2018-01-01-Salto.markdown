@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Salto"
+date:   2018-01-01
+source: Módulo Básico 200, Módulo Básico Edição Revisada 210.
+tags: [nenhum, bardo]
+---
+
+**arcana 1 (transmutação)**
+
+**Alcance**: toque
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: 1 minuto
+
+**Alvo**: 1 criatura
+
+**Tempo de Execução**: ação padrão
+
+O alvo é capaz de pular como um grilo (ou sapo, pulga...), recebendo +30 em testes de Atletismo para saltar.

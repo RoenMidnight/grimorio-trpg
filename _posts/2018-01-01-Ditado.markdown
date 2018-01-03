@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Ditado"
+date:   2018-01-01
+source: Módulo Básico 169, Módulo Básico Edição Revisada 179.
+tags: [nenhum, bardo]
+---
+
+**divina 7 (ordem, sônico)**
+
+**Duração**: instantânea
+
+**Alcance**: 9m
+
+**Teste de Resistência**: Vontade anula.
+
+**Área**: dispersão com 9m de raio
+
+**Tempo de Execução**: ação padrão
+
+As criaturas não Leais na área sofrem um efeito que depende de seu Nível:
+• Acima de 14º Nível: ficam surdas por 1d4 rodadas.
+• Entre 7º e 14º Nível: ficam lentas (como na magia lentidão) por 2d4 rodadas e surdas por 1d4 rodadas.
+• Abaixo de 7º Nível: morrem.
+Além disso, se você estiver em seu plano nativo, todos os espíritos não Leais são banidos para seu plano de origem.

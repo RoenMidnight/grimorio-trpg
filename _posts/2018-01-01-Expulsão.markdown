@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Expulsão"
+date:   2018-01-01
+source: Módulo Básico 173, Módulo Básico Edição Revisada 183.
+tags: [nenhum, bardo]
+---
+
+**arcana 5, divina 4 (abjuração)**
+
+**Alcance**: 9m
+
+**Teste de Resistência**: Vontade anula.
+
+**Duração**: instantânea
+
+**Alvo**: 1 espírito ou criatura invocada
+
+**Tempo de Execução**: ação padrão
+
+O alvo desta magia é expulso de volta a seu plano nativo. O alvo recebe um bônus de +4 no teste de resistência se tiver mais níveis que o conjurador desta magia.

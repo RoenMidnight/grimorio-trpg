@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Virtude"
+date:   2018-01-01
+source: Módulo Básico 208, Módulo Básico Edição Revisada 218.
+tags: [nenhum, bardo]
+---
+
+**divina 0 (transmutação)**
+
+**Alcance**: toque
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: 1 minuto
+
+**Alvo**: 1 criatura
+
+**Tempo de Execução**: ação padrão
+
+O alvo ganha 1 PV temporário. PV temporários não são cumulativos.

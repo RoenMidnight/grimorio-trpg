@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Compor"
+date:   2018-01-01
+source: Módulo Básico 160, Módulo Básico Edição Revisada 170.
+tags: [nenhum, bardo]
+---
+
+**arcana 5 (transmutação)**
+
+**Alcance**: 9m
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: instantânea
+
+**Alvo**: até 250kg de equipamento
+
+**Tempo de Execução**: ação completa
+
+Você muda a forma de até 250kg de equipamento, mas mantendo o mesmo tipo de matéria. Por exemplo, você pode transformar uma pilha de lenha em uma ponte de madeira. Para fazer um item complexo você também precisa ser bem-sucedido em um teste de Ofício correspondente.
+Componente material: matéria original no mesmo valor da matéria-prima necessária para fazer o item.

@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Criar Água"
+date:   2018-01-01
+source: Módulo Básico 163, Módulo Básico Edição Revisada 173.
+tags: [nenhum, bardo]
+---
+
+**divina 1 (água)**
+
+**Alcance**: toque
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: instantânea
+
+**Alvo**: 1 odre
+
+**Tempo de Execução**: ação padrão
+
+Esta magia enche um odre (ou outro recipiente pequeno, como um jarro) com água pura e potável.

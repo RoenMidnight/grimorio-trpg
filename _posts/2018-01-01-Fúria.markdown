@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Fúria"
+date:   2018-01-01
+source: Módulo Básico 174, Módulo Básico Edição Revisada 184.
+tags: [nenhum, bardo]
+---
+
+**arcana 3 (encantamento)**
+
+**Alcance**: 30m
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: 1 minuto (D)
+
+**Alvo**: 1 criatura voluntária
+
+**Tempo de Execução**: ação padrão
+
+O alvo fica furioso como um bárbaro. Ele recebe os benefícios da habilidade de classe fúria (+2 nas jogadas de ataque e dano, redução de dano 1, CA–2).

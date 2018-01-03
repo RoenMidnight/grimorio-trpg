@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Lentidão"
+date:   2018-01-01
+source: Módulo Básico 180, Módulo Básico Edição Revisada 190.
+tags: [nenhum, bardo]
+---
+
+**arcana 3 (tempo)**
+
+**Duração**: 1 minuto
+
+**Alvos**: até cinco criaturas, todas a até 9m
+
+**Teste de Resistência**: Vontade anula.
+
+**Alcance**: 9m
+
+**Tempo de Execução**: ação padrão
+
+As criaturas afetadas se movem e atacam lentamente. Em vez de uma ação padrão e uma ação de movimento, a vítima só pode executar uma ação padrão ou uma ação de movimento por rodada. Além disso, sofre penalidade de –2 nas jogadas de ataque, CA e testes de Reflexos.
+Lentidão dissipa velocidade.

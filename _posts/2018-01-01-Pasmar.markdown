@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Pasmar"
+date:   2018-01-01
+source: Módulo Básico 190, Módulo Básico Edição Revisada 200.
+tags: [nenhum, bardo]
+---
+
+**arcana 0 (encantamento)**
+
+**Alcance**: 9m
+
+**Teste de Resistência**: Vontade anula.
+
+**Duração**: 1 rodada
+
+**Alvo**: 1 humanoide de até 4º nível
+
+**Tempo de Execução**: ação padrão
+
+Este truque confunde a mente do alvo. Se ele falhar em um teste de Vontade, fica pasmo (incapaz de realizar ações) por uma rodada.

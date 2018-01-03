@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Luz do Dia"
+date:   2018-01-01
+source: Módulo Básico 181, Módulo Básico Edição Revisada 191.
+tags: [nenhum, bardo]
+---
+
+**arcana 3, divina 3 (luz)**
+
+**Alcance**: toque
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: 1 hora (D)
+
+**Alvo**: 1 objeto
+
+**Tempo de Execução**: ação padrão
+
+O objeto tocado emite uma luz brilhante como o sol, que ilumina 18m de raio. Essa luz intensa afeta criaturas que sofrem algum tipo de penalidade à luz do dia, mas não é luz do sol real (não causa dano a vampiros, por exemplo).

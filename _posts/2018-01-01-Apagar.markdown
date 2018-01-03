@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Apagar"
+date:   2018-01-01
+source: Módulo Básico 153, Módulo Básico Edição Revisada 163.
+tags: [nenhum, bardo]
+---
+
+**arcana 1 (transmutação)**
+
+**Alcance**: 9m
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: instantânea
+
+**Alvo**: 1 pergaminho (ou objeto similar)
+
+**Tempo de Execução**: ação padrão
+
+Esta magia apaga um texto mundano ou mágico de um pergaminho, folha de papel, papiro ou objeto similar.
+Textos mundanos são removidos automaticamente. Para remover um texto mágico, como runas explosivas, símbolo de proteção, selo da serpente sépia ou marca arcana, o conjurador precisa ser bem-sucedido em um teste de Identificar Magia (CD 20 + nível da magia). Se o conjurador não conseguir apagar um texto mágico como runas explosivas, ele será ativado acidentalmente.

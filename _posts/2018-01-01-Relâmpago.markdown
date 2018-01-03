@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Relâmpago"
+date:   2018-01-01
+source: Módulo Básico 197, Módulo Básico Edição Revisada 207.
+tags: [nenhum, bardo]
+---
+
+**arcana 3 (eletricidade)**
+
+**Duração**: instantânea
+
+**Alcance**: 30m
+
+**Teste de Resistência**: Reflexos reduz à metade.
+
+**Área**: linha
+
+**Tempo de Execução**: ação padrão
+
+Uma poderosa magia de ataque, relâmpago cria um raio elétrico que causa 6d6 pontos de dano em todas as criaturas na área.

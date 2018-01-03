@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Aziago"
+date:   2018-01-01
+source: Mundo dos Deuses 148.
+tags: [nenhum, bardo]
+---
+
+**arcana 3, divina 3 (caos)**
+
+**Alcance**: 9m
+
+**Teste de Resistência**: Vontade anula.
+
+**Duração**: 1 minuto
+
+**Alvo**: 1 criatura
+
+**Efeito**: emanação com 4,5m de raio
+
+**Tempo de Execução**: ação padrão
+
+Esta magia direciona energias caóticas num turbilhão que envolve o alvo, diminuindo as chances de sucesso de todos à sua volta. Criaturas dentro da emanação centrada no alvo sofrem uma penalidade de –2 em jogadas de ataque e dano, em testes de habilidade, resistência e perícia, e na classe de armadura. A criatura que é o centro da emanação não é afetada por estas penalidades.

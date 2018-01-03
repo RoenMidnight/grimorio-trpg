@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Sombras"
+date:   2018-01-01
+source: Módulo Básico 203, Módulo Básico Edição Revisada 213.
+tags: [nenhum, bardo]
+---
+
+**arcana 9 (ilusão).**
+
+Como conjuração de sombras, mas você pode copiar qualquer magia arcana de 8º nível ou menor. Além disso, criaturas que percebam ser uma ilusão sofrem 75% do dano ou efeito da magia (em vez de apenas 25%).

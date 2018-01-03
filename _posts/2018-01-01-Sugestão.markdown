@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Sugestão"
+date:   2018-01-01
+source: Módulo Básico 203, Módulo Básico Edição Revisada 213.
+tags: [nenhum, bardo]
+---
+
+**arcana 3 (encantamento)**
+
+**Alcance**: 9m
+
+**Teste de Resistência**: Vontade anula.
+
+**Duração**: 1 dia ou até ser completada
+
+**Alvo**: 1 criatura
+
+**Tempo de Execução**: ação padrão
+
+Você sugere um curso de ação para uma criatura... e ela obedece! A sugestão deve ser feita de modo que pareça aceitável.
+Pedir a um hobgoblin que pule em um precipício, por exemplo, anula a magia. Mas sugerir a um guarda que descanse um pouco (de modo que você e seus aliados passem por ele) é plenamente razoável.
+A magia dura um dia, ou até a criatura executar a ação sugerida, o que acontecer primeiro. Você também pode determinar uma condição específica para a sugestão:
+por exemplo, que um rico mercador doe suas moedas para o primeiro mendigo que encontrar. Se a condição não ocorrer em um dia, a sugestão é perdida.

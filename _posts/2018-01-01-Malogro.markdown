@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Malogro"
+date:   2018-01-01
+source: Módulo Básico 181, Módulo Básico Edição Revisada 191.
+tags: [nenhum, bardo]
+---
+
+**arcana 5, divina 4 (necromancia)**
+
+**Alcance**: toque
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: instantânea
+
+**Alvo**: 1 planta
+
+**Tempo de Execução**: ação padrão
+
+Malogro faz a planta tocada murchar e morrer. Caso a planta seja uma criatura, ela sofre 8d6 pontos de dano.

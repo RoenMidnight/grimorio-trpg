@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Libertação"
+date:   2018-01-01
+source: Módulo Básico 180, Módulo Básico Edição Revisada 190.
+tags: [nenhum, bardo]
+---
+
+**arcana 9 (abjuração)**
+
+**Alcance**: 9m
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: instantânea
+
+**Alvo**: 1 criatura
+
+**Tempo de Execução**: ação padrão
+
+O alvo é libertado de todos os efeitos que restringem o movimento, incluindo aprisionamento, constrição, estase temporal, labirinto, lentidão, petrificação, prisão, sono, teia, atordoamento, paralisia e a manobra agarrar.
+Para libertar uma vítima de aprisionamento é necessário saber seu nome e história, e lançar a magia no local onde foi presa.
