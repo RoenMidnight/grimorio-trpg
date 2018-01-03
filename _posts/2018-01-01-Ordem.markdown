@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Ordem"
+date:   2018-01-01
+source: Módulo Básico 189, Módulo Básico Edição Revisada 199.
+tags: [nenhum, bardo]
+---
+
+**arcana 8 (encantamento)**
+
+**Teste de Resistência**: Vontade parcial.
+
+Como enviar mensagem, mas a mensagem também pode conter uma sugestão.
+Um teste de Vontade bem-sucedido anula a sugestão, mas não impede a mensagem.

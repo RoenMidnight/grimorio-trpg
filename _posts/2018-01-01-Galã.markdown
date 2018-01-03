@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Galã"
+date:   2018-01-01
+source: Manual do Arcano 78.
+tags: [nenhum, bardo]
+---
+
+**arcana 2 (encantamento, ilusão)**
+
+**Alcance**: pessoal
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: 10 minutos
+
+**Alvo**: você
+
+**Tempo de Execução**: ação padrão
+
+Esta magia concede-lhe um rosto idealizado, porte físico garboso, voz melodiosa e olhar sedutor, transformando-o em um galã (homens) ou diva (mulheres).
+Enquanto galã estiver ativa, seu Carisma torna-se 18 (ou recebe um bônus de +2, caso seja 18 ou maior) e você recebe um bônus de +4 nos testes de Diplomacia ou Enganação contra qualquer um que possa se sentir fisicamente atraído por você.
+Quando esta magia acabar, quaisquer observadores perceberão a mudança, e tendem a suspeitar de você. Da mesma maneira, pessoas que viram-no sob o efeito da magia sentirão que “algo está errado” ao vê-lo em condições normais.
+Você pode pagar os PM e o componente material da magia novamente no último minuto de sua duração, e ela será renovada por mais 10 minutos.
+Componente material: perfume, flores e uma caixa de gorad no valor de 10 TO.

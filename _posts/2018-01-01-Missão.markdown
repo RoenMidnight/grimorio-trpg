@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Missão"
+date:   2018-01-01
+source: Módulo Básico 184, Módulo Básico Edição Revisada 194.
+tags: [nenhum, bardo]
+---
+
+**arcana 6, divina 6 (encantamento)**
+
+**Teste de Resistência**: nenhum.
+
+**Alvo**: 1 criatura
+
+**Tempo de Execução**: 10 minutos
+
+Como missão menor, mas pode afetar uma criatura de qualquer nível e não permite teste de resistência. Além disso, além de sofrer penalidades nas suas habilidades, o alvo sofre 3d6 pontos de dano cada dia em que não tentar completar sua missão.

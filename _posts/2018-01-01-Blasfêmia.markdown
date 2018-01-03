@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Blasfêmia"
+date:   2018-01-01
+source: Módulo Básico 156, Módulo Básico Edição Revisada 166.
+tags: [nenhum, bardo]
+---
+
+**divina 7 (mal, sônico)**
+
+**Duração**: instantânea
+
+**Alcance**: 9m
+
+**Teste de Resistência**: Vontade anula.
+
+**Área**: dispersão com 9m de raio
+
+**Tempo de Execução**: ação padrão
+
+As criaturas não Malignas na área sofrem um efeito que depende de seu nível:
+• Acima de 14º nível ficam pasmas por uma rodada.
+• Entre 7º e 14º nível sofrem 2d6 pontos de dano temporário de Força, e ficam pasmas por uma rodada.
+• Abaixo de 7º nível morrem.
+Além disso, se você estiver em seu plano nativo, todos os espíritos não Malignos são banidos para seu plano de origem.

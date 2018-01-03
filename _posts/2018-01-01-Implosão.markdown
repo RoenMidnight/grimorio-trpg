@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Implosão"
+date:   2018-01-01
+source: Módulo Básico 177, Módulo Básico Edição Revisada 187.
+tags: [nenhum, bardo]
+---
+
+**divina 9 (fogo)**
+
+**Duração**: concentração, até 5 rodadas
+
+**Alvos**: 1 criatura corpórea por rodada
+
+**Teste de Resistência**: Fortitude anula.
+
+**Alcance**: 9m
+
+**Tempo de Execução**: ação padrão
+
+Você cria uma explosão dentro do corpo de uma criatura, que a destrói completamente por dentro, causando sua morte. A cada rodada, você pode se concentrar para afetar outra criatura diferente. Uma mesma criatura não pode ser afetada mais de uma vez pela mesma implosão.

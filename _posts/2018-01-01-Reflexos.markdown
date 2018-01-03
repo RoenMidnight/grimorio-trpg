@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Reflexos"
+date:   2018-01-01
+source: Módulo Básico 197, Módulo Básico Edição Revisada 207.
+tags: [nenhum, bardo]
+---
+
+**arcana 2 (ilusão)**
+
+**Alcance**: pessoal
+
+**Duração**: 1 minuto (D).
+
+**Alvo**: você
+
+**Tempo de Execução**: ação padrão
+
+Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imitam suas ações, tornando difícil para um inimigo saber quem atacar.
+Você recebe CA+6. Cada vez que um ataque contra você erra, uma das imagens desaparece, e o bônus na CA diminui em 2.
+Um atacante precisa ser capaz de ver as cópias para ser confundido. Se você estiver invisível, ou o atacante de olhos fechados, você não recebe o bônus (mas o atacante ainda sofre penalidades normais por não enxergar).

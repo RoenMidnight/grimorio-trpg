@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Disjunção"
+date:   2018-01-01
+source: Módulo Básico 168, Módulo Básico Edição Revisada 178.
+tags: [nenhum, bardo]
+---
+
+**arcana 9 (abjuração)**
+
+**Duração**: instantânea
+
+**Alcance**: 9m
+
+**Teste de Resistência**: nenhum ou Vontade anula (veja texto).
+
+**Área**: explosão com 12m de raio
+
+**Tempo de Execução**: ação padrão
+
+Todos os efeitos mágicos na área são dissipados, e todos os itens mágicos — exceto aqueles que o conjurador carrega — se tornam itens mundanos. Itens mágicos têm direito a um teste de resistência para evitar esse efeito.
+Esta poderosa magia tem 10% de chance de destruir um artefato que esteja na área. Se isso acontecer, você deve fazer um teste de Vontade (CD 25); se falhar, perderá permanentemente todas as suas habilidades de conjuração — esse é o alto preço por destruir um artefato. Essas habilidades não podem ser recuperadas por nenhum meio mortal (nem mesmo desejo ou milagre), apenas por intervenção direta de um deus maior.

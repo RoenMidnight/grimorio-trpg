@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Comunhão"
+date:   2018-01-01
+source: Módulo Básico 160, Módulo Básico Edição Revisada 170.
+tags: [nenhum, bardo]
+---
+
+**divina 5 (adivinhação)**
+
+**Alcance**: pessoal
+
+**Duração**: concentração, até 1 minuto.
+
+**Alvo**: você
+
+**Tempo de Execução**: 10 minutos
+
+Você contata seu deus (ou um de seus representantes) e faz perguntas que possam ser respondidas com “sim” ou “não”. Você pode fazer uma pergunta por rodada. É possível que sua divindade responda “não sei” — embora poderosos, os deuses do Panteão não são oniscientes.
+Custo em XP: 100 XP.

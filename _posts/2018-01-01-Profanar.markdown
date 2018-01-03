@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Profanar"
+date:   2018-01-01
+source: Módulo Básico 194, Módulo Básico Edição Revisada 204.
+tags: [nenhum, bardo]
+---
+
+**divina 2 (mal)**
+
+**Duração**: 1 dia
+
+**Alcance**: 9m
+
+**Teste de Resistência**: nenhum.
+
+**Área**: emanação com 6m de raio
+
+**Tempo de Execução**: ação completa
+
+Esta magia amaldiçoa a área com energia negativa. Qualquer uso de canalizar energia negativa na área causa 50% a mais de dano, e mortos-vivos na área recebem um +1 nas jogadas e testes de resistência. Esta magia não pode ser lançada em uma área com um símbolo dedicado a um deus de tendência oposta ao patrono do conjurador.
+Profanar anula consagrar.

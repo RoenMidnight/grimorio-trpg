@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Grito"
+date:   2018-01-01
+source: Módulo Básico 175, Módulo Básico Edição Revisada 185.
+tags: [nenhum, bardo]
+---
+
+**arcana 4 (sônico)**
+
+**Duração**: instantânea
+
+**Alcance**: 9m
+
+**Teste de Resistência**: Fortitude parcial.
+
+**Área**: explosão em cone
+
+**Tempo de Execução**: ação padrão
+
+Você emite um som de estourar os tímpanos, que causa 4d6 pontos de dano e deixa as criaturas na área surdas por um minuto. Um teste de Fortitude bem-sucedido reduz o dano à metade e evita a surdez. Qualquer objeto frágil ou cristalino na área será quebrado; criaturas que estejam segurando objetos frágeis podem evitar isso com um teste de Reflexos.
+Grito não penetra uma área de silêncio.

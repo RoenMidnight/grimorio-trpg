@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Bênção"
+date:   2018-01-01
+source: Módulo Básico 156, Módulo Básico Edição Revisada 166.
+tags: [nenhum, bardo]
+---
+
+**divina 1 (encantamento)**
+
+**Alcance**: 9m
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: 1 minuto
+
+**Alvo**: todos os aliados dentro de 9m
+
+**Tempo de Execução**: ação padrão
+
+Seus aliados recebem um bônus de +1
+nas jogadas de ataque e nos testes de resistência contra medo.
+Bênção anula perdição.

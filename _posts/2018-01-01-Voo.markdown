@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Voo"
+date:   2018-01-01
+source: Módulo Básico 209, Módulo Básico Edição Revisada 219.
+tags: [nenhum, bardo]
+---
+
+**arcana 3 (transmutação)**
+
+**Alcance**: toque
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: 1 minuto
+
+**Alvo**: 1 criatura
+
+**Tempo de Execução**: ação padrão
+
+O alvo desta magia pode voar com deslocamento de 18m. Voar através desta magia é simples como andar — por isso o alvo pode atacar e lançar magias normalmente enquanto voa. Quando a magia termina o alvo desce lentamente até o chão, como se estivesse sob efeito de queda suave.

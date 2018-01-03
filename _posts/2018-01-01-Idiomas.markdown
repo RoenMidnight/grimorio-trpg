@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Idiomas"
+date:   2018-01-01
+source: Módulo Básico 176, Módulo Básico Edição Revisada 186.
+tags: [nenhum, bardo]
+---
+
+**arcana 3, divina 4 (adivinhação)**
+
+**Alcance**: toque
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: 1 hora
+
+**Alvo**: 1 criatura
+
+**Tempo de Execução**: ação padrão
+
+O alvo consegue entender e falar qualquer idioma existente. Idiomas não permite se comunicar com criaturas que normalmente não falam, como animais ou plantas.

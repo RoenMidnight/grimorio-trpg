@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Véu"
+date:   2018-01-01
+source: Módulo Básico 207, Módulo Básico Edição Revisada 217.
+tags: [nenhum, bardo]
+---
+
+**arcana 6 (ilusão)**
+
+**Duração**: 1 dia (D)
+
+**Alvos**: até 5 criaturas
+
+**Teste de Resistência**: nenhum ou Vontade anula (veja texto).
+
+**Alcance**: 90m
+
+**Tempo de Execução**: ação padrão
+
+A aparência dos alvos muda para qualquer outra, com no máximo duas categorias de tamanho de diferença. Os alvos adquirem a aparência, cheiro e consistência da nova forma, mas voltam à forma normal se morrerem. Você precisa ser bem-sucedido em um teste de Enganação (com bônus de +10) se quiser imitar a aparência de um indivíduo específico.
+Alvos involuntários podem anular a magia com um teste de Vontade. Qualquer um que interaja com os alvos também pode fazer um teste de Vontade para perceber que se trata de uma ilusão.

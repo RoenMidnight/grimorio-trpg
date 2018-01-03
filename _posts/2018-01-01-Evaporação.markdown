@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Evaporação"
+date:   2018-01-01
+source: Módulo Básico 173, Módulo Básico Edição Revisada 183.
+tags: [nenhum, bardo]
+---
+
+**arcana 8 (necromancia)**
+
+**Duração**: instantânea
+
+**Alvos**: qualquer quantidade de criaturas vivas
+
+**Teste de Resistência**: Fortitude reduz à metade.
+
+**Alcance**: 90m
+
+**Tempo de Execução**: ação padrão
+
+Esta magia evapora os líquidos corporais de qualquer criatura viva à sua escolha dentro do alcance, causando 16d6 pontos de dano. Contra plantas monstruosas e elementais da água, esta magia é ainda mais devastadora, causando 16d8 pontos de dano.

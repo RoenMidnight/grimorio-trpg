@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Megalon"
+date:   2018-01-01
+source: Mundo de Arton 33.
+tags: [nenhum, bardo]
+---
+
+**arcana 6, divina 6 (transmutação)**
+
+**Alcance**: 30m
+
+**Teste de Resistência**: nenhum (veja texto).
+
+**Duração**: 1 minuto
+
+**Alvo**: 1 criatura não humanoide
+
+**Tempo de Execução**: 1 ação padrão
+
+Esta magia torna uma criatura maior e mais forte. Em termos de regras, a criatura aumenta uma categoria de tamanho e recebe 4 níveis, Força +8, Constituição +4 e redução de dano 10.
+Diz a lenda que esta magia recebeu o nome de seu criador, Megalon, um antigo e poderoso sumo-sacerdote de Megalokk.
+Usando-a em conjunto com permanência, ele criou no passado versões gigantescas de diversos monstros. Essas criaturas titânicas e únicas são conhecidas como “megalontes”, e ainda podem ser encontradas vagando em lugares inóspitos.
+Criaturas que recebem a magia contra a vontade têm direito a um teste de Fortitude para negar o efeito.

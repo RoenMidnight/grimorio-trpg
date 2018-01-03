@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Heroísmo"
+date:   2018-01-01
+source: Módulo Básico 175, Módulo Básico Edição Revisada 185.
+tags: [nenhum, bardo]
+---
+
+**arcana 3 (encantamento)**
+
+**Alcance**: toque
+
+**Teste de Resistência**: nenhum.
+
+**Duração**: 1 hora (D)
+
+**Alvo**: 1 criatura
+
+**Tempo de Execução**: ação padrão
+
+Esta magia imbui uma criatura com coragem e valentia. O alvo recebe um bônus de +2 nas jogadas de ataque e testes de resistência.
