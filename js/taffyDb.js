@@ -21,6 +21,9 @@
             for (var c in a) {
                 let d = a[c].link.split('/');
                 d = d[d.length-1];
+                    
+                $('a[href="/grimorio-trpg/spells/'+d+'"]').next('i').attr('class','fa fa-star');
+                $('a[href="/grimorio-trpg/spells/'+d+'"]').next('i').attr('id','delete-spell');
 
                 console.log(d);
                 $('<tr><td><a href="/spells/' + d + '">' + a[c].name + '</a></td> <td><button id="delete" data-delete="' + a[c].___id + '">Remover</button></td></tr>').appendTo(".quadradoMagias")
@@ -45,9 +48,6 @@
                         
             let a = $(this).prev()[0].text;
             let b = $(this).prev()[0].href;
-
-            $(this).attr('class','fa fa-star');
-            $(this).attr('id','delete-spell');
 
             addSpell(a,b);//, $(this).text("(added successfully!)")
         }), 
