@@ -343,8 +343,12 @@ dl.tag-list {
   color: #828282; }
 
 .post-link {
-  display: block;
+  display: inline-flex;
   font-size: 18px; }
+
+a.post-link {
+  padding-right: 5px;
+}
 
 .class-list .page-heading {
   color: #828282; }
