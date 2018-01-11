@@ -23,15 +23,14 @@
             $(".quadradoMagias").empty();
             var a = magias({}).get();
             JSON.stringify(magias({}).get());
-            console.log(a);
+            
             for (var c in a) {
                 let d = a[c].link.split('/');
                 d = d[d.length-1];
                     
                 $('a[href="/grimorio-trpg/spells/'+d+'"]').next('i').attr('class','fa fa-star');
                 $('a[href="/grimorio-trpg/spells/'+d+'"]').next('i').attr('id','delete-spell');
-
-                console.log(d);
+                    
                 $('<tr><td><a target="_blank" href="/grimorio-trpg/spells/' + d + '">' + a[c].name + '</a></td> <td><button id="delete" data-delete="' + a[c].___id + '">Remover</button></td></tr>').appendTo(".quadradoMagias")
             }
         }
