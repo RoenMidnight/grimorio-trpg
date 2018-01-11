@@ -581,3 +581,10 @@ td {
 
 .hide {
   display: none; }
+
+#add-spell{
+  cursor:pointer;
+}
+#delete-spell{
+  cursor:pointer;
+}
