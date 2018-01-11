@@ -1,6 +1,12 @@
         var magias = TAFFY();
 
         function removeSpell(a) {
+            let d = magias({___id:a}).get()[0].link.split('/');
+            d = d[d.length-1];
+
+            $('a[href="/grimorio-trpg/spells/'+d+'"]').next('i').attr('class','fa fa-star-o');
+            $('a[href="/grimorio-trpg/spells/'+d+'"]').next('i').attr('id','add-spell');
+                
             console.log("Removed " + a), magias({
                 ___id: a
             }).remove(), updateSpelllist()
