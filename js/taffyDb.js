@@ -26,7 +26,7 @@
                 $('a[href="/grimorio-trpg/spells/'+d+'"]').next('i').attr('id','delete-spell');
 
                 console.log(d);
-                $('<tr><td><a href="/spells/' + d + '">' + a[c].name + '</a></td> <td><button id="delete" data-delete="' + a[c].___id + '">Remover</button></td></tr>').appendTo(".quadradoMagias")
+                $('<tr><td><a target="_blank" href="/spells/' + d + '">' + a[c].name + '</a></td> <td><button id="delete" data-delete="' + a[c].___id + '">Remover</button></td></tr>').appendTo(".quadradoMagias")
             }
         }
         jQuery(function(a) {
