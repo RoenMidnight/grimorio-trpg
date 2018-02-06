@@ -1,0 +1,16 @@
+Nome
+Nível
+Tempo de Execução
+Alcance
+Alvo
+Duração
+Teste de Resistência
+Fonte
+Descrição
+Efeito
+Área
+Alvos
+Alvo ou Área
+Alvo ou Área ou Efeito
+Alvo ou Efeito
+Alvo ou Alvos

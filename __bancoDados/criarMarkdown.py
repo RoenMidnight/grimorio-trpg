@@ -18,8 +18,7 @@ def parserJson(magica):
     data['Nome'] = spell[:spell.find('\n')]
 
     spell = spell[spell.find('\n') + 1:]
-    # cab = spell[:spell.find('\n') - 1]
-    cab = spell[:spell.find('\n')]
+    cab = spell[:spell.find('\n') - 1]
     spell = spell[spell.find('\n') + 1:]
     cabecalho = cab.split('; ')
 
