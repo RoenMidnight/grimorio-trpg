@@ -1,0 +1,59 @@
+{
+  "Magias": [
+    {
+      "Nome": "Metamorfose de Vladislav",
+      "Nível": "arcana 4 (transmutação)",
+      "Tempo de Execução": "ação padrão",
+      "Alcance": "toque",
+      "Alvo": "até 5 criaturas voluntárias",
+      "Duração": "1d6+1 dias",
+      "Teste de Resistência": "nenhum",
+      "Fonte": "Expedição à Aliança Negra 48.",
+      "Descrição": "Essa magia é uma versão altamente especializada de metamorfose, que transforma os alvos em goblinoides — e apenas em goblinoides. Os alvos devem ser voluntários e pertencentes ao tipo humanoide.\nOs alvos são transformados em goblinoides, mas nem eles, nem o conjurador podem escolher a raça específica. Determine a raça exata rolando 1d% e consultando a coluna correspondente à raça original do alvo.\nGoblin\nHobgoblin\nBugbear\nOrc\nOgro\nHumano ou lefou\n01-20\n21-50\n51-70\n71-100\n-\nAnão ou halfling\n01-100\n-\n-\n-\n-\nElfo ou qareen\n-\n01-50\n-\n51-100\n-\nMinotauro\n-\n-\n01-50\n-\n51-100\nOutro\n01-20\n21-40\n41-60\n61-80\n81-100\nPela duração da magia, o personagem adquire o tamanho, deslocamento e modificadores de habilidades físicas (For, Des e Con) da nova raça.\nGoblin: tamanho Pequeno, desl. 9m; +4 Des, +2 Con.\nHobgoblin: tamanho Médio, desl. 9m; +2 Des, +4 Con.\nBugbear: tamanho Médio, desl. 9m; +4 For, +2 Des, +2 Con.\nOrc: tamanho Médio, desl. 9m; +4 For, +2 Con.\nOgro: tamanho Grande, desl. 9m; +10 For, –2 Des, +4 Con."
+    },
+    {
+      "Nome": "Adaptação Ambiental",
+      "Nível": "arcana 5 (transmutação)",
+      "Tempo de Execução": "ação padrão",
+      "Alcance": "toque",
+      "Alvo": "uma criatura",
+      "Duração": "1 hora",
+      "Fonte": "Mundo dos Deuses 147.",
+      "Descrição": "A criatura tocada fica imune aos efeitos de ambientes hostis, como lava, vácuo, calor e frio extremos e ambientes subaquáticos, podendo respirar e se mover normalmente nessas condições e não sofrendo nenhum dano por elas."
+    },
+    {
+      "Nome": "Âncora Gravitacional",
+      "Nível": "arcana 2 (essência, terra)",
+      "Tempo de Execução": "ação padrão",
+      "Alcance": "9m",
+      "Alvo": "uma criatura Grande ou menor",
+      "Duração": "1 minuto",
+      "Teste de Resistência": "Fortitude anula",
+      "Fonte": "Mundo dos Deuses 147.",
+      "Descrição": "Os efeitos da gravidade sobre o alvo são aumentados em um passo. Se estiver em um gog’magogue ou asteroide pequeno, passa a ser considerado como se estivesse em um asteroide médio; em um médio, como em um mundo de gravidade normal; em um mundo normal, recebe a condição lento.\nÂncora gravitacional cancela reduzir gravidade."
+    },
+    {
+      "Nome": "Azar Atípico",
+      "Nível": "arcana 2, divina 2 (caos)",
+      "Tempo de Execução": "ação padrão",
+      "Alcance": "9m",
+      "Alvo": "1 criatura",
+      "Duração": "instantânea",
+      "Teste de Resistência": "Vontade anula",
+      "Fonte": "Mundo dos Deuses 148.",
+      "Descrição": "A criatura afetada por esta magia é subitamente afetada por uma onda de azar que a prejudica em sua próxima ação. Em sua próxima rolagem de d20, a criatura é automaticamente considerada como se tivesse rolado “1”.\nO efeito é válido para jogadas de ataque, testes de resistência, habilidade ou perícia. A magia não afeta rolagens de dano, jogadas em tabelas ou quaisquer outras. Esse “1” não é considerado 1 natural — como para propósitos de falha automática em jogadas de ataque, por  exemplo. Azar atípico cancela sorte súbita."
+    },
+    {
+      "Nome": "Aziago",
+      "Nível": "arcana 3, divina 3 (caos)",
+      "Tempo de Execução": "ação padrão",
+      "Alcance": "9m",
+      "Alvo": "1 criatura",
+      "Efeito": "emanação com 4,5m de raio",
+      "Duração": "1 minuto",
+      "Teste de Resistência": "Vontade anula",
+      "Fonte": "Mundo dos Deuses 148.",
+      "Descrição": "Esta magia direciona energias caóticas num turbilhão que envolve o alvo, diminuindo as chances de sucesso de todos à sua volta. Criaturas dentro da emanação centrada no alvo sofrem uma penalidade de –2 em jogadas de ataque e dano, em testes de habilidade, resistência e perícia, e na classe de armadura. A criatura que é o centro da emanação não é afetada por estas penalidades."
+    }
+  ]
+}
