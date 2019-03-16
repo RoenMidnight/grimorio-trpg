@@ -47,7 +47,7 @@
         }), 
 
         $(document).on("click","#grimorio", function(){
-            $('.quadradoDireito').toggle();
+            $('.quadradoLista').toggle();
             $('.quadradoMagias').toggle();
         });
 
